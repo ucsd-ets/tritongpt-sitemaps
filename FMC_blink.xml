@@ -40,7 +40,7 @@
     <loc>https://blink.ucsd.edu/buy-pay/contract-svcs/independent/prehire/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/buy-pay/contract-svcs/independent/SOW/index.html</loc>
+    <loc>https://blink.ucsd.edu/buy-pay/contract-svcs/independent/sow/index.html</loc>
   </url>
   <url>
     <loc>https://blink.ucsd.edu/buy-pay/contract-svcs/index.html</loc>
@@ -106,7 +106,7 @@
     <loc>https://blink.ucsd.edu/buy-pay/goods/comp-tech/supplies.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/buy-pay/goods/EIS/index.html</loc>
+    <loc>https://blink.ucsd.edu/buy-pay/goods/eis/index.html</loc>
   </url>
   <url>
     <loc>https://blink.ucsd.edu/buy-pay/goods/equipment/equipment-financing.html</loc>
@@ -880,10 +880,10 @@
     <loc>https://blink.ucsd.edu/finance/awards/cost-sharing/system/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/finance/awards/effort/ECERT/faq.html</loc>
+    <loc>https://blink.ucsd.edu/finance/awards/effort/ecert/faq.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/finance/awards/effort/ECERT/index.html</loc>
+    <loc>https://blink.ucsd.edu/finance/awards/effort/ecert/index.html</loc>
   </url>
   <url>
     <loc>https://blink.ucsd.edu/finance/awards/effort/index.html</loc>
@@ -958,7 +958,7 @@
     <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/extension.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/FDP.html</loc>
+    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/fdp.html</loc>
   </url>
   <url>
     <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/flowthrough.html</loc>
@@ -979,13 +979,13 @@
     <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/intercampus.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/Managing Deficit.html</loc>
+    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/managing deficit.html</loc>
   </url>
   <url>
     <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/nsf-reu-payment-process.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/Participant Support Costs.html</loc>
+    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/participant support costs.html</loc>
   </url>
   <url>
     <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/preaward.html</loc>
@@ -997,7 +997,7 @@
     <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/reporting.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/SNAP.html</loc>
+    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/snap.html</loc>
   </url>
   <url>
     <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/sparcm.html</loc>
@@ -1378,7 +1378,7 @@
     <loc>https://blink.ucsd.edu/finance/costing-analysis/ssa/activity-types/recharge-activity .html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/finance/costing-analysis/ssa/activity-types/service-agreements-by-non-recharge Units .html</loc>
+    <loc>https://blink.ucsd.edu/finance/costing-analysis/ssa/activity-types/service-agreements-by-non-recharge units .html</loc>
   </url>
   <url>
     <loc>https://blink.ucsd.edu/finance/costing-analysis/ssa/forms-templates/index.html</loc>
@@ -1420,7 +1420,7 @@
     <loc>https://blink.ucsd.edu/finance/costing-analysis/ssa/ssa-processes/managingssea/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/finance/equipment-mgmt/CAMS.html</loc>
+    <loc>https://blink.ucsd.edu/finance/equipment-mgmt/cams.html</loc>
   </url>
   <url>
     <loc>https://blink.ucsd.edu/finance/equipment-mgmt/get-help/contacts.html</loc>
@@ -1585,190 +1585,190 @@
     <loc>https://blink.ucsd.edu/finance/tax/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/admin/contacts.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/admin/contacts.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/admin/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/admin/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/admin/mission-vision.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/admin/mission-vision.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/admin/org-chart.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/admin/org-chart.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/btop/finance-budget/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/btop/finance-budget/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/btop/finance-budget/org-chart.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/btop/finance-budget/org-chart.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/btop/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/btop/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/btop/org-chart.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/btop/org-chart.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/btop/workforce-optimize/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/btop/workforce-optimize/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/btop/workforce-optimize/org-chart.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/btop/workforce-optimize/org-chart.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/cashier/contacts.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/cashier/contacts.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/cashier/emarkets.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/cashier/emarkets.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/cashier/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/cashier/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/cashier/org-chart.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/cashier/org-chart.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/controller/bankruptcy-proof-of-claim/form.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/controller/bankruptcy-proof-of-claim/form.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/controller/bankruptcy-proof-of-claim/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/controller/bankruptcy-proof-of-claim/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/controller/bankruptcy-proof-of-claim/process.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/controller/bankruptcy-proof-of-claim/process.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/controller/contacts.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/controller/contacts.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/controller/deadlines.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/controller/deadlines.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/controller/how-tos.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/controller/how-tos.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/controller/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/controller/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/controller/lawsuits-class-action.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/controller/lawsuits-class-action.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/controller/letter.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/controller/letter.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/controller/org-chart.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/controller/org-chart.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/controller/RPR/2003/group.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/controller/rpr/2003/group.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/controller/RPR/2003/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/controller/rpr/2003/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/controller/RPR/2008/group.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/controller/rpr/2008/group.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/controller/RPR/2008/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/controller/rpr/2008/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/controller/RPR/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/controller/rpr/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/controller/vision-mission.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/controller/vision-mission.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/finops/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/finops/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/ipps/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/ipps/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/ipps/status/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/ipps/status/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/payroll/foreign/ealn.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/payroll/foreign/ealn.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/payroll/foreign/glacier.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/payroll/foreign/glacier.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/payroll/foreign/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/payroll/foreign/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/payroll/foreign/visitors/faq.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/payroll/foreign/visitors/faq.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/payroll/foreign/visitors/GL4foreign.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/payroll/foreign/visitors/gl4foreign.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/payroll/foreign/visitors/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/payroll/foreign/visitors/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/payroll/foreign/visitors/nrafelltax.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/payroll/foreign/visitors/nrafelltax.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/payroll/foreign/visitors/residency.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/payroll/foreign/visitors/residency.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/payroll/foreign/visitors/tax-treaty-renewal.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/payroll/foreign/visitors/tax-treaty-renewal.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/payroll/foreign/visitors/taxrptforms.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/payroll/foreign/visitors/taxrptforms.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/payroll/foreign/visitors/treaties.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/payroll/foreign/visitors/treaties.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/payroll/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/payroll/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/payroll/timekeeping/deadline.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/payroll/timekeeping/deadline.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/payroll/timekeeping/ecotime/eco-enhancements.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/payroll/timekeeping/ecotime/eco-enhancements.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/payroll/timekeeping/ecotime/eco-support/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/payroll/timekeeping/ecotime/eco-support/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/payroll/timekeeping/ecotime/eco-support/support-contacts.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/payroll/timekeeping/ecotime/eco-support/support-contacts.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/payroll/timekeeping/ecotime/faq/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/payroll/timekeeping/ecotime/faq/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/payroll/timekeeping/ecotime/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/payroll/timekeeping/ecotime/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/payroll/timekeeping/ecotime/training.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/payroll/timekeeping/ecotime/training.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/payroll/timekeeping/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/payroll/timekeeping/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/spf/accountantsearch.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/spf/accountantsearch.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/spf/contacts.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/spf/contacts.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/spf/content.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/spf/content.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/spf/directions.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/spf/directions.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/spf/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/spf/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/spf/org-chart.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/spf/org-chart.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/divisions/ucpath/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/divisions/ucpath/index.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/sponsor/BFS/index.html</loc>
+    <loc>https://blink.ucsd.edu/sponsor/bfs/index.html</loc>
   </url>
   <url>
     <loc>https://blink.ucsd.edu/travel/concur-travel/agencies.html</loc>
@@ -1921,7 +1921,7 @@
     <loc>https://blink.ucsd.edu/travel/general/travel-process.html</loc>
   </url>
   <url>
-    <loc>https://blink.ucsd.edu/travel/general/TSA.html</loc>
+    <loc>https://blink.ucsd.edu/travel/general/tsa.html</loc>
   </url>
   <url>
     <loc>https://blink.ucsd.edu/travel/guidelines-remote.html</loc>
@@ -2045,5 +2045,116 @@
   </url>
   <url>
     <loc>https://blink.ucsd.edu/travel/travel-policy/wire-draft.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/research/sra/index.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/research/sra/solicitations-sponsors/index.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/research/sra/preparing-proposals/index.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/research/sra/post-submission-just-in-time/index.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/research/sra/negotiation-award-acceptance/index.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/research/sra/managing-awards-closeouts/index.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/research/sra/other-agreements/index.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/research/sra/systems-tools-resources/index.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/research/sra/data-reports-analytics/index.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/research/sra/get-help-training/index.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/research/sra/about-spo/index.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/account-fin-mgmt/index.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/awards/compliance/index.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/awards/cost-sharing/index.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/awards/effort/index.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/awards/types.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/terms.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/intercampus.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/calculating.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/rebudgeting.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/computing.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/carryover.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/extension.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/reporting.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/exclusions.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/billing.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/document-lookup.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/collections.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/sparcm.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/awards/managing/sponsored/participant%20support%20costs.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/awards/managing/index-fund/index.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/awards/types.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/bi-financial-reporting/index.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/billing/accounts-receivable/index.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/budget/index.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/costing-analysis/ssa/index.html</loc>
+  </url>
+  <url>
+    <loc>https://blink.ucsd.edu/finance/equipment-mgmt/index.html</loc>
   </url>
 </urlset>
