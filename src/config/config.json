@@ -56,5 +56,19 @@
 	  "debug": true,
 	  "output": "vcsa.xml",
 	  "exclude": ["/_files/"]
-	}
+	},
+	{
+		"domain": "https://my.sdsu.edu",
+		"parserobots": false,
+		"debug": true,
+		"output": "mysdsu.xml",
+		"exclude": []
+	  },
+	  {
+		"domain": "https://sdsu.edu",
+		"parserobots": false,
+		"debug": true,
+		"output": "sdsu.xml",
+		"exclude": ["/news/", "/magazine/"]
+	  }
   ]
