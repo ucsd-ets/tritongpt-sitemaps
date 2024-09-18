@@ -6,12 +6,12 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-<url><loc>https://transportation.ucsd.edu/</loc><lastmod>2024-09-11T18:30:43+00:00</lastmod></url>
+<url><loc>https://transportation.ucsd.edu/</loc><lastmod>2024-09-17T23:36:58+00:00</lastmod></url>
 <url><loc>https://transportation.ucsd.edu/account/index.html</loc><lastmod>2024-08-02T18:55:49+00:00</lastmod></url>
 <url><loc>https://transportation.ucsd.edu/campus/car-sharing.html</loc><lastmod>2024-08-13T17:11:54+00:00</lastmod></url>
 <url><loc>https://transportation.ucsd.edu/campus/guide.html</loc><lastmod>2024-08-13T17:01:04+00:00</lastmod></url>
 <url><loc>https://transportation.ucsd.edu/campus/index.html</loc><lastmod>2024-08-06T18:48:10+00:00</lastmod></url>
-<url><loc>https://transportation.ucsd.edu/campus/shared.html</loc><lastmod>2024-08-29T15:07:05+00:00</lastmod></url>
+<url><loc>https://transportation.ucsd.edu/campus/shared.html</loc><lastmod>2024-09-17T16:07:43+00:00</lastmod></url>
 <url><loc>https://transportation.ucsd.edu/campus/shuttles/ada.html</loc><lastmod>2024-09-12T23:04:58+00:00</lastmod></url>
 <url><loc>https://transportation.ucsd.edu/campus/shuttles/drivers.html</loc><lastmod>2024-09-12T23:03:45+00:00</lastmod></url>
 <url><loc>https://transportation.ucsd.edu/campus/shuttles/grocery-c.html</loc><lastmod>2024-09-12T23:03:45+00:00</lastmod></url>
@@ -28,10 +28,10 @@
 <url><loc>https://transportation.ucsd.edu/commute/bicycling.html</loc><lastmod>2024-08-02T18:53:53+00:00</lastmod></url>
 <url><loc>https://transportation.ucsd.edu/commute/carpools.html</loc><lastmod>2024-08-02T18:54:21+00:00</lastmod></url>
 <url><loc>https://transportation.ucsd.edu/commute/contractor.html</loc><lastmod>2024-08-02T18:54:07+00:00</lastmod></url>
-<url><loc>https://transportation.ucsd.edu/commute/drive-electric/index.html</loc><lastmod>2024-09-04T18:33:22+00:00</lastmod></url>
-<url><loc>https://transportation.ucsd.edu/commute/drive-electric/projects.html</loc><lastmod>2024-08-02T18:54:18+00:00</lastmod></url>
+<url><loc>https://transportation.ucsd.edu/commute/drive-electric/index.html</loc><lastmod>2024-09-17T19:07:58+00:00</lastmod></url>
+<url><loc>https://transportation.ucsd.edu/commute/drive-electric/projects.html</loc><lastmod>2024-09-17T20:23:23+00:00</lastmod></url>
 <url><loc>https://transportation.ucsd.edu/commute/erh.html</loc><lastmod>2024-08-02T18:54:11+00:00</lastmod></url>
-<url><loc>https://transportation.ucsd.edu/commute/ev-stations.html</loc><lastmod>2024-08-02T18:54:19+00:00</lastmod></url>
+<url><loc>https://transportation.ucsd.edu/commute/ev-stations.html</loc><lastmod>2024-09-17T19:03:48+00:00</lastmod></url>
 <url><loc>https://transportation.ucsd.edu/commute/faculty-sr-staff.html</loc><lastmod>2024-08-02T18:53:56+00:00</lastmod></url>
 <url><loc>https://transportation.ucsd.edu/commute/first-avenue-structure.html</loc><lastmod>2024-08-02T18:53:46+00:00</lastmod></url>
 <url><loc>https://transportation.ucsd.edu/commute/flexible-parking.html</loc><lastmod>2024-08-02T18:54:02+00:00</lastmod></url>
@@ -74,8 +74,8 @@
 <url><loc>https://transportation.ucsd.edu/departments/fleet/rent.html</loc><lastmod>2024-09-06T21:00:38+00:00</lastmod></url>
 <url><loc>https://transportation.ucsd.edu/departments/index.html</loc><lastmod>2024-08-02T18:53:34+00:00</lastmod></url>
 <url><loc>https://transportation.ucsd.edu/departments/recharge.html</loc><lastmod>2024-08-02T18:53:35+00:00</lastmod></url>
-<url><loc>https://transportation.ucsd.edu/index.html</loc><lastmod>2024-09-11T18:30:43+00:00</lastmod></url>
-<url><loc>https://transportation.ucsd.edu/micromobility/index.html</loc><lastmod>2024-08-02T18:55:50+00:00</lastmod></url>
+<url><loc>https://transportation.ucsd.edu/index.html</loc><lastmod>2024-09-17T23:36:58+00:00</lastmod></url>
+<url><loc>https://transportation.ucsd.edu/micromobility/index.html</loc><lastmod>2024-09-17T22:39:53+00:00</lastmod></url>
 <url><loc>https://transportation.ucsd.edu/micromobility/register.html</loc><lastmod>2024-09-11T16:43:33+00:00</lastmod></url>
 <url><loc>https://transportation.ucsd.edu/micromobility/register.html</loc><lastmod>2024-09-11T16:43:33+00:00</lastmod></url>
 <url><loc>https://transportation.ucsd.edu/micromobility/rider-rewards.html</loc><lastmod>2024-08-02T18:55:52+00:00</lastmod></url>
