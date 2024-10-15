@@ -6,15 +6,14 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-<url><loc>https://hdh.ucsd.edu/</loc><lastmod>2024-08-26T23:23:29+00:00</lastmod></url>
-<url><loc>https://hdh.ucsd.edu/about-us/contact-us.html</loc><lastmod>2024-04-04T19:40:46+00:00</lastmod></url>
-<url><loc>https://hdh.ucsd.edu/about-us/directors.html</loc><lastmod>2024-04-04T19:40:45+00:00</lastmod></url>
-<url><loc>https://hdh.ucsd.edu/about-us/index.html</loc><lastmod>2024-04-04T19:40:45+00:00</lastmod></url>
-<url><loc>https://hdh.ucsd.edu/about-us/resources.html</loc><lastmod>2024-09-11T17:15:32+00:00</lastmod></url>
-<url><loc>https://hdh.ucsd.edu/about-us/strategic-plan.html</loc><lastmod>2024-04-04T19:40:45+00:00</lastmod></url>
-<url><loc>https://hdh.ucsd.edu/emergency.html</loc><lastmod>2024-04-04T19:40:44+00:00</lastmod></url>
-<url><loc>https://hdh.ucsd.edu/events/index.html</loc><lastmod>2024-06-10T18:07:13+00:00</lastmod></url>
-<url><loc>https://hdh.ucsd.edu/faq.html</loc><lastmod>2024-04-04T19:40:46+00:00</lastmod></url>
-<url><loc>https://hdh.ucsd.edu/hdh-covid-19-faq.html</loc><lastmod>2024-04-04T19:40:46+00:00</lastmod></url>
-<url><loc>https://hdh.ucsd.edu/index.html</loc><lastmod>2024-08-26T23:23:29+00:00</lastmod></url>
+<url><loc>https://hdh.ucsd.edu/</loc><lastmod>2024-10-14T20:32:39+00:00</lastmod></url>
+<url><loc>https://hdh.ucsd.edu/about-us/contact-us.html</loc><lastmod>2024-10-14T20:32:49+00:00</lastmod></url>
+<url><loc>https://hdh.ucsd.edu/about-us/directors.html</loc><lastmod>2024-10-14T20:32:49+00:00</lastmod></url>
+<url><loc>https://hdh.ucsd.edu/about-us/index.html</loc><lastmod>2024-10-14T20:32:49+00:00</lastmod></url>
+<url><loc>https://hdh.ucsd.edu/about-us/resources.html</loc><lastmod>2024-10-14T20:32:49+00:00</lastmod></url>
+<url><loc>https://hdh.ucsd.edu/about-us/strategic-plan.html</loc><lastmod>2024-10-14T20:32:49+00:00</lastmod></url>
+<url><loc>https://hdh.ucsd.edu/emergency.html</loc><lastmod>2024-10-14T20:32:48+00:00</lastmod></url>
+<url><loc>https://hdh.ucsd.edu/faq.html</loc><lastmod>2024-10-14T20:32:48+00:00</lastmod></url>
+<url><loc>https://hdh.ucsd.edu/hdh-covid-19-faq.html</loc><lastmod>2024-10-14T20:32:48+00:00</lastmod></url>
+<url><loc>https://hdh.ucsd.edu/index.html</loc><lastmod>2024-10-14T20:32:39+00:00</lastmod></url>
 </urlset>
