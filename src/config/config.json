@@ -58,17 +58,10 @@
 	  "exclude": ["/_files/"]
 	},
 	{
-		"domain": "https://my.sdsu.edu",
+		"domain": "https://aps.ucsd.edu",
 		"parserobots": false,
 		"debug": true,
-		"output": "mysdsu.xml",
-		"exclude": []
-	  },
-	  {
-		"domain": "https://sdsu.edu",
-		"parserobots": false,
-		"debug": true,
-		"output": "sdsu.xml",
-		"exclude": ["/news/", "/magazine/"]
+		"output": "aps.xml",
+		"exclude": ["/forms/", "/interfolio/", "/compensation/", "/oars/", "/pop/"]
 	  }
   ]

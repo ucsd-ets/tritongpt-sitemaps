@@ -38,19 +38,10 @@ else:
 
 # Loop through each configuration and run the crawler
 for config in configs:
-    # Overload config with flag parameters
     dict_arg = arg.__dict__
     for argument in config:
         if argument in dict_arg:
-            if type(dict_arg[argument]).__name__ == 'list':
-                dict_arg[argument].extend(config[argument])
-            elif type(dict_arg[argument]).__name__ == 'bool':
-                if dict_arg[argument]:
-                    dict_arg[argument] = True
-                else:
-                    dict_arg[argument] = config[argument]
-            else:
-                dict_arg[argument] = config[argument]
+            dict_arg[argument] = config[argument]
     if dict_arg.get('config'):
         del(dict_arg['config'])
 
