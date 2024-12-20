@@ -3,7 +3,7 @@ Used for manual creation of sitemaps via list of urls
 located in the manual_urls.txt file.
 """
 
-OUTPUT_FILE_NAME = 'manual_sitemap.xml'
+OUTPUT_FILE_NAME = 'TEST_manual_sitemap.xml'
 INPUT_FILE_NAME = 'manual_urls.txt'
 
 def generate_sitemap(input_file, output_file):
