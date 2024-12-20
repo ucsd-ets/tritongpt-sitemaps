@@ -63,5 +63,12 @@
 		"debug": true,
 		"output": "aps.xml",
 		"exclude": ["/forms/", "/interfolio/", "/compensation/", "/oars/", "/pop/"]
+	  },
+	  {
+		"domain": "https://ls.berkeley.edu",
+		"parserobots": false,
+		"debug": true,
+		"output": "berkeley_ls.xml",
+		"exclude": ["auth.berkeley.edu", "/news", "/letters-science-bookshelf?", "/alumni?", "/students?", "?field"]
 	  }
   ]
