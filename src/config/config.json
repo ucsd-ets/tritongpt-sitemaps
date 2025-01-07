@@ -70,5 +70,26 @@
 		"debug": true,
 		"output": "berkeley_ls.xml",
 		"exclude": ["auth.berkeley.edu", "/news", "/letters-science-bookshelf?", "/alumni?", "/students?", "?field"]
+	  },
+	  {
+		"domain": "https://diversity.ucsd.edu",
+		"parserobots": false,
+		"debug": true,
+		"output": "diversity.xml",
+		"exclude": ["/research-data", "/eds", "/SAML2", "/SSO"]
+	  },
+	  {
+		"domain": "https://amphitheater.ucsd.edu",
+		"parserobots": false,
+		"debug": true,
+		"output": "amphitheater.xml",
+		"exclude": []
+	  },
+	  {
+		"domain": "https://recreation.ucsd.edu",
+		"parserobots": false,
+		"debug": true,
+		"output": "recreation.xml",
+		"exclude": ["/2018", "/2019", "/2020", "/2021", "/2022", "/2023", "/sports-clubs-posts"]
 	  }
   ]
