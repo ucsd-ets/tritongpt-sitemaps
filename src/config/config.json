@@ -1,95 +1,95 @@
 [
-	{
-	  "domain": "https://bah.ucsd.edu/",
-	  "parserobots": false,
-	  "debug": true,
-	  "output": "bah.xml",
-	  "exclude": ["/_files"]
-	},
-	{
-	  "domain": "https://chancellor.ucsd.edu/",
-	  "parserobots": false,
-	  "debug": true,
-	  "output": "chancellor.xml",
-	  "exclude": [
-		"/_files",
-		"/chancellor-messages"
-	  ]
-	},
-	{
-	  "domain": "https://hdh.ucsd.edu/",
-	  "parserobots": false,
-	  "debug": true,
-	  "output": "hdh.xml",
-	  "exclude": ["/_files"]
-	},
-	{
-	  "domain": "https://library.ucsd.edu/",
-	  "parserobots": false,
-	  "debug": true,
-	  "output": "../library.xml",
-	  "exclude": [
-		"/dc/",
-		"/news-events/",
-		"/speccoll/",
-		"/scilib/",
-		"/blogs/",
-		"/forms/",
-		"/damsmanager/",
-		"/_files/",
-		"/0_files/",
-		"/research-and-collections/",
-		"/library-workshops/"
-	  ],
-	  "skipext": ["pdf"]
-	},
-	{
-	  "domain": "https://transportation.ucsd.edu/",
-	  "parserobots": false,
-	  "debug": true,
-	  "output": "transportation.xml",
-	  "exclude": ["/_files/"]
-	},
-	{
-	  "domain": "https://vcsa.ucsd.edu/",
-	  "parserobots": false,
-	  "debug": true,
-	  "output": "vcsa.xml",
-	  "exclude": ["/_files/"]
-	},
-	{
-		"domain": "https://aps.ucsd.edu",
-		"parserobots": false,
-		"debug": true,
-		"output": "aps.xml",
-		"exclude": ["/forms/", "/interfolio/", "/compensation/", "/oars/", "/pop/"]
-	  },
-	  {
-		"domain": "https://ls.berkeley.edu",
-		"parserobots": false,
-		"debug": true,
-		"output": "berkeley_ls.xml",
-		"exclude": ["auth.berkeley.edu", "/news", "/letters-science-bookshelf?", "/alumni?", "/students?", "?field"]
-	  },
-	  {
-		"domain": "https://diversity.ucsd.edu",
-		"parserobots": false,
-		"debug": true,
-		"output": "diversity.xml",
-		"exclude": ["/research-data", "/eds", "/SAML2", "/SSO"]
-	  },
-	  {
-		"domain": "https://amphitheater.ucsd.edu",
-		"parserobots": false,
-		"debug": true,
-		"output": "amphitheater.xml",
-		"exclude": []
-	  },
-	  {
-		"domain": "https://recreation.ucsd.edu",
-		"parserobots": false,
-		"debug": true,
-		"output": "recreation.xml",
-		"exclude": ["/2018", "/2019", "/2020", "/2021", "/2022", "/2023", "/sports-clubs-posts"]
-	  }
-  ]
+  {
+    "domain": "https://bah.ucsd.edu/",
+    "parserobots": false,
+    "debug": true,
+    "output": "bah.xml",
+    "exclude": ["/_files"]
+  },
+  {
+    "domain": "https://chancellor.ucsd.edu/",
+    "parserobots": false,
+    "debug": true,
+    "output": "chancellor.xml",
+    "exclude": ["/_files", "/chancellor-messages"]
+  },
+  {
+    "domain": "https://hdh.ucsd.edu/",
+    "parserobots": false,
+    "debug": true,
+    "output": "hdh.xml",
+    "exclude": ["/_files"]
+  },
+  {
+    "domain": "https://library.ucsd.edu/",
+    "parserobots": false,
+    "debug": true,
+    "output": "library.xml",
+    "exclude": [
+      "/dc/",
+      "/news-events/",
+      "/speccoll/",
+      "/scilib/",
+      "/blogs/",
+      "/forms/",
+      "/damsmanager/",
+      "/_files/",
+      "/0_files/",
+      "/research-and-collections/",
+      "/library-workshops/"
+    ],
+    "skipext": ["pdf"]
+  },
+  {
+    "domain": "https://transportation.ucsd.edu/",
+    "parserobots": false,
+    "debug": true,
+    "output": "transportation.xml",
+    "exclude": ["/_files/"]
+  },
+  {
+    "domain": "https://vcsa.ucsd.edu/",
+    "parserobots": false,
+    "debug": true,
+    "output": "vcsa.xml",
+    "exclude": ["/_files/"]
+  },
+  {
+    "domain": "https://aps.ucsd.edu",
+    "parserobots": false,
+    "debug": true,
+    "output": "aps.xml",
+	"skipext": [".docx", ".doc", ".xlsx"],
+    "exclude": ["/forms/", "/interfolio/", "/compensation/", "/oars/", "/pop/"]
+  },
+  {
+    "domain": "https://diversity.ucsd.edu",
+    "parserobots": false,
+    "debug": true,
+    "output": "diversity.xml",
+    "exclude": ["/research-data", "/eds", "/SAML2", "/SSO", "/_files"]
+  },
+  {
+    "domain": "https://amphitheater.ucsd.edu",
+    "parserobots": false,
+    "debug": true,
+    "output": "amphitheater.xml",
+    "exclude": []
+  },
+  {
+    "domain": "https://recreation.ucsd.edu",
+    "parserobots": false,
+    "debug": true,
+    "output": "recreation.xml",
+    "exclude": [
+      "/2018",
+      "/2019",
+      "/2020",
+      "/2021",
+      "/2022",
+      "/2023",
+      "/sports-clubs-posts",
+	  "/?post_type="
+    ]
+  }
+]

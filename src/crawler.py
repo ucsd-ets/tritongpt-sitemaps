@@ -46,7 +46,7 @@ class Crawler:
 
 	marked = defaultdict(list)
 
-	not_parseable_resources = (".epub", ".mobi", ".docx", ".doc", ".opf", ".7z", ".ibooks", ".cbr", ".avi", ".mkv", ".mp4", ".jpg", ".jpeg", ".png", ".gif" ,".pdf", ".iso", ".rar", ".tar", ".tgz", ".zip", ".dmg", ".exe")
+	not_parseable_resources = (".epub", ".mobi", ".xlsx", ".docx", ".doc", ".opf", ".7z", ".ibooks", ".cbr", ".avi", ".mkv", ".mp4", ".jpg", ".jpeg", ".png", ".gif", ".iso", ".rar", ".tar", ".tgz", ".zip", ".dmg", ".exe", ".pdf")
 
 	# TODO also search for window.location={.*?}
 	linkregex = re.compile(b'<a [^>]*href=[\'|"](.*?)[\'"][^>]*?>')
@@ -104,7 +104,7 @@ class Crawler:
 			self.target_domain = url_parsed.netloc
 			self.scheme = url_parsed.scheme
 		except:
-			logging.error("Invalide domain")
+			logging.error("Invalid domain")
 			raise IllegalArgumentError("Invalid domain")
 
 		if self.output:
@@ -142,7 +142,11 @@ class Crawler:
 		if self.sort_alphabetically:
 			self.url_strings_to_output.sort()
 
-		self.write_sitemap_output()
+		try:
+			self.write_sitemap_output()
+		finally:
+			if self.output_file:
+				self.output_file.close()
 
 
 
@@ -268,6 +272,15 @@ class Crawler:
 		# Note: that if there was a redirect, `final_url` may be different than
 		#       `current_url`, and avoid not parseable content
 		final_url = response.geturl() if response is not None else current_url
+		
+		# Check if the final URL's domain matches the target domain
+		# Skip URLs that redirect to a different domain
+		if response is not None:
+			final_domain = urlparse(final_url).netloc
+			if final_domain != self.target_domain:
+				logging.info(f"Skipping {final_url} - redirected to different domain ({final_domain} != {self.target_domain})")
+				return
+				
 		url_string = "<url><loc>"+self.htmlspecialchars(final_url)+"</loc>" + lastmod + image_list + "</url>"
 		self.url_strings_to_output.append(url_string)
 
@@ -278,9 +291,9 @@ class Crawler:
 			logging.debug(f"Found : {link}")
 
 			if link.startswith('/'):
-				link = url.scheme + '://' + url[1] + link
+				link = url.scheme + '://' + url.netloc + link
 			elif link.startswith('#'):
-				link = url.scheme + '://' + url[1] + url[2] + link
+				link = url.scheme + '://' + url.netloc + url.path + link
 			elif link.startswith(("mailto", "tel")):
 				continue
 			elif not link.startswith(('http', "https")):
@@ -419,7 +432,7 @@ class Crawler:
 		resolved = []
 		for segment in segments:
 			if segment in ('../', '..'):
-				if resolved[1:]:
+				if len(resolved) > 0:
 					resolved.pop()
 			elif segment not in ('./', '.'):
 				resolved.append(segment)
@@ -446,16 +459,13 @@ class Crawler:
 				if self.rp.can_fetch(self.user_agent, link):
 					return True
 				else:
-					logging.debug ("Crawling of {0} disabled by robots.txt".format(link))
+					logging.debug(f"Crawling of {link} disabled by robots.txt")
 					return False
-
-			if not self.parserobots:
+			else:
 				return True
-
-			return True
 		except:
 			# On error continue!
-			logging.debug ("Error during parsing robots.txt")
+			logging.debug("Error during parsing robots.txt")
 			return True
 
 	def exclude_url(self, link):
@@ -466,7 +476,7 @@ class Crawler:
 
 	@staticmethod
 	def htmlspecialchars(text):
-		return text.replace("&", "&amp;").replace('"', "&quot;").replace("<", "&lt;").replace(">", "&gt;")
+		return text.replace(" ", "%20").replace("&", "&amp;").replace('"', "&quot;").replace("<", "&lt;").replace(">", "&gt;")
 
 	def make_report(self):
 		print ("Number of found URL : {0}".format(self.nb_url))
