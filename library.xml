@@ -6,8 +6,8 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-<url><loc>http://library.ucsd.edu/dc</loc><lastmod>2025-03-27T00:32:35+00:00</lastmod></url>
-<url><loc>https://library.ucsd.edu/</loc><lastmod>2025-03-26T07:01:03+00:00</lastmod></url>
+<url><loc>http://library.ucsd.edu/dc</loc><lastmod>2025-03-28T00:32:31+00:00</lastmod></url>
+<url><loc>https://library.ucsd.edu/</loc><lastmod>2025-03-27T07:01:07+00:00</lastmod></url>
 <url><loc>https://library.ucsd.edu/about/contact-us/administrative-contacts/index.html</loc><lastmod>2025-01-03T17:06:57+00:00</lastmod></url>
 <url><loc>https://library.ucsd.edu/about/contact-us/collection-strategists.html</loc><lastmod>2025-02-22T00:13:42+00:00</lastmod></url>
 <url><loc>https://library.ucsd.edu/about/contact-us/connect-on-social-media/index.html</loc><lastmod>2025-01-03T17:07:20+00:00</lastmod></url>
@@ -60,7 +60,7 @@
 <url><loc>https://library.ucsd.edu/about/geisel-library-and-wongavery-library/wongavery-library.html</loc><lastmod>2025-01-03T17:06:55+00:00</lastmod></url>
 <url><loc>https://library.ucsd.edu/about/index.html</loc><lastmod>2025-01-03T17:06:54+00:00</lastmod></url>
 <url><loc>https://library.ucsd.edu/about/library-jobs/index.html</loc><lastmod>2025-02-01T01:31:27+00:00</lastmod></url>
-<url><loc>https://library.ucsd.edu/about/news-and-events/index.html</loc><lastmod>2025-03-26T07:00:12+00:00</lastmod></url>
+<url><loc>https://library.ucsd.edu/about/news-and-events/index.html</loc><lastmod>2025-03-27T07:00:13+00:00</lastmod></url>
 <url><loc>https://library.ucsd.edu/about/news-and-events/library-publications/index.html</loc><lastmod>2025-03-06T23:32:36+00:00</lastmod></url>
 <url><loc>https://library.ucsd.edu/about/policies/collection-development-policy.html</loc><lastmod>2025-03-17T23:05:53+00:00</lastmod></url>
 <url><loc>https://library.ucsd.edu/about/policies/collections-offsite-storage-policy.html</loc><lastmod>2025-01-03T17:06:49+00:00</lastmod></url>
@@ -184,7 +184,7 @@
 <url><loc>https://library.ucsd.edu/computing-and-technology/connect-from-off-campus/index.html</loc><lastmod>2025-01-03T17:12:38+00:00</lastmod></url>
 <url><loc>https://library.ucsd.edu/computing-and-technology/connect-from-off-campus/vpn-problems.html</loc><lastmod>2025-01-03T17:12:38+00:00</lastmod></url>
 <url><loc>https://library.ucsd.edu/computing-and-technology/data-and-gis-lab/calendar.html</loc><lastmod>2025-01-03T17:12:28+00:00</lastmod></url>
-<url><loc>https://library.ucsd.edu/computing-and-technology/data-and-gis-lab/index.html</loc><lastmod>2025-03-17T19:45:58+00:00</lastmod></url>
+<url><loc>https://library.ucsd.edu/computing-and-technology/data-and-gis-lab/index.html</loc><lastmod>2025-03-27T23:14:56+00:00</lastmod></url>
 <url><loc>https://library.ucsd.edu/computing-and-technology/digital-media-lab/index.html</loc><lastmod>2025-03-17T19:37:23+00:00</lastmod></url>
 <url><loc>https://library.ucsd.edu/computing-and-technology/index.html</loc><lastmod>2025-01-03T17:12:36+00:00</lastmod></url>
 <url><loc>https://library.ucsd.edu/computing-and-technology/print-scan-and-copy/index.html</loc><lastmod>2025-01-03T17:12:28+00:00</lastmod></url>
@@ -202,7 +202,7 @@
 <url><loc>https://library.ucsd.edu/hours/index.html?v=month&amp;amp;l=geisel-library-building&amp;amp;d=2022-12-01</loc><lastmod>2025-01-23T15:55:02+00:00</lastmod></url>
 <url><loc>https://library.ucsd.edu/hours/index.html?v=month&amp;amp;l=geisel-library-building</loc><lastmod>2025-01-23T15:55:02+00:00</lastmod></url>
 <url><loc>https://library.ucsd.edu/hours/index.html?v=month&amp;amp;l=wongavery-library</loc><lastmod>2025-01-23T15:55:02+00:00</lastmod></url>
-<url><loc>https://library.ucsd.edu/index.html</loc><lastmod>2025-03-26T07:01:03+00:00</lastmod></url>
+<url><loc>https://library.ucsd.edu/index.html</loc><lastmod>2025-03-27T07:01:07+00:00</lastmod></url>
 <url><loc>https://library.ucsd.edu/visit/de-stress.html</loc><lastmod>2025-03-17T19:28:18+00:00</lastmod></url>
 <url><loc>https://library.ucsd.edu/visit/grad-student-lockers/index.html</loc><lastmod>2025-02-28T22:08:44+00:00</lastmod></url>
 <url><loc>https://library.ucsd.edu/visit/grad-student-lockers/locker-request.html</loc><lastmod>2025-01-03T17:02:05+00:00</lastmod></url>
