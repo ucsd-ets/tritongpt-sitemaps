@@ -280,6 +280,12 @@ class Crawler:
 			if final_domain != self.target_domain:
 				logging.info(f"Skipping {final_url} - redirected to different domain ({final_domain} != {self.target_domain})")
 				return
+			
+			# Skip URLs with non-2XX status codes
+			status_code = response.getcode()
+			if not (200 <= status_code < 300):
+				logging.info(f"Skipping {final_url} - non-2XX status code: {status_code}")
+				return
 				
 		url_string = "<url><loc>"+self.htmlspecialchars(final_url)+"</loc>" + lastmod + image_list + "</url>"
 		self.url_strings_to_output.append(url_string)
