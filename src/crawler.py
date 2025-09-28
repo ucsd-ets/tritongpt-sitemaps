@@ -6,6 +6,7 @@ import math
 import mimetypes
 import os
 import re
+import xml.etree.ElementTree as ET
 from collections import defaultdict
 from copy import copy
 from datetime import datetime
@@ -210,6 +211,14 @@ class Crawler:
 				self.response_code[response.getcode()] += 1
 
 				response.close()
+
+				# Check if this is XML content (sitemap or sitemap index)
+				content_type = response.headers.get('Content-Type', '')
+				if 'xml' in content_type.lower() or current_url.endswith('.xml') or self.is_sitemap_url(current_url):
+					# Try to process as XML/sitemap
+					if self.process_xml_content(msg, current_url):
+						# Successfully processed as sitemap, no need to continue with HTML processing
+						return
 
 				# Get the last modify date
 				if 'last-modified' in response.headers:
@@ -473,6 +482,102 @@ class Crawler:
 			# On error continue!
 			logging.debug("Error during parsing robots.txt")
 			return True
+
+	def is_sitemap_url(self, url):
+		"""Check if a URL looks like a sitemap"""
+		return url.endswith('.xml') or 'sitemap' in url.lower()
+
+	def parse_sitemap_index(self, content, base_url):
+		"""Parse a sitemap index and extract sitemap URLs"""
+		sitemap_urls = []
+		try:
+			root = ET.fromstring(content)
+			# Handle namespace
+			ns = {'sm': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
+			# Look for sitemap entries
+			for sitemap in root.findall('.//sm:sitemap', ns):
+				loc = sitemap.find('sm:loc', ns)
+				if loc is not None and loc.text:
+					sitemap_urls.append(loc.text.strip())
+			# Also try without namespace for compatibility
+			if not sitemap_urls:
+				for sitemap in root.findall('.//sitemap'):
+					loc = sitemap.find('loc')
+					if loc is not None and loc.text:
+						sitemap_urls.append(loc.text.strip())
+		except ET.ParseError as e:
+			logging.debug(f"Failed to parse sitemap index: {e}")
+		return sitemap_urls
+
+	def parse_sitemap(self, content, base_url):
+		"""Parse a sitemap and extract page URLs"""
+		page_urls = []
+		try:
+			root = ET.fromstring(content)
+			# Handle namespace
+			ns = {'sm': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
+			# Look for url entries
+			for url in root.findall('.//sm:url', ns):
+				loc = url.find('sm:loc', ns)
+				if loc is not None and loc.text:
+					page_urls.append(loc.text.strip())
+			# Also try without namespace for compatibility
+			if not page_urls:
+				for url in root.findall('.//url'):
+					loc = url.find('loc')
+					if loc is not None and loc.text:
+						page_urls.append(loc.text.strip())
+		except ET.ParseError as e:
+			logging.debug(f"Failed to parse sitemap: {e}")
+		return page_urls
+
+	def process_xml_content(self, content, current_url):
+		"""Process XML content (sitemap or sitemap index)"""
+		try:
+			# Try to decode if it's bytes
+			if isinstance(content, bytes):
+				content = content.decode('utf-8', errors='ignore')
+
+			# Check if it's a sitemap index
+			if '<sitemapindex' in content:
+				logging.info(f"Found sitemap index at {current_url}")
+				sitemap_urls = self.parse_sitemap_index(content, current_url)
+				# Add sitemap URLs to crawl queue WITHOUT exclusion check
+				# (we want to process sitemaps even if they're in excluded paths)
+				for sitemap_url in sitemap_urls:
+					if sitemap_url not in self.crawled_or_crawling:
+						self.urls_to_crawl.add(sitemap_url)
+						logging.debug(f"Added sitemap to crawl: {sitemap_url}")
+				return True
+			# Check if it's a regular sitemap
+			elif '<urlset' in content:
+				logging.info(f"Found sitemap at {current_url}")
+				page_urls = self.parse_sitemap(content, current_url)
+				# Process page URLs from sitemap
+				for page_url in page_urls:
+					# Only process URLs from the same domain
+					if self.target_domain in page_url:
+						# Apply exclusion rules
+						if not self.exclude_url(page_url):
+							logging.debug(f"Excluded URL from sitemap: {page_url}")
+							self.nb_exclude += 1
+							continue
+
+						# Check if URL was already processed
+						if page_url not in self.crawled_or_crawling:
+							# Mark as crawled
+							self.crawled_or_crawling.add(page_url)
+
+							# Add directly to output (sitemap URLs are already validated)
+							url_string = "<url><loc>" + self.htmlspecialchars(page_url) + "</loc></url>"
+							self.url_strings_to_output.append(url_string)
+							self.nb_url += 1
+
+							logging.debug(f"Added URL from sitemap to output: {page_url}")
+				return True
+		except Exception as e:
+			logging.debug(f"Error processing XML content: {e}")
+		return False
 
 	def exclude_url(self, link):
 		for ex in self.exclude:
