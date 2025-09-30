@@ -1,0 +1,313 @@
+Building Name,Room,Registrar Code,Floor,Area,Capacity,Room Type,Controlled by Registrar,Used,Overflow Capable,Floor Type,Seating Type,ADA C-H Stud Table,Projection Booth,Boards,Simultaneous Board and Projection Use,Acoustics,Ventilation,Windows,Windows Darkenability,Window Coverings,Lighting,Lectern,"Instructor 
+Tables",Clock,Wheelchair Spaces
+Applied Physics and Mathematics,2301,APM 2301,2,564,39,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 15' x 4' (1)
+C - Chalk 20' x 4' (1)",Yes (>12'),"P - Poor
+REV - Echo in room",Good,10,Poor,B - Blinds,FL,TT - Tabletop,1 (Standard),A - Analog,2
+Catalyst,CT0125,CTL 0125,01,3608,348,Lecture Hall,Yes,Yes,No,T - Tile,FN - Fixed and Numbered,No,Yes,"C - Chalk 12' x 4' (1)
+GW - Glass white 6' x 4' (2)",Limited (8-12'),G - Good,Good,None,,,"FL, Dimmable
+IN","FS-P - Freestanding, anchored to floor",1 (Station),NA - None,4
+Center Hall,101,CENTR 101,1,3428,295,Lecture Hall,Yes,Yes,No,C/C/T - Cement/Carpet/Tile,FN - Fixed and Numbered,Yes,Yes,C - Chalk 30' x 4' (1),Yes (>12'),"P - Poor
+REV - Echo in room",Good,1,Excellent,S - Shades,"FL
+IN","FS-P - Freestanding, anchored to floor",1 (Standard),A - Analog,2
+Center Hall,105,CENTR 105,1,1622,146,Lecture Hall,Yes,Yes,No,C/C - Cement/Carpet,FN - Fixed and Numbered,Yes,Yes,"C - Chalk 4' x 4' (2)
+C - Chalk 22' x 4' (1)",Limited (8-12'),"P - Poor
+REV - Echo in room",Good,2,Excellent,C - Curtains,"FL, Dimmable
+IN","FS-P - Freestanding, anchored to floor",1 (Standard),A - Analog,2
+Center Hall,109,CENTR 109,1,1644,147,Lecture Hall,Yes,Yes,No,C/C - Cement/Carpet,FN - Fixed and Numbered,N/A,Yes,"C - Chalk 4' x 4' (2)
+C - Chalk 22' x 4' (1)",Limited (8-12'),"P - Poor
+REV - Echo in room",Good,2,Excellent,C - Curtains,"FL, Dimmable
+IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,2
+Center Hall,113,CENTR 113,1,1619,146,Lecture Hall,Yes,Yes,No,C/C - Cement/Carpet,FN - Fixed and Numbered,N/A,Yes,"C - Chalk 4' x 4' (2)
+C - Chalk 22' x 4' (1)",Limited (8-12'),"P - Poor
+REV - Echo in room",Good,2,Excellent,S - Shades,"FL, Dimmable
+IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,2
+Center Hall,115,CENTR 115,1,2143,196,Lecture Hall,Yes,Yes,No,C/C - Cement/Carpet,FN - Fixed and Numbered,N/A,Yes,C - Chalk 28' x 4' (1),Limited (8-12'),"P - Poor
+REV - Echo in room",N/A,2,Excellent,S - Shades,"FL, Dimmable
+IN, Dimmable","FS-P - Freestanding, anchored to floor
+TT - Tabletop",1 (Standard),A - Analog,2
+Center Hall,119,CENTR 119,1,2144,196,Lecture Hall,Yes,Yes,No,C/C - Cement/Carpet,FN - Fixed and Numbered,No,Yes,C - Chalk 28' x 4' (1),Yes (>12'),"P - Poor
+REV - Echo in room",N/A,2,Excellent,S - Shades,"FL, Dimmable
+IN","FS-P - Freestanding, anchored to floor",1 (Standard),A - Analog,2
+Center Hall,201,CENTR 201,2,454,30,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 14' x 4' (1),No (8'),F - Fair,Good,2,Excellent,S - Shades,"FL, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+Center Hall,202,CENTR 202,2,255,15,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 14' x 4' (1),No (8'),"P - Poor
+REV - Echo in room",N/A,None,,,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Center Hall,203,CENTR 203,2,409,32,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 16' x 4' (1),No (8'),"P - Poor
+REV - Echo in room",N/A,1,Excellent,S - Shades,"FL, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+Center Hall,204,CENTR 204,2,316,16,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 14' x 4' (1),No (8'),"P - Poor
+REV - Echo in room",N/A,1,Excellent,S - Shades,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Center Hall,205,CENTR 205,2,500,30,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 20' x 4' (1),Yes (>12'),"P - Poor
+REV - Echo in room",N/A,1,Fair,S - Shades,"FL, Dimmable
+IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+Center Hall,206,CENTR 206,2,316,16,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 14' x 4' (1),,"P - Poor
+REV - Echo in room",N/A,1,Excellent,S - Shades,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Center Hall,207,CENTR 207,2,415,32,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 18' x 4' (1),Limited (8-12'),"P - Poor
+REV - Echo in room
+Buzz - Buzzing noise",N/A,1,Poor,S - Shades,"FL
+IN",TT - Tabletop,1 (Standard),A - Analog,1
+Center Hall,208,CENTR 208,2,257,15,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 16' x 4' (1),Limited (8-12'),"P - Poor
+REV - Echo in room
+Buzz - Buzzing noise",N/A,None,,,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Center Hall,212,CENTR 212,2,1774,146,Lecture Hall,Yes,Yes,No,C/C - Cement/Carpet,FN - Fixed and Numbered,No,Yes,C - Chalk 20' x 4' (1),Limited (8-12'),"P - Poor
+REV - Echo in room",N/A,6,Excellent,S - Shades,"FL, Dimmable
+IN","FS-P - Freestanding, anchored to floor",1 (Standard),A - Analog,2
+Center Hall,214,CENTR 214,2,1773,146,Lecture Hall,Yes,Yes,No,C/C - Cement/Carpet,FN - Fixed and Numbered,N/A,Yes,C - Chalk 20' x 4' (1),Limited (8-12'),"P - Poor
+REV - Echo in room",N/A,6,Excellent,S - Shades,FL,"FS-P - Freestanding, anchored to floor
+TT - Tabletop",1 (Standard),A - Analog,1
+Center Hall,216,CENTR 216,2,1776,146,Lecture Hall,Yes,Yes,No,C/C - Cement/Carpet,FN - Fixed and Numbered,N/A,Yes,C - Chalk 20' x 4' (1),Limited (8-12'),"P - Poor
+REV - Echo in room",Good,6,Excellent,"C - Curtains
+S - Shades","FL, Dimmable
+IN, Dimmable","FS-P - Freestanding, anchored to floor
+TT - Tabletop",1 (Standard),A - Analog,1
+Center Hall,217A,CENTR 217A,2,482,35,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 8' x 4' (1)
+C - Chalk 12' x 4' (1)",Limited (8-12'),G - Good,N/A,1,Excellent,S - Shades,"FL, Dimmable
+IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+Center Hall,217B,CENTR 217B,2,424,35,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 7' x 4' (1)
+C - Chalk 12' x 4' (1)",Limited (8-12'),G - Good,N/A,1,Excellent,S - Shades,"FL, Dimmable
+IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+Center Hall,218,CENTR 218,2,463,32,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 13' x 4' (1),No (8'),"P - Poor
+REV - Echo in room",N/A,3,Excellent,S - Shades,"FL, Dimmable
+IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+Center Hall,220,CENTR 220,2,408,32,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 20' x 4' (1),Limited (8-12'),"P - Poor
+REV - Echo in room
+Mech - Mechanical noise",N/A,1,Excellent,S - Shades,"FL
+IN",TT - Tabletop,1 (Standard),A - Analog,1
+Center Hall,222,CENTR 222,2,813,65,Classroom,Yes,Yes,No,T - Tile,FL - Flexible,Yes,No,C - Chalk 19' x 4' (1),Limited (8-12'),G - Good,N/A,3,Excellent,S - Shades,"FL, Dimmable
+IN",TT - Tabletop,1 (Station),A - Analog,1
+Center Hall,223,CENTR 223,2,323,15,Classroom,Yes,Yes,No,T - Tile,M - Movable,No,No,C - Chalk 18' x 4' (1),Yes (>12'),"P - Poor
+REV - Echo in room",Good,1,Excellent,S - Shades,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Center Hall,224A,CENTR 224A,2,278,15,Classroom,Yes,Yes,No,T - Tile,M - Movable,No,No,C - Chalk 8' x 4' (1),No (8'),"P - Poor
+REV - Echo in room",Good,1,Excellent,S - Shades,"FL, Dimmable
+IN",TT - Tabletop,1 (Standard),A - Analog,1
+Center Hall,224B,CENTR 224B,2,364,15,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 12' x 4' (1),,G - Good,Good,None,,,"FL, Dimmable
+IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+Center Hall,224C,CENTR 224C,2,294,15,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 11.8' x 4' (1),,"P - Poor
+REV - Echo in room",Good,1,Excellent,S - Shades,"FL, Dimmable
+IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+Cognitive Science Building,001,CSB 001,L,1468,120,Lecture Hall,Yes,Yes,No,T - Tile,FN - Fixed and Numbered,N/A,Yes,C - Chalk 16' x 4' (2),Limited (8-12'),G - Good,Poor,None,,,"FL, Dimmable
+IN, Dimmable","FS-P - Freestanding, anchored to floor
+TT - Tabletop",1 (Standard),A - Analog,1
+Cognitive Science Building,002,CSB 002,L,1468,120,Lecture Hall,Yes,Yes,No,T - Tile,FN - Fixed and Numbered,N/A,Yes,C - Chalk 16' x 4' (1),Limited (8-12'),G - Good,Poor,None,,,"FL, Dimmable
+IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+Cognitive Science Building,004,CSB 004,L,767,56,Classroom,Yes,Yes,No,T - Tile,FN - Fixed and Numbered,N/A,No,"C - Chalk 16' x 4' (1)
+C - Chalk 22' x 4' (1)",Yes (>12'),G - Good,Good,5,Fair,B - Blinds,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Cognitive Science Building,005,CSB 005,L,767,56,Classroom,Yes,Yes,No,T - Tile,FN - Fixed and Numbered,N/A,No,"C - Chalk 16' x 4' (1)
+C - Chalk 22' x 4' (1)",Yes (>12'),G - Good,Good,5,Fair,B - Blinds,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Copley International Conference Center,101,CICC 101,1,2618,288,Assembly,Yes,Yes,No,C - Carpet,FN - Fixed and Numbered,N/A,Yes,W - White 6' x 4' (1),No (8'),"P - Poor
+REV - Echo in room",Good,5,Excellent,"B - Blinds
+C - Curtains","FL
+IN",FS - Freestanding,N/A,A - Analog,1
+Design and Innovation Building,121,DIB 121,1,1309,50,Classroom,Yes,No,No,CM - Cement,M - Movable,Yes,No,C - Chalk 6' x 4' (6),Yes (>12'),F - Fair,Good,7,Poor,N/A,LED,FS - Freestanding,1 (Station),NA - None,N/A
+Design and Innovation Building,122,DIB 122,1,1393,50,Classroom,Yes,No,No,CM - Cement,M - Movable,Yes,No,C - Chalk 6' x 4' (6),Yes (>12'),F - Fair,Good,7,Poor,S - Shades,LED,FS - Freestanding,1 (Station),NA - None,N/A
+Franklin Antonio Hall,1101,FAH 1101,1,2460,104,Lecture Hall,Yes,Yes,No,C/C - Cement/Carpet,M - Movable,Yes,No,GW - Glass white 6' x 4' (6),Yes (>12'),G - Good,Good,2,Excellent,N/A,LED,"FS-P - Freestanding, anchored to floor",1 (Station),NA - None,1
+Franklin Antonio Hall,1301,FAH 1301,1,5877,245,Lecture Hall,Yes,Yes,No,C/C - Cement/Carpet,F - Fixed,No,No,GW - Glass white 6' x 4' (12),Yes (>12'),G - Good,Good,4,Excellent,S - Shades,LED,"FS-P - Freestanding, anchored to floor",1 (Station),NA - None,2
+Franklin Antonio Hall,1450,FAH 1450,1,2540,104,Lecture Hall,Yes,Yes,No,C/C - Cement/Carpet,M - Movable,No,No,GW - Glass white 6' x 4' (12),Yes (>12'),G - Good,Good,None,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),NA - None,1
+Galbraith Hall,242[2],GH 242,2,2956,417,Lecture Hall,Yes,Yes,No,CM - Cement,FN - Fixed and Numbered,No,Yes,N/A,Yes (>12'),"P - Poor
+HVAC - Noise from heating or air conditioning system",Good,None,,,"FL, Dimmable
+IN","FS-P - Freestanding, anchored to floor",1 (Standard),A - Analog,4
+Humanities and Social Sciences,1106A,HSS 1106A,1,422,20,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 16' x 4' (1),Limited (8-12'),G - Good,Good,10,Excellent,C - Curtains,FL,"TT-M - Tabletop, mounted on table",1 (Standard),A - Analog,1
+Humanities and Social Sciences,1106B,HSS 1106B,1,406,20,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 16' x 4' (1),Limited (8-12'),G - Good,N/A,10,Excellent,C - Curtains,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Humanities and Social Sciences,1128A,HSS 1128A,1,488,42,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 16' x 4' (1),Limited (8-12'),G - Good,Good,12,Poor,C - Curtains,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Humanities and Social Sciences,1128B,HSS 1128B,1,406,15,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 16' x 4' (1),Limited (8-12'),G - Good,Good,10,Fair,C - Curtains,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Humanities and Social Sciences,1138,HSS 1138,1,299,15,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 16' x 4' (1),Limited (8-12'),G - Good,Good,7,Fair,B - Blinds,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Humanities and Social Sciences,1305,HSS 1305,1,410,32,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 16' x 4' (1),Limited (8-12'),G - Good,Good,10,Fair,C - Curtains,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Humanities and Social Sciences,1315,HSS 1315,1,602,35,Classroom,Yes,Yes,No,T - Tile,FL - Flexible,Yes,No,C - Chalk 16' x 4' (1),Limited (8-12'),G - Good,Good,15,Poor,C - Curtains,FL,TT - Tabletop,1 (Station),A - Analog,1
+Humanities and Social Sciences,1330,HSS 1330,1,1529,145,Lecture Hall,Yes,Yes,No,T - Tile,FN - Fixed and Numbered,N/A,Yes,C - Chalk 24' x 4' (1),Yes (>12'),"P - Poor
+REV - Echo in room",Good,12,Excellent,C - Curtains,FL,"FS-P - Freestanding, anchored to floor",1 (Standard),A - Analog,1
+Humanities and Social Sciences,2150,HSS 2150,2,463,36,Classroom,Yes,Yes,No,T - Tile,M - Movable,No,No,"C - Chalk 16' x 4' (1)
+W - White 8' x 4' (1)
+GW - Glass white 8' x 4' (1)",Yes (>12'),G - Good,Good,None,,,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Humanities and Social Sciences,2152,HSS 2152,2,410,26,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 16' x 4' (1),Limited (8-12'),G - Good,Good,None,,,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Humanities and Social Sciences,2154,HSS 2154,2,467,37,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 16' x 4' (1),Limited (8-12'),G - Good,Good,None,,,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Humanities and Social Sciences,2250,LEDDN AUD,2,1888,216,Lecture Hall,Yes,Yes,No,T - Tile,FN - Fixed and Numbered,N/A,Yes,"C - Chalk 8' x 4' (1)
+C - Chalk 20' x 4' (1)",Yes (>12'),G - Good,Good,None,,,"FL, Dimmable
+IN, Dimmable","FS-P - Freestanding, anchored to floor
+TT - Tabletop",1 (Standard),A - Analog,1
+Humanities and Social Sciences,2305A,HSS 2305A,2,423,20,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 16' x 4' (1),Limited (8-12'),G - Good,Good,10,Fair,C - Curtains,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Humanities and Social Sciences,2305B,HSS 2305B,2,411,20,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 16' x 4' (1),Limited (8-12'),G - Good,Good,10,Fair,C - Curtains,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Humanities and Social Sciences,2321,HSS 2321,2,413,32,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 16' x 4' (1),Limited (8-12'),G - Good,Good,10,Excellent,C - Curtains,FL,TT - Tabletop,1 (Standard),A - Analog,N/A
+Humanities and Social Sciences,2333A,HSS 2333A,2,291,15,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 16' x 4' (1),Limited (8-12'),G - Good,Good,7,Fair,C - Curtains,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Humanities and Social Sciences,2333B,HSS 2333B,2,325,15,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 16' x 4' (1),Limited (8-12'),G - Good,Good,6,Fair,C - Curtains,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Mandeville Center,B104,MANDE B104,B1,864,42,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 8' x 4' (1),Limited (8-12'),G - Good,Good,None,,,FL,TT - Tabletop,1 (Standard),A - Analog,N/A
+Mandeville Center,B146,MANDE B146,B1,483,20,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 8' x 4' (1),Limited (8-12'),G - Good,Good,None,,,"FL, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+Mandeville Center,B150,MANDE B150,B1,1630,68,Classroom,Yes,Yes,No,T - Tile,FL - Flexible,No,No,"C - Chalk 16' x 4' (1)
+RC - Rolling chalk 6' x 4' (1)
+W - White 8' x 4' (1)
+GW - Glass white 8' x 4' (1)
+HW - Handheld white 18 x 23 (32)",Yes (>12'),G - Good,Good,16,Fair,B - Blinds,"FL, Dimmable",TT - Tabletop,1 (Height-Adjustable),A - Analog,N/A
+Mandeville Center,B152,MANDE B152,B1,601,20,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 16' x 4' (1)
+W - White 8' x 4' (1)
+GW - Glass white 8' x 4' (1)",Yes (>12'),G - Good,Good,6,Fair,B - Blinds,"FL, Dimmable",TT - Tabletop,2 (Standard),A - Analog,N/A
+Mandeville Center,B153,MANDE B153,B1,601,20,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,N/A,No (8'),G - Good,Good,6,Fair,B - Blinds,"FL, Dimmable",TT - Tabletop,1 (Standard),A - Analog,N/A
+Mandeville Center,B202,MANDE B202,B2,3070,158,Lecture Hall,Yes,Yes,No,T - Tile,M - Movable,No,No,C - Chalk 24' x 4' (1),Limited (8-12'),G - Good,Good,2,Fair,B - Blinds,FL,"FS-P - Freestanding, anchored to floor",1 (Standard),A - Analog,2
+Mandeville Center,135,MANDE AUD,1,7770,428,Assembly,Yes,Yes,No,C/C - Cement/Carpet,F - Fixed,N/A,No,RC - Rolling chalk 6' x 4' (1),N/A,"P - Poor
+REV - Echo in room",Good,N/A,,,"FL
+IN, Dimmable",TT - Tabletop,N/A,A - Analog,N/A
+McGill Hall,2315,MCGIL 2315,2,480,22,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 8' x 4' (1)
+W - White 4' x 4' (2)",No (8'),G - Good,Good,None,,,"FL
+IN",TT - Tabletop,1 (Standard),A - Analog,N/A
+McGill Hall,2322,MCGIL 2322,2,286,15,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 7' x 4' (1)
+C - Chalk 10' x 4' (1)",Yes (>12'),G - Good,Good,10,Excellent,C - Curtains,"FL
+IN",TT - Tabletop,1 (Standard),A - Analog,1
+McGill Hall,2330,MCGIL 2330,2,286,15,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 7' x 4' (1)
+C - Chalk 10' x 4' (1)",Yes (>12'),G - Good,Good,10,Excellent,C - Curtains,FL,TT - Tabletop,1 (Standard),A - Analog,1
+McGill Hall,2334,MCGIL 2334,2,286,15,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 7' x 4' (1),Limited (8-12'),G - Good,Good,10,Excellent,C - Curtains,FL,TT - Tabletop,1 (Standard),A - Analog,1
+McGill Hall,2342,MCGIL 2342,2,286,15,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 8' x 4' (1)
+C - Chalk 10' x 4' (1)",Yes (>12'),G - Good,Good,10,Excellent,C - Curtains,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Mosaic,MO0113,MOS 0113,1,2684,250,Lecture Hall,Yes,Yes,No,T - Tile,FN - Fixed and Numbered,Yes,Yes,GW - Glass white 4' x 8' (2),Limited (8-12'),G - Good,Good,None,,,"FL, Dimmable","FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,5
+Mosaic,MO0114,MOS 0114,1,2600,250,Lecture Hall,Yes,Yes,No,T - Tile,FN - Fixed and Numbered,Yes,Yes,GW - Glass white 4' x 8' (2),Limited (8-12'),G - Good,Good,None,,,"FL, Dimmable","FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,5
+Mosaic,MO0204,MOS 0204,2,1998,75,Classroom,Yes,Yes,No,T - Tile,FL - Flexible,Yes,No,N/A,Limited (8-12'),G - Good,Good,N/A,,,"FL, Dimmable","FS-P - Freestanding, anchored to floor",1 (Station),NA - None,N/A
+Pepper Canyon Hall,106,PCYNH 106,1,2010,192,Lecture Hall,Yes,Yes,No,C/T - Cement/Tile,FN - Fixed and Numbered,N/A,Yes,C - Chalk 36' x 4' (1),Yes (>12'),G - Good,Good,None,,,"FL, Dimmable
+IN, Dimmable","FS-P - Freestanding, anchored to floor
+TT - Tabletop",1 (Standard),A - Analog,4
+Pepper Canyon Hall,109,PCYNH 109,1,2003,193,Lecture Hall,Yes,Yes,No,C/T - Cement/Tile,FN - Fixed and Numbered,N/A,Yes,C - Chalk 40' x 4' (1),Yes (>12'),G - Good,N/A,None,,,"FL, Dimmable
+IN, Dimmable","FS-P - Freestanding, anchored to floor
+TT - Tabletop",1 (Standard),A - Analog,4
+Pepper Canyon Hall,120,PCYNH 120,1,1507,56,Classroom,Yes,Yes,No,C/T - Cement/Tile,FN - Fixed and Numbered,N/A,No,C - Chalk 8' x 4' (1),Yes (>12'),G - Good,Good,None,,,"FL, Dimmable",TT - Tabletop,1 (Standard),A - Analog,4
+Pepper Canyon Hall,121,PCYNH 121,1,1578,60,Classroom,Yes,Yes,No,C/T - Cement/Tile,FN - Fixed and Numbered,N/A,No,"C - Chalk 8' x 4' (1)
+C - Chalk 30' x 4' (1)",Yes (>12'),G - Good,Good,None,,,"FL, Dimmable",TT - Tabletop,1 (Standard),A - Analog,4
+Pepper Canyon Hall,122,PCYNH 122,1,1528,115,Lecture Hall,Yes,Yes,No,C/T - Cement/Tile,FN - Fixed and Numbered,N/A,No,"C - Chalk 8' x 4' (1)
+C - Chalk 30' x 4' (1)",Yes (>12'),G - Good,Good,None,,,"FL, Dimmable
+IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,4
+Pepper Canyon Hall,240,PCYNH 240,2,1059,37,Classroom,Yes,Yes,No,C - Carpet,M - Movable,Yes,No,"W - White 4' x 4' (1)
+W - White 8' x 4' (1)",No (8'),G - Good,Good,8,Fair,B - Blinds,FL,"FS-P - Freestanding, anchored to floor",1 (Station),NA - None,N/A
+Peterson Hall,102,PETER 102,1,956,70,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 26' x 4' (1),Yes (>12'),"P - Poor
+Mech - Mechanical noise",Good,2,Excellent,"B - Blinds
+S - Shades","FL, Dimmable
+IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+Peterson Hall,103,PETER 103,1,956,70,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 26' x 4' (1),Yes (>12'),"P - Poor
+REV - Echo in room",Good,2,Excellent,"B - Blinds
+S - Shades","FL, Dimmable
+IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+Peterson Hall,104,PETER 104,1,1018,75,Classroom,Yes,Yes,Yes,T - Tile,M - Movable,N/A,No,C - Chalk 30' x 4' (1),Yes (>12'),G - Good,Good,2,Excellent,"B - Blinds
+S - Shades","FL
+IN",TT - Tabletop,1 (Standard),A - Analog,1
+Peterson Hall,108,PETER 108,1,3405,410,Lecture Hall,Yes,Yes,Yes,C/T - Cement/Tile,FN - Fixed and Numbered,N/A,Yes,C - Chalk 54' x 4' (1),Yes (>12'),G - Good,Good,None,,,"FL
+IN","FS-P - Freestanding, anchored to floor
+TT - Tabletop",1 (Standard),A - Analog,2
+Peterson Hall,110,PETER 110,1,2933,331,Lecture Hall,Yes,Yes,Yes,C/C/T - Cement/Carpet/Tile,FN - Fixed and Numbered,N/A,Yes,C - Chalk 48' x 4' (1),Yes (>12'),G - Good,Good,None,,,"FL, Dimmable
+IN, Dimmable","FS-P - Freestanding, anchored to floor",1 (Standard),A - Analog,2
+Podemos,0132,PODEM 0132,1,1216,44,Classroom,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,Limited (8-12'),G - Good,N/A,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
+Podemos,0133,PODEM 0133,1,1234,46,Classroom,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,No (8'),G - Good,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
+Podemos,1A18,PODEM 1A18,1,2439,96,Lecture Hall,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,Yes (>12'),G - Good,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
+Podemos,1A19,PODEM 1A19,1,2376,90,Lecture Hall,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,Yes (>12'),G - Good,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
+Podemos,1A20,PODEM 1A20,1,2408,104,Lecture Hall,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,Yes (>12'),G - Good,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
+Podemos,1A22,PODEM 1A22,1,1291,44,Classroom,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,No (8'),G - Good,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
+Podemos,1A23,PODEM 1A23,1,1238,46,Classroom,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,No (8'),G - Good,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
+Price Center West,1.402,PRICE THEATRE,1,4651,481,Assembly,Yes,Yes,No,C/C - Cement/Carpet,FN - Fixed and Numbered,N/A,Yes,RC - Rolling chalk 8' x 4' (1),Limited (8-12'),G - Good,Good,None,,,"FL, Dimmable
+IN, Dimmable",FS - Freestanding,N/A,A - Analog,4
+Ridge Walk Academic Building,0103,RWAC 0103,01,1358,50,Classroom,Yes,Yes,No,T - Tile,FL - Flexible,No,No,GW - Glass white 6' x 4' (4),Yes (>12'),G - Good,Good,15,Poor,S - Shades,"FL, Dimmable","FS-P - Freestanding, anchored to floor",1 (Station),NA - None,N/A
+Ridge Walk Academic Building,0115,RWAC 0115,01,1267,50,Classroom,Yes,Yes,No,T - Tile,FL - Flexible,No,No,GW - Glass white 6' x 4' (2),No (8'),G - Good,Good,22,Poor,S - Shades,"FL, Dimmable","FS-P - Freestanding, anchored to floor",1 (Station),NA - None,N/A
+Ridge Walk Academic Building,0121,RWAC 0121,01,1799,75,Classroom,Yes,Yes,No,T - Tile,FL - Flexible,Yes,No,GW - Glass white 6' x 4' (6),Yes (>12'),G - Good,Good,14,Poor,S - Shades,"FL, Dimmable","FS-P - Freestanding, anchored to floor",1 (Station),NA - None,N/A
+Robinson Building 2 - Auditorium,2101,RBC 2101,1,2656,304,Assembly,Yes,Yes,No,C/C - Cement/Carpet,F - Fixed,No,Yes,W - White 30' x 4' (1),Yes (>12'),"P - Poor
+REV - Echo in room",Good,13,Excellent,S - Shades,"FL, Dimmable
+IN",FS - Freestanding,1 (Height-Adjustable),A - Analog,2
+Social Sciences Building,106,SSB 106,1,393,20,Classroom,Yes,Yes,No,C - Carpet,M - Movable,No,No,C - Chalk 16' x 4' (1),Limited (8-12'),G - Good,N/A,4,Poor,B - Blinds,"FL, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+Solis Hall,104,SOLIS 104,1,1533,149,Lecture Hall,Yes,Yes,No,C/T - Cement/Tile,FN - Fixed and Numbered,No,Yes,C - Chalk 33' x 4' (1),Yes (>12'),"P - Poor
+Mech - Mechanical noise",Good,None,,,"FL, Dimmable
+IN","FS-P - Freestanding, anchored to floor",1 (Standard),A - Analog,2
+Solis Hall,105,SOLIS 105,1,700,46,Classroom,Yes,Yes,No,C/T - Cement/Tile,"M - Movable
+FL - Flexible",Yes,No,C - Chalk 8' x 4' (2),No (8'),F - Fair,Unknown,None,,,FL,"FS-P - Freestanding, anchored to floor",N/A,A - Analog,1
+Solis Hall,107,SOLIS 107,1,3173,300,Lecture Hall,Yes,Yes,No,C/T - Cement/Tile,FN - Fixed and Numbered,N/A,Yes,C - Chalk 45' x 4' (1),Yes (>12'),"P - Poor
+Mech - Mechanical noise",Good,None,,,"FL, Dimmable
+IN, Dimmable","FS-P - Freestanding, anchored to floor
+TT - Tabletop",1 (Standard),A - Analog,2
+Solis Hall,109,SOLIS 109,1,549,44,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 6' x 4' (1)
+C - Chalk 16' x 4' (1)",Yes (>12'),G - Good,Good,3,Fair,B - Blinds,"FL, Dimmable
+IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+Solis Hall,110,SOLIS 110,1,548,46,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 16' x 4' (1),Limited (8-12'),G - Good,Good,4,Fair,B - Blinds,FL,TT - Tabletop,1 (Standard),A - Analog,1
+Solis Hall,111,SOLIS 111,1,555,44,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 6' x 4' (1)
+C - Chalk 18' x 4' (1)",Yes (>12'),"P - Poor
+REV - Echo in room",Good,3,Fair,S - Shades,"FL
+IN",TT - Tabletop,1 (Standard),A - Analog,1
+Warren Lecture Hall,2001,WLH 2001,1,3639,395,Lecture Hall,Yes,Yes,No,CM - Cement,FN - Fixed and Numbered,N/A,Yes,C - Chalk 40' x 4' (1),Yes (>12'),"P - Poor
+REV - Echo in room",Good,None,,,"FL, Dimmable
+IN, Dimmable","FS-P - Freestanding, anchored to floor
+TT - Tabletop",1 (Standard),A - Analog,4
+Warren Lecture Hall,2005,WLH 2005,1,2205,200,Lecture Hall,Yes,Yes,No,CM - Cement,FN - Fixed and Numbered,N/A,Yes,C - Chalk 32' x 4' (1),Yes (>12'),"P - Poor
+REV - Echo in room",Good,None,,,"FL, Dimmable
+IN, Dimmable","FS-P - Freestanding, anchored to floor
+TT - Tabletop",2 (Standard),A - Analog,4
+Warren Lecture Hall,2110,WLH 2110,1,492,28,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 16' x 4' (1)
+C - Chalk 24' x 4' (1)",Yes (>12'),"P - Poor
+REV - Echo in room",Good,1,Fair,B - Blinds,"FL, Dimmable
+IN, Dimmable",TT - Tabletop,2 (Standard),A - Analog,1
+Warren Lecture Hall,2111,WLH 2111,1,943,70,Classroom,Yes,Yes,No,T - Tile,F - Fixed,N/A,No,"C - Chalk 24' x 4' (1)
+C - Chalk 34' x 4' (1)",Yes (>12'),G - Good,Good,6,Fair,B - Blinds,"FL, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+Warren Lecture Hall,2112,WLH 2112,1,563,40,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 20' x 4' (1)
+C - Chalk 24' x 4' (1)",Yes (>12'),G - Good,Good,4,Fair,B - Blinds,"FL
+IN",TT - Tabletop,1 (Standard),A - Analog,1
+Warren Lecture Hall,2113,WLH 2113,1,683,49,Classroom,Yes,Yes,No,T - Tile,FN - Fixed and Numbered,N/A,No,C - Chalk 24' x 4' (2),Yes (>12'),G - Good,Good,4,Fair,B - Blinds,"FL, Dimmable
+IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+Warren Lecture Hall,2114,WLH 2114,1,567,40,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 20' x 4' (1)
+C - Chalk 24' x 4' (1)",Yes (>12'),G - Good,Good,4,Fair,B - Blinds,"FL
+IN",TT - Tabletop,1 (Standard),A - Analog,1
+Warren Lecture Hall,2115,WLH 2115,1,638,40,Classroom,Yes,Yes,No,T - Tile,FN - Fixed and Numbered,N/A,No,"C - Chalk 22' x 4' (1)
+C - Chalk 24' x 4' (2)",Yes (>12'),G - Good,Good,2,Fair,B - Blinds,"FL, Dimmable
+IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+Warren Lecture Hall,2204,WLH 2204,2,868,75,Classroom,Yes,Yes,No,T - Tile,F - Fixed,N/A,No,"C - Chalk 24' x 4' (1)
+C - Chalk 30' x 4' (1)",Yes (>12'),G - Good,Good,5,Fair,B - Blinds,"FL
+IN",TT - Tabletop,1 (Standard),A - Analog,1
+Warren Lecture Hall,2205,WLH 2205,2,953,70,Classroom,Yes,Yes,No,T - Tile,F - Fixed,N/A,No,"C - Chalk 24' x 4' (1)
+C - Chalk 34' x 4' (1)",Yes (>12'),G - Good,Good,6,Fair,B - Blinds,"FL, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+Warren Lecture Hall,2206,WLH 2206,2,565,40,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 20' x 4' (1)
+C - Chalk 24' x 4' (1)",Yes (>12'),G - Good,Good,4,Fair,B - Blinds,"FL, Dimmable
+IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+Warren Lecture Hall,2207,WLH 2207,2,739,50,Classroom,Yes,Yes,No,T - Tile,FN - Fixed and Numbered,N/A,No,"C - Chalk 24' x 4' (1)
+C - Chalk 25' x 4' (1)",Yes (>12'),"P - Poor
+REV - Echo in room",Good,4,Fair,B - Blinds,"FL, Dimmable
+IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+Warren Lecture Hall,2208,WLH 2208,2,560,40,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 20' x 4' (1)
+C - Chalk 24' x 4' (1)",Yes (>12'),G - Good,Good,4,Fair,B - Blinds,"FL
+IN",TT - Tabletop,1 (Standard),A - Analog,1
+Warren Lecture Hall,2209,WLH 2209,2,640,40,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 22' x 4' (1)
+C - Chalk 24' x 4' (1)",Yes (>12'),G - Good,Good,2,Fair,B - Blinds,"FL, Dimmable
+IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
+York Hall,2622,YORK 2622,2,1773,192,Lecture Hall,Yes,Yes,No,C/T - Cement/Tile,FN - Fixed and Numbered,N/A,Yes,C - Chalk 16' x 4' (3),Yes (>12'),"P - Poor
+REV - Echo in room",Poor,None,,,"FL, Dimmable","FS-P - Freestanding, anchored to floor
+TT - Tabletop",1 (Standard),A - Analog,4
+York Hall,2722,YORK 2722,2,3018,362,Lecture Hall,Yes,Yes,No,C/T - Cement/Tile,FN - Fixed and Numbered,N/A,Yes,C - Chalk 16' x 4' (3),Yes (>12'),"P - Poor
+REV - Echo in room",Poor,None,,,"FL, Dimmable","FS-P - Freestanding, anchored to floor
+TT - Tabletop",1 (Standard),A - Analog,4
+York Hall,3000A,YORK 3000A,3,455,34,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 11' x 4' (1)
+C - Chalk 14' x 4' (1)",Yes (>12'),G - Good,Good,10,Poor,B - Blinds,"FL
+IN","TT-M - Tabletop, mounted on table",1 (Standard),A - Analog,1
+York Hall,3050,YORK 3050A,3,1501,50,Class Laboratory,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 8' x 4' (1)
+C - Chalk 14' x 4' (1)",Yes (>12'),G - Good,Good,4,Poor,B - Blinds,FL,"TT - Tabletop
+TT-M - Tabletop, mounted on table",1 (Standard),A - Analog,1
+York Hall,4050A,YORK 4050A,4,538,25,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 6' x 4' (1)
+C - Chalk 10' x 4' (1)",Yes (>12'),G - Good,N/A,6,Poor,B - Blinds,FL,TT - Tabletop,1 (Standard),A - Analog,1
+York Hall,4050B,YORK 4050B,4,252,20,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 8' x 4' (1)
+C - Chalk 14' x 4' (1)",Yes (>12'),G - Good,Good,2,Excellent,B - Blinds,FL,TT - Tabletop,1 (Standard),A - Analog,1
+York Hall,4060A,YORK 4060A,4,304,15,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 6' x 4' (1)
+C - Chalk 14' x 4' (1)",Yes (>12'),G - Good,Good,4,Poor,B - Blinds,FL,TT - Tabletop,1 (Standard),A - Analog,1
+York Hall,4060B,YORK 4060B,4,281,15,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 8' x 4' (1)
+C - Chalk 14' x 4' (1)",Yes (>12'),G - Good,Good,3,Poor,B - Blinds,FL,TT - Tabletop,1 (Standard),A - Analog,1
+York Hall,4080A,YORK 4080A,4,669,50,Classroom,Yes,Yes,No,T - Tile,M - Movable,No,No,C - Chalk 14' x 4' (2),Yes (>12'),"P - Poor
+REV - Echo in room",Unknown,12,Poor,B - Blinds,FL,"TT-M - Tabletop, mounted on table",1 (Standard),A - Analog,N/A
+Asante House Meeting Rooms,123A,ASANT 123A,1,715,25,Open Lab - Restricted,No,Yes,No,C - Carpet,M - Movable,N/A,No,C - Chalk 10' x 4' (1),Yes (>12'),"P - Poor
+REV - Echo in room",N/A,3,N/A,B - Blinds,FL,,N/A,A - Analog,N/A
+Asante House Meeting Rooms,123B,ASANT 123B,1,659,34,Open Lab - Restricted,No,Yes,No,N/A,N/A,N/A,No,N/A,No (8'),G - Good,N/A,N/A,,,FL,,N/A,A - Analog,N/A
+Asante House Meeting Rooms,123C,ASANT 123C,1,721,34,Open Lab - Restricted,No,Yes,No,C - Carpet,M - Movable,N/A,No,C - Chalk 10' x 4' (1),No (8'),G - Good,N/A,7,N/A,B - Blinds,FL,,1 (Standard),A - Analog,N/A
+Asante House Meeting Rooms,123D,ASANT 123D,1,663,20,Open Lab - Restricted,No,Yes,No,C - Carpet,M - Movable,N/A,No,C - Chalk 10' x 4' (1),No (8'),"P - Poor
+REV - Echo in room",N/A,3,N/A,B - Blinds,FL,,N/A,A - Analog,N/A
+Copley International Conference Center,109,CICC 109,1,1166,28,Conference Room,No,Yes,No,N/A,N/A,N/A,No,N/A,N/A,N/A,N/A,N/A,,,,,N/A,A - Analog,N/A
+Humanities and Social Sciences,2346A,HSS 2346A,2,466,22,Open Lab - Restricted,No,Yes,No,N/A,N/A,N/A,No,N/A,N/A,N/A,N/A,N/A,,,,,N/A,"A - Analog
+A - Analog",N/A
+Leichtag Family Foundation Biomedical Research Building,105,LEICHTAG 105,1,112,0,Conference Room Service,No,No,No,C/T - Cement/Tile,F - Fixed,No,No,N/A,No (8'),G - Good,Unknown,N/A,,,FL,TT - Tabletop,N/A,A - Analog,N/A
+Otterson Hall,1E106,OTRSN 1E106,1,2156,98,Lecture Hall,No,Yes,No,N/A,N/A,N/A,No,N/A,N/A,N/A,N/A,N/A,,,,,N/A,A - Analog,N/A
+Otterson Hall,1E107,OTRSN 1E107,1,2165,98,Lecture Hall,No,Yes,No,N/A,N/A,N/A,No,N/A,N/A,N/A,N/A,N/A,,,,,N/A,A - Analog,N/A
+Otterson Hall,1E113,OTRSN 1E113,1,143,75,Scholarly Activity,No,Yes,No,N/A,N/A,N/A,No,N/A,N/A,N/A,N/A,N/A,,,,,N/A,A - Analog,N/A
+Otterson Hall,1E114,OTRSN 1E114,1,143,75,Scholarly Activity,No,Yes,No,N/A,N/A,N/A,No,N/A,N/A,N/A,N/A,N/A,,,,,N/A,A - Analog,N/A
+Otterson Hall,2S118,OTRSN 2S118,2,387,16,Scholarly Activity,No,Yes,No,N/A,N/A,N/A,No,N/A,N/A,N/A,N/A,N/A,,,,,N/A,A - Analog,N/A
+Otterson Hall,3E107,OTRSN 3E107,3,1852,60,Classroom,No,Yes,No,N/A,N/A,N/A,No,N/A,N/A,N/A,N/A,N/A,,,,,N/A,A - Analog,N/A
+Otterson Hall,3E108,OTRSN 3E108,3,732,30,Classroom,No,Yes,No,N/A,N/A,N/A,No,N/A,N/A,N/A,N/A,N/A,,,,,N/A,A - Analog,N/A
+Otterson Hall,3E109,OTRSN 3E109,3,656,20,Classroom,No,Yes,No,N/A,N/A,N/A,No,N/A,N/A,N/A,N/A,N/A,,,,,N/A,A - Analog,N/A
+Otterson Hall,3E111,OTRSN 3E111,3,400,12,Conference Room,No,Yes,No,N/A,N/A,N/A,No,N/A,N/A,N/A,N/A,N/A,,,,,N/A,A - Analog,N/A
+Otterson Hall,3E112,OTRSN 3E112,3,402,12,Conference Room,No,Yes,No,N/A,N/A,N/A,No,N/A,N/A,N/A,N/A,N/A,,,,,N/A,A - Analog,N/A
+Otterson Hall,4E106,OTRSN 4E106,4,2310,50,Conference Room,No,Yes,No,N/A,N/A,N/A,No,N/A,N/A,N/A,N/A,N/A,,,,,N/A,A - Analog,N/A
+Robinson Building 3 - Library,3201,RBC 3201,2,1176,82,Lecture Hall,No,Yes,No,T - Tile,F - Fixed,N/A,No,"W - White 8' x 4' (1)
+W - White 10' x 4' (1)",No (8'),G - Good,N/A,None,,,"FL, Dimmable
+IN, Dimmable",,1 (Standard),A - Analog,N/A
+Robinson Building 3 - Library,3202,RBC 3202,2,771,50,Classroom,No,Yes,No,T - Tile,F - Fixed,N/A,No,"W - White 4' x 4' (1)
+W - White 8' x 4' (1)",No (8'),G - Good,N/A,None,,,"FL, Dimmable
+IN, Dimmable",,2 (Standard),A - Analog,N/A

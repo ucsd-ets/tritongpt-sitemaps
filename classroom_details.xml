@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://raw.githubusercontent.com/ucsd-ets/tritongpt-sitemaps/main/classroom_details/ClassroomAttributes.xls</loc>
+    <loc>https://raw.githubusercontent.com/ucsd-ets/tritongpt-sitemaps/main/classroom_details/ClassroomAttributes-Classroom_Attributes.csv</loc>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/ucsd-ets/tritongpt-sitemaps/main/classroom_details/ClassroomAttributes-Media_Equipment.csv</loc>
   </url>
 </urlset>
