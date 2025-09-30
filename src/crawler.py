@@ -209,6 +209,10 @@ class Crawler:
 				msg = response.read()
 				self.response_code[response.getcode()] += 1
 
+				# Check for "anubis" in the response content
+				if b"anubis" in msg.lower():
+					logging.warning(f"WARNING: 'anubis' detected in response from {current_url}")
+
 				response.close()
 
 				# Get the last modify date

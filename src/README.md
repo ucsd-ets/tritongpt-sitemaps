@@ -102,6 +102,12 @@ $ python3 main.py --domain https://blog.lesite.us --auth
 $ python3 main.py --domain https://blog.lesite.us --as-index --output sitemap.xml
 ```
 
+#### Manual sitemap with file download
+***For static files hosted externally, you can download and generate a sitemap pointing to your repository's hosted version:***
+```
+$ python3 manual.py --download-url https://example.com/file.xls --download-dest local-dir/file.xls --directory local-dir --base-url https://raw.githubusercontent.com/user/repo/main --output sitemap.xml
+```
+
 ## Docker usage
 
 #### Build the Docker image:
