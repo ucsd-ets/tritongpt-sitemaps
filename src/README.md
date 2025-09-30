@@ -108,6 +108,12 @@ $ python3 main.py --domain https://blog.lesite.us --as-index --output sitemap.xm
 $ python3 manual.py --download-url https://example.com/file.xls --download-dest local-dir/file.xls --directory local-dir --base-url https://raw.githubusercontent.com/user/repo/main --url-prefix local-dir --output sitemap.xml
 ```
 
+#### Convert Excel files to CSV
+***Add `--convert-to-csv` to convert downloaded Excel files to CSV UTF-8 format (one file per worksheet). Requires pandas and openpyxl:***
+```
+$ python3 manual.py --download-url https://example.com/file.xls --download-dest local-dir/file.xls --convert-to-csv --directory local-dir --base-url https://raw.githubusercontent.com/user/repo/main --url-prefix local-dir --output sitemap.xml
+```
+
 ## Docker usage
 
 #### Build the Docker image:

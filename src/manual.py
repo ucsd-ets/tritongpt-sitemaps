@@ -9,9 +9,136 @@ import argparse
 from urllib.parse import urljoin
 from urllib.request import urlopen, Request
 from urllib.error import URLError, HTTPError
+import re
 
 OUTPUT_FILE_NAME = 'TEST_manual_sitemap.xml'
 INPUT_FILE_NAME = 'manual_urls.txt'
+
+def convert_xls_to_csv(xls_path):
+    """Convert Excel file to CSV files (one per worksheet).
+
+    Args:
+        xls_path: Path to the Excel file
+
+    Returns:
+        List of paths to generated CSV files, or empty list on error
+    """
+    try:
+        import xml.etree.ElementTree as ET
+        import csv
+
+        # Check if it's XML-based Excel format
+        with open(xls_path, 'rb') as f:
+            header = f.read(100)
+
+        # XML-based Excel format (SpreadsheetML)
+        if b'<?xml' in header or b'<Workbook' in header:
+            # Parse using lxml for better malformed XML handling
+            try:
+                from lxml import etree as lxml_etree
+                parser = lxml_etree.XMLParser(recover=True)
+                tree = lxml_etree.parse(xls_path, parser)
+                root = tree.getroot()
+            except ImportError:
+                # Fallback to ElementTree
+                tree = ET.parse(xls_path)
+                root = tree.getroot()
+
+            # Define namespaces for SpreadsheetML
+            ns = {
+                'ss': 'urn:schemas-microsoft-com:office:spreadsheet',
+                'o': 'urn:schemas-microsoft-com:office:office',
+                'x': 'urn:schemas-microsoft-com:office:excel',
+                'html': 'http://www.w3.org/TR/REC-html40'
+            }
+
+            csv_files = []
+            base_name = os.path.splitext(xls_path)[0]
+
+            # Find all worksheets
+            worksheets = root.findall('.//ss:Worksheet', ns)
+            print(f"Converting {len(worksheets)} worksheet(s) to CSV...")
+
+            for worksheet in worksheets:
+                sheet_name = worksheet.get('{urn:schemas-microsoft-com:office:spreadsheet}Name', 'Sheet')
+
+                # Create a clean filename from sheet name
+                clean_sheet_name = re.sub(r'[^\w\s-]', '', sheet_name).strip()
+                clean_sheet_name = re.sub(r'[-\s]+', '_', clean_sheet_name)
+
+                # Generate CSV filename
+                csv_path = f"{base_name}-{clean_sheet_name}.csv"
+
+                # Extract data from worksheet
+                rows_data = []
+                table = worksheet.find('.//ss:Table', ns)
+                if table is not None:
+                    rows = table.findall('.//ss:Row', ns)
+                    for row in rows:
+                        row_data = []
+                        cells = row.findall('.//ss:Cell', ns)
+                        for cell in cells:
+                            data_elem = cell.find('.//ss:Data', ns)
+                            if data_elem is not None:
+                                row_data.append(data_elem.text if data_elem.text else '')
+                            else:
+                                row_data.append('')
+                        rows_data.append(row_data)
+
+                # Write to CSV
+                with open(csv_path, 'w', newline='', encoding='utf-8') as csvfile:
+                    writer = csv.writer(csvfile)
+                    writer.writerows(rows_data)
+
+                csv_files.append(csv_path)
+                print(f"  Created: {csv_path}")
+
+            # Remove the original .xls file
+            os.remove(xls_path)
+            print(f"Removed original file: {xls_path}")
+
+            return csv_files
+
+        else:
+            # Binary Excel format - use pandas
+            try:
+                import pandas as pd
+                excel_dict = pd.read_excel(xls_path, sheet_name=None, engine='openpyxl')
+
+                csv_files = []
+                base_name = os.path.splitext(xls_path)[0]
+
+                print(f"Converting {len(excel_dict)} worksheet(s) to CSV...")
+
+                for sheet_name, df in excel_dict.items():
+                    # Create a clean filename from sheet name
+                    clean_sheet_name = re.sub(r'[^\w\s-]', '', sheet_name).strip()
+                    clean_sheet_name = re.sub(r'[-\s]+', '_', clean_sheet_name)
+
+                    # Generate CSV filename
+                    csv_path = f"{base_name}-{clean_sheet_name}.csv"
+
+                    # Save as CSV with UTF-8 encoding
+                    df.to_csv(csv_path, index=False, encoding='utf-8')
+                    csv_files.append(csv_path)
+                    print(f"  Created: {csv_path}")
+
+                # Remove the original .xls file
+                os.remove(xls_path)
+                print(f"Removed original file: {xls_path}")
+
+                return csv_files
+
+            except ImportError:
+                print("Error: pandas and openpyxl are required for binary Excel conversion.")
+                print("Install with: pip install pandas openpyxl")
+                return []
+
+    except Exception as e:
+        print(f"Error converting to CSV: {e}")
+        import traceback
+        traceback.print_exc()
+        return []
 
 def download_file(source_url, destination_path):
     """Download a file from a URL and save it locally.
@@ -146,6 +273,8 @@ if __name__ == '__main__':
     parser.add_argument('--download-url', help='URL to download file from before generating sitemap')
     parser.add_argument('--download-dest', help='Local path to save downloaded file (required with --download-url)')
     parser.add_argument('--url-prefix', help='URL prefix to prepend to file paths (defaults to directory basename)')
+    parser.add_argument('--convert-to-csv', action='store_true', default=False,
+                       help='Convert downloaded Excel file to CSV UTF-8 (one file per worksheet)')
 
     args = parser.parse_args()
 
@@ -159,6 +288,13 @@ if __name__ == '__main__':
         if not success:
             print("Download failed. Exiting.")
             exit(1)
+
+        # Convert to CSV if requested
+        if args.convert_to_csv:
+            csv_files = convert_xls_to_csv(args.download_dest)
+            if not csv_files:
+                print("CSV conversion failed. Exiting.")
+                exit(1)
 
     if args.directory:
         if not args.base_url:
