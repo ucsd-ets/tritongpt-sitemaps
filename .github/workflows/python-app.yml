@@ -26,8 +26,8 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Run Python script
       run: python src/main.py --config src/config/config.json
-    - name: Download and generate classroom-details sitemap
-      run: python src/manual.py --download-url https://facilities.ucsd.edu/NA/ClassroomAttributes/ClassroomAttributes.xls --download-dest classroom-details/ClassroomAttributes.xls --directory classroom-details --base-url https://raw.githubusercontent.com/ucsd-ets/tritongpt-sitemaps/main --output classroom-details.xml
+    - name: Download and generate classroom_details sitemap
+      run: python src/manual.py --download-url https://facilities.ucsd.edu/NA/ClassroomAttributes/ClassroomAttributes.xls --download-dest classroom_details/ClassroomAttributes.xls --directory classroom_details --base-url https://raw.githubusercontent.com/ucsd-ets/tritongpt-sitemaps/main --output classroom_details.xml
     - name: Check for changes
       id: check_changes
       run: |
