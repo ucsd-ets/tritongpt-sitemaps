@@ -64,7 +64,7 @@ def generate_sitemap_from_file(input_file, output_file):
     write_sitemap(urls, output_file)
 
 
-def generate_sitemap_from_directory(directory, base_url, output_file, extensions=None):
+def generate_sitemap_from_directory(directory, base_url, output_file, extensions=None, url_prefix=None):
     """Generate sitemap by scanning a directory for static files.
 
     Args:
@@ -72,6 +72,7 @@ def generate_sitemap_from_directory(directory, base_url, output_file, extensions
         base_url: Base URL for the site (e.g., 'https://example.com')
         output_file: Output sitemap file path
         extensions: List of file extensions to include (default: common static files)
+        url_prefix: Optional prefix to prepend to file paths in URLs. If None, uses directory basename.
     """
     if extensions is None:
         extensions = ['.html', '.htm', '.pdf', '.txt', '.xml', '.json', '.css', '.js',
@@ -84,6 +85,10 @@ def generate_sitemap_from_directory(directory, base_url, output_file, extensions
     # Normalize base_url
     if not base_url.endswith('/'):
         base_url += '/'
+
+    # Determine URL prefix: use provided prefix or directory basename
+    if url_prefix is None:
+        url_prefix = os.path.basename(os.path.abspath(directory))
 
     # Walk through directory
     for root, dirs, files in os.walk(directory):
@@ -98,8 +103,11 @@ def generate_sitemap_from_directory(directory, base_url, output_file, extensions
                 # Convert to URL path (use forward slashes)
                 url_path = rel_path.replace(os.sep, '/')
 
+                # Prepend the URL prefix
+                full_path = f"{url_prefix}/{url_path}"
+
                 # Create full URL
-                full_url = urljoin(base_url, url_path)
+                full_url = urljoin(base_url, full_path)
                 urls.append(full_url)
 
     # Sort URLs for consistency
@@ -137,6 +145,7 @@ if __name__ == '__main__':
                        help='File extensions to include (e.g., .html .pdf .css)')
     parser.add_argument('--download-url', help='URL to download file from before generating sitemap')
     parser.add_argument('--download-dest', help='Local path to save downloaded file (required with --download-url)')
+    parser.add_argument('--url-prefix', help='URL prefix to prepend to file paths (defaults to directory basename)')
 
     args = parser.parse_args()
 
@@ -165,7 +174,7 @@ if __name__ == '__main__':
         if args.extensions:
             extensions = [ext if ext.startswith('.') else f'.{ext}' for ext in args.extensions]
 
-        generate_sitemap_from_directory(args.directory, args.base_url, args.output, extensions)
+        generate_sitemap_from_directory(args.directory, args.base_url, args.output, extensions, args.url_prefix)
     else:
         # Generate from file
         generate_sitemap_from_file(args.input_file, args.output)
