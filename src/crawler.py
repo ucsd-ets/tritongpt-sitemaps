@@ -67,7 +67,7 @@ class Crawler:
 	def __init__(self, num_workers=1, parserobots=False, output=None,
 				 report=False ,domain="", exclude=[], skipext=[], drop=[],
 				 debug=False, verbose=False, images=False, auth=False, as_index=False,
-				 sort_alphabetically=True, user_agent='*'):
+				 sort_alphabetically=True, user_agent='*', sitemap_url=None, sitemap_only=False):
 		self.num_workers = num_workers
 		self.parserobots = parserobots
 		self.user_agent = user_agent
@@ -83,6 +83,8 @@ class Crawler:
 		self.auth       = auth
 		self.as_index   = as_index
 		self.sort_alphabetically = sort_alphabetically
+		self.sitemap_url = sitemap_url
+		self.sitemap_only = sitemap_only
 
 		if self.debug:
 			log_level = logging.DEBUG
@@ -93,7 +95,25 @@ class Crawler:
 
 		logging.basicConfig(level=log_level)
 
-		self.urls_to_crawl = {self.clean_link(domain)}
+		# Initialize urls_to_crawl based on sitemap configuration
+		self.urls_to_crawl = set()
+
+		# Add sitemap URLs first if provided
+		if self.sitemap_url:
+			# Handle both single URL and list of URLs
+			sitemap_urls = self.sitemap_url if isinstance(self.sitemap_url, list) else [self.sitemap_url]
+			for sitemap_url in sitemap_urls:
+				self.urls_to_crawl.add(self.clean_link(sitemap_url))
+				logging.info(f"Added sitemap URL to crawl queue: {sitemap_url}")
+
+		# Add domain URL only if not in sitemap-only mode
+		if not self.sitemap_only:
+			self.urls_to_crawl.add(self.clean_link(domain))
+		elif not self.sitemap_url:
+			# If sitemap_only=True but no sitemap_url provided, fall back to domain
+			logging.warning("sitemap_only=True but no sitemap_url provided, falling back to domain")
+			self.urls_to_crawl.add(self.clean_link(domain))
+
 		self.url_strings_to_output = []
 		self.num_crawled = 0
 
