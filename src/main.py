@@ -19,6 +19,8 @@ parser.add_argument('--exclude', action="append", default=[], required=False, he
 parser.add_argument('--drop', action="append", default=[], required=False, help="Drop a string from the url")
 parser.add_argument('--report', action="store_true", default=False, required=False, help="Display a report")
 parser.add_argument('--images', action="store_true", default=False, required=False, help="Add image to sitemap.xml (see https://support.google.com/webmasters/answer/178636?hl=en)")
+parser.add_argument('--sitemap-url', action="store", default=None, required=False, help="Custom sitemap URL(s) to process (can be sitemap index or regular sitemap)", dest='sitemap_url')
+parser.add_argument('--sitemap-only', action="store_true", default=False, required=False, help="Only process sitemaps, do not crawl HTML pages", dest='sitemap_only')
 
 group = parser.add_mutually_exclusive_group()
 group.add_argument('--config', action="store", default=None, help="Configuration file in json format")
@@ -34,16 +36,18 @@ if arg.config is not None:
     except Exception as e:
         configs = []
 else:
-    configs = []
+    # If no config file, create a single config from command-line args
+    configs = [{}]
 
 # Loop through each configuration and run the crawler
 for config in configs:
-    dict_arg = arg.__dict__
+    dict_arg = arg.__dict__.copy()
     for argument in config:
         if argument in dict_arg:
             dict_arg[argument] = config[argument]
-    if dict_arg.get('config'):
-        del(dict_arg['config'])
+    # Remove 'config' argument as it's not a Crawler parameter
+    if 'config' in dict_arg:
+        del dict_arg['config']
 
     if dict_arg["domain"] == "":
         print("You must provide a domain to use the crawler.")

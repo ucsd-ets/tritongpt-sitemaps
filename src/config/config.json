@@ -74,5 +74,35 @@
       "/sports-clubs-posts",
 	  "/?post_type="
     ]
+  },
+  {
+    "domain": "https://www.law.berkeley.edu",
+    "sitemap_url": "https://www.law.berkeley.edu/sitemap_index.xml",
+    "sitemap_only": true,
+    "parserobots": false,
+    "debug": true,
+    "output": "berkeley_law.xml",
+    "exclude": [],
+    "skipext": []
+  },
+  {
+    "domain": "https://vcresearch.berkeley.edu",
+    "sitemap_url": "https://vcresearch.berkeley.edu/sitemap.xml",
+    "sitemap_only": true,
+    "parserobots": false,
+    "debug": true,
+    "output": "vcresearch_berkeley.xml",
+    "exclude": [],
+    "skipext": []
+  },
+  {
+    "domain": "https://haas.berkeley.edu",
+    "sitemap_url": "https://haas.berkeley.edu/sitemap_index.xml",
+    "sitemap_only": true,
+    "parserobots": false,
+    "debug": true,
+    "output": "haas_berkeley.xml",
+    "exclude": [],
+    "skipext": []
   }
 ]
