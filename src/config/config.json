@@ -91,7 +91,7 @@
     "sitemap_only": true,
     "parserobots": false,
     "debug": true,
-    "output": "vcresearch_berkeley.xml",
+    "output": "berkeley_vcresearch.xml",
     "exclude": [],
     "skipext": []
   },
@@ -101,7 +101,7 @@
     "sitemap_only": true,
     "parserobots": false,
     "debug": true,
-    "output": "haas_berkeley.xml",
+    "output": "berkeley_haas.xml",
     "exclude": [],
     "skipext": []
   }
