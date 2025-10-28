@@ -102,6 +102,59 @@ $ python3 main.py --domain https://blog.lesite.us --auth
 $ python3 main.py --domain https://blog.lesite.us --as-index --output sitemap.xml
 ```
 
+## Sitemap-specific features
+
+#### Process existing sitemaps
+
+Instead of crawling HTML pages, you can process existing sitemaps or sitemap indexes:
+
+```
+$ python main.py --domain https://example.com --sitemap-url https://example.com/sitemap.xml --sitemap-only --output sitemap.xml
+```
+
+#### Process sitemap indexes (parent sitemaps)
+
+The crawler automatically detects and recursively processes sitemap indexes. When it encounters a sitemap index (containing `<sitemapindex>` tags), it will:
+1. Extract all child sitemap URLs from the index
+2. Fetch each child sitemap
+3. Extract all page URLs from the child sitemaps
+4. Output all discovered URLs to your output file
+
+Example with Berkeley Law's sitemap index:
+```
+$ python main.py --domain https://www.law.berkeley.edu --sitemap-url https://www.law.berkeley.edu/sitemap_index.xml --sitemap-only --output berkeley_law.xml
+```
+
+#### Command-line options for sitemaps
+
+- `--sitemap-url URL`: Specify a custom sitemap URL to process (can be a regular sitemap or sitemap index)
+- `--sitemap-only`: Only process the specified sitemap(s), don't crawl HTML pages
+
+#### Config file example for sitemap processing
+
+You can also configure sitemap processing in the config.json file:
+
+```json
+{
+  "domain": "https://www.law.berkeley.edu",
+  "sitemap_url": "https://www.law.berkeley.edu/sitemap_index.xml",
+  "sitemap_only": true,
+  "output": "berkeley_law.xml",
+  "exclude": [],
+  "skipext": []
+}
+```
+
+Then run:
+```
+$ python main.py --config config/config.json
+```
+
+This is particularly useful when you want to:
+- Only extract URLs from existing sitemaps without crawling the website
+- Process large websites that already have comprehensive sitemaps
+- Work with sitemap indexes that contain multiple child sitemaps
+
 ## Docker usage
 
 #### Build the Docker image:

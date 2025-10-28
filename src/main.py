@@ -36,16 +36,18 @@ if arg.config is not None:
     except Exception as e:
         configs = []
 else:
-    configs = []
+    # If no config file, create a single config from command-line args
+    configs = [{}]
 
 # Loop through each configuration and run the crawler
 for config in configs:
-    dict_arg = arg.__dict__
+    dict_arg = arg.__dict__.copy()
     for argument in config:
         if argument in dict_arg:
             dict_arg[argument] = config[argument]
-    if dict_arg.get('config'):
-        del(dict_arg['config'])
+    # Remove 'config' argument as it's not a Crawler parameter
+    if 'config' in dict_arg:
+        del dict_arg['config']
 
     if dict_arg["domain"] == "":
         print("You must provide a domain to use the crawler.")
