@@ -21,6 +21,15 @@ import config
 class IllegalArgumentError(ValueError):
 	pass
 
+class UrlDiffThresholdExceeded(Exception):
+	def __init__(self, domain, old_count, new_count, threshold):
+		self.domain = domain
+		self.old_count = old_count
+		self.new_count = new_count
+		self.threshold = threshold
+		self.diff = abs(new_count - old_count)
+		super().__init__(f"URL count difference ({self.diff}) exceeds threshold ({threshold}) for {domain}")
+
 class Crawler:
 
 	MAX_URLS_PER_SITEMAP = 50000
@@ -67,7 +76,8 @@ class Crawler:
 	def __init__(self, num_workers=1, parserobots=False, output=None,
 				 report=False ,domain="", exclude=[], skipext=[], drop=[],
 				 debug=False, verbose=False, images=False, auth=False, as_index=False,
-				 sort_alphabetically=True, user_agent='*', sitemap_url=None, sitemap_only=False):
+				 sort_alphabetically=True, user_agent='*', sitemap_url=None, sitemap_only=False,
+				 max_url_diff=None):
 		self.num_workers = num_workers
 		self.parserobots = parserobots
 		self.user_agent = user_agent
@@ -85,6 +95,7 @@ class Crawler:
 		self.sort_alphabetically = sort_alphabetically
 		self.sitemap_url = sitemap_url
 		self.sitemap_only = sitemap_only
+		self.max_url_diff = max_url_diff
 
 		if self.debug:
 			log_level = logging.DEBUG
@@ -128,13 +139,8 @@ class Crawler:
 			logging.error("Invalid domain")
 			raise IllegalArgumentError("Invalid domain")
 
-		if self.output:
-			try:
-				self.output_file = open(self.output, 'w')
-			except:
-				logging.error ("Output file not available.")
-				exit(255)
-		elif self.as_index:
+		# Validate output file path but don't open it yet (we need to check URL diff first)
+		if self.as_index and not self.output:
 			logging.error("When specifying an index file as an output option, you must include an output file name")
 			exit(255)
 
@@ -395,6 +401,31 @@ class Crawler:
 		are_multiple_sitemap_files_required = \
 			len(self.url_strings_to_output) > self.MAX_URLS_PER_SITEMAP
 
+		# Check URL count difference if max_url_diff is configured
+		if self.max_url_diff is not None and self.output:
+			old_count = self.count_urls_in_sitemap(self.output)
+			new_count = len(self.url_strings_to_output)
+
+			# Only check if there's an existing sitemap file
+			if old_count is not None:
+				diff = abs(new_count - old_count)
+				logging.info(f"URL count comparison - Old: {old_count}, New: {new_count}, Diff: {diff}, Threshold: {self.max_url_diff}")
+
+				if diff > self.max_url_diff:
+					logging.error(f"ERROR: URL count difference ({diff}) exceeds threshold ({self.max_url_diff}). Skipping update for {self.domain}.")
+					logging.error(f"Old sitemap had {old_count} URLs, new would have {new_count} URLs.")
+					raise UrlDiffThresholdExceeded(self.domain, old_count, new_count, self.max_url_diff)
+				else:
+					logging.info(f"URL count difference check passed ({diff} <= {self.max_url_diff})")
+
+		# Open output file now that threshold check has passed
+		if self.output:
+			try:
+				self.output_file = open(self.output, 'w')
+			except:
+				logging.error("Output file not available.")
+				exit(255)
+
 		# When there are more than 50,000 URLs, the sitemap specification says we have
 		# to split the sitemap into multiple files using an index file that points to the
 		# location of each sitemap file.  For now, we require the caller to explicitly
@@ -458,6 +489,61 @@ class Crawler:
 			print (url_string, file=file)
 
 		print (config.xml_footer, file=file)
+
+	@staticmethod
+	def count_urls_in_sitemap(filepath):
+		"""
+		Count the number of URLs in an existing sitemap file.
+		For regular sitemaps: returns the count of <url> entries.
+		For sitemap indexes: returns the combined count of all URLs across all referenced sitemap files.
+		Returns None if the file doesn't exist.
+		"""
+		if not os.path.exists(filepath):
+			return None
+
+		try:
+			tree = ET.parse(filepath)
+			root = tree.getroot()
+
+			# Remove namespace from tag for easier comparison
+			# Sitemaps use xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+			tag = root.tag.replace('{http://www.sitemaps.org/schemas/sitemap/0.9}', '')
+
+			if tag == 'urlset':
+				# Regular sitemap - count <url> entries
+				url_elements = root.findall('.//{http://www.sitemaps.org/schemas/sitemap/0.9}url')
+				return len(url_elements)
+			elif tag == 'sitemapindex':
+				# Sitemap index - count combined URLs from all referenced sitemaps
+				sitemap_elements = root.findall('.//{http://www.sitemaps.org/schemas/sitemap/0.9}sitemap')
+				total_count = 0
+
+				base_dir = os.path.dirname(filepath)
+
+				for sitemap_elem in sitemap_elements:
+					loc_elem = sitemap_elem.find('{http://www.sitemaps.org/schemas/sitemap/0.9}loc')
+					if loc_elem is not None and loc_elem.text:
+						# Extract the filename from the URL
+						# URLs are like: https://domain.com/path/to/sitemap-0.xml
+						# We need the local file path
+						parsed_url = urlparse(loc_elem.text)
+						sitemap_filename = os.path.basename(parsed_url.path)
+						sitemap_filepath = os.path.join(base_dir, sitemap_filename)
+
+						# Recursively count URLs in this sitemap file
+						count = Crawler.count_urls_in_sitemap(sitemap_filepath)
+						if count is not None:
+							total_count += count
+						else:
+							logging.warning(f"Could not count URLs in referenced sitemap: {sitemap_filepath}")
+
+				return total_count
+			else:
+				logging.warning(f"Unknown sitemap root tag: {tag}")
+				return None
+		except Exception as e:
+			logging.error(f"Error parsing sitemap file {filepath}: {e}")
+			return None
 
 	def clean_link(self, link):
 		parts = list(urlsplit(link))

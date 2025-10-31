@@ -4,35 +4,40 @@
     "parserobots": false,
     "debug": true,
     "output": "bah.xml",
-    "exclude": ["/_files"]
+    "exclude": ["/_files"],
+    "max_url_diff": 100
   },
   {
     "domain": "https://chancellor.ucsd.edu/",
     "parserobots": false,
     "debug": true,
     "output": "chancellor.xml",
-    "exclude": ["/_files", "/chancellor-messages"]
+    "exclude": ["/_files", "/chancellor-messages"],
+    "max_url_diff": 100
   },
   {
     "domain": "https://hdh.ucsd.edu/",
     "parserobots": false,
     "debug": true,
     "output": "hdh.xml",
-    "exclude": ["/_files"]
+    "exclude": ["/_files"],
+    "max_url_diff": 100
   },
   {
     "domain": "https://transportation.ucsd.edu/",
     "parserobots": false,
     "debug": true,
     "output": "transportation.xml",
-    "exclude": ["/_files/"]
+    "exclude": ["/_files/"],
+    "max_url_diff": 100
   },
   {
     "domain": "https://vcsa.ucsd.edu/",
     "parserobots": false,
     "debug": true,
     "output": "vcsa.xml",
-    "exclude": ["/_files/"]
+    "exclude": ["/_files/"],
+    "max_url_diff": 100
   },
   {
     "domain": "https://aps.ucsd.edu",
@@ -40,21 +45,24 @@
     "debug": true,
     "output": "aps.xml",
 	"skipext": [".docx", ".doc", ".xlsx"],
-    "exclude": ["/forms/", "/interfolio/", "/compensation/", "/oars/", "/pop/"]
+    "exclude": ["/forms/", "/interfolio/", "/compensation/", "/oars/", "/pop/"],
+    "max_url_diff": 100
   },
   {
     "domain": "https://diversity.ucsd.edu",
     "parserobots": false,
     "debug": true,
     "output": "diversity.xml",
-    "exclude": ["/research-data", "/eds", "/SAML2", "/SSO", "/_files"]
+    "exclude": ["/research-data", "/eds", "/SAML2", "/SSO", "/_files"],
+    "max_url_diff": 100
   },
   {
     "domain": "https://amphitheater.ucsd.edu",
     "parserobots": false,
     "debug": true,
     "output": "amphitheater.xml",
-    "exclude": []
+    "exclude": [],
+    "max_url_diff": 100
   },
   {
     "domain": "https://recreation.ucsd.edu",
@@ -73,7 +81,8 @@
       "/2023",
       "/sports-clubs-posts",
 	  "/?post_type="
-    ]
+    ],
+    "max_url_diff": 100
   },
   {
     "domain": "https://www.law.berkeley.edu",
@@ -83,7 +92,8 @@
     "debug": true,
     "output": "berkeley_law.xml",
     "exclude": [],
-    "skipext": []
+    "skipext": [],
+    "max_url_diff": 100
   },
   {
     "domain": "https://vcresearch.berkeley.edu",
@@ -93,7 +103,8 @@
     "debug": true,
     "output": "berkeley_vcresearch.xml",
     "exclude": [],
-    "skipext": []
+    "skipext": [],
+    "max_url_diff": 100
   },
   {
     "domain": "https://haas.berkeley.edu",
@@ -103,6 +114,7 @@
     "debug": true,
     "output": "berkeley_haas.xml",
     "exclude": [],
-    "skipext": []
+    "skipext": [],
+    "max_url_diff": 100
   }
 ]

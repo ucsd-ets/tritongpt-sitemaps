@@ -25,6 +25,8 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Run Python script
+      id: main_script
+      continue-on-error: true
       run: python src/main.py --config src/config/config.json
     - name: Download and generate classroom_details sitemap
       run: python src/manual.py --download-url https://facilities.ucsd.edu/NA/ClassroomAttributes/ClassroomAttributes.xls --download-dest classroom_details/ClassroomAttributes.xls --convert-to-csv --directory classroom_details --base-url https://raw.githubusercontent.com/ucsd-ets/tritongpt-sitemaps/main --url-prefix classroom_details --output classroom_details.xml
@@ -40,3 +42,8 @@ jobs:
         git add .
         git commit -m "Automated changes"
         git push
+    - name: Fail workflow if main script had errors
+      if: steps.main_script.outcome == 'failure'
+      run: |
+        echo "Main script failed due to URL diff threshold violations"
+        exit 1

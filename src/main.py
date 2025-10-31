@@ -21,6 +21,7 @@ parser.add_argument('--report', action="store_true", default=False, required=Fal
 parser.add_argument('--images', action="store_true", default=False, required=False, help="Add image to sitemap.xml (see https://support.google.com/webmasters/answer/178636?hl=en)")
 parser.add_argument('--sitemap-url', action="store", default=None, required=False, help="Custom sitemap URL(s) to process (can be sitemap index or regular sitemap)", dest='sitemap_url')
 parser.add_argument('--sitemap-only', action="store_true", default=False, required=False, help="Only process sitemaps, do not crawl HTML pages", dest='sitemap_only')
+parser.add_argument('--max-url-diff', type=int, action="store", default=None, required=False, help="Abort if URL count changes by more than ±N from existing sitemap", dest='max_url_diff')
 
 group = parser.add_mutually_exclusive_group()
 group.add_argument('--config', action="store", default=None, help="Configuration file in json format")
@@ -39,6 +40,9 @@ else:
     # If no config file, create a single config from command-line args
     configs = [{}]
 
+# Track failures to report at the end
+failed_domains = []
+
 # Loop through each configuration and run the crawler
 for config in configs:
     dict_arg = arg.__dict__.copy()
@@ -53,8 +57,34 @@ for config in configs:
         print("You must provide a domain to use the crawler.")
         continue
 
-    crawl = crawler.Crawler(**dict_arg)
-    crawl.run()
+    try:
+        crawl = crawler.Crawler(**dict_arg)
+        crawl.run()
 
-    if arg.report:
-        crawl.make_report()
+        if arg.report:
+            crawl.make_report()
+    except crawler.UrlDiffThresholdExceeded as e:
+        # Collect the failure but continue processing other configs
+        failed_domains.append({
+            'domain': e.domain,
+            'old_count': e.old_count,
+            'new_count': e.new_count,
+            'diff': e.diff,
+            'threshold': e.threshold
+        })
+        print(f"SKIPPED: {e.domain} - URL count changed by {e.diff} (threshold: {e.threshold})")
+
+# Report all failures at the end
+if failed_domains:
+    print("\n" + "="*80)
+    print("SITEMAP GENERATION FAILURES:")
+    print("="*80)
+    for failure in failed_domains:
+        print(f"\nDomain: {failure['domain']}")
+        print(f"  Old URL count: {failure['old_count']}")
+        print(f"  New URL count: {failure['new_count']}")
+        print(f"  Difference: {failure['diff']} (threshold: {failure['threshold']})")
+    print("\n" + "="*80)
+    print(f"Total failures: {len(failed_domains)}")
+    print("="*80)
+    exit(2)
