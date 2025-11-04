@@ -246,7 +246,12 @@ class Crawler:
 				content_type = response.headers.get('Content-Type', '')
 				if 'xml' in content_type.lower() or current_url.endswith('.xml') or self.is_sitemap_url(current_url):
 					# Try to process as XML/sitemap
-					if self.process_xml_content(msg, current_url):
+					# Check if this sitemap was redirected to the target domain
+					final_url = response.geturl()
+					final_domain = urlparse(final_url).netloc
+					redirected_to_target = (current_url != final_url and final_domain == self.target_domain)
+
+					if self.process_xml_content(msg, current_url, redirected_to_target):
 						# Successfully processed as sitemap, no need to continue with HTML processing
 						return
 
@@ -619,8 +624,17 @@ class Crawler:
 			logging.debug(f"Failed to parse sitemap index: {e}")
 		return sitemap_urls
 
-	def parse_sitemap(self, content, base_url):
-		"""Parse a sitemap and extract page URLs"""
+	def parse_sitemap(self, content, base_url, redirected_to_target=False):
+		"""Parse a sitemap and extract page URLs
+
+		Args:
+			content: XML content as string
+			base_url: The URL of the sitemap (unused but kept for compatibility)
+			redirected_to_target: True if this sitemap was redirected to target domain
+
+		Returns:
+			List of page URLs, normalized to target domain if sitemap was redirected
+		"""
 		page_urls = []
 		try:
 			root = ET.fromstring(content)
@@ -637,12 +651,38 @@ class Crawler:
 					loc = url.find('loc')
 					if loc is not None and loc.text:
 						page_urls.append(loc.text.strip())
+
+			# If sitemap was redirected to target domain, normalize all URLs
+			if redirected_to_target and page_urls:
+				normalized_urls = []
+				for page_url in page_urls:
+					parsed = urlparse(page_url)
+					# Replace domain with target domain if different
+					if parsed.netloc != self.target_domain:
+						# Reconstruct URL with target domain
+						normalized_url = f"{self.scheme}://{self.target_domain}{parsed.path}"
+						if parsed.query:
+							normalized_url += f"?{parsed.query}"
+						if parsed.fragment:
+							normalized_url += f"#{parsed.fragment}"
+						logging.debug(f"Normalized {page_url} -> {normalized_url}")
+						normalized_urls.append(normalized_url)
+					else:
+						normalized_urls.append(page_url)
+				return normalized_urls
+
 		except ET.ParseError as e:
 			logging.debug(f"Failed to parse sitemap: {e}")
 		return page_urls
 
-	def process_xml_content(self, content, current_url):
-		"""Process XML content (sitemap or sitemap index)"""
+	def process_xml_content(self, content, current_url, redirected_to_target=False):
+		"""Process XML content (sitemap or sitemap index)
+
+		Args:
+			content: XML content as bytes
+			current_url: The original URL that was requested
+			redirected_to_target: True if this URL redirected (301) to the target domain
+		"""
 		try:
 			# Try to decode if it's bytes
 			if isinstance(content, bytes):
@@ -662,7 +702,7 @@ class Crawler:
 			# Check if it's a regular sitemap
 			elif '<urlset' in content:
 				logging.info(f"Found sitemap at {current_url}")
-				page_urls = self.parse_sitemap(content, current_url)
+				page_urls = self.parse_sitemap(content, current_url, redirected_to_target)
 				# Process page URLs from sitemap
 				for page_url in page_urls:
 					# Only process URLs from the same domain
