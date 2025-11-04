@@ -46,4 +46,10 @@ jobs:
       if: steps.main_script.outcome == 'failure'
       run: |
         echo "Main script failed due to URL diff threshold violations"
+        echo ""
+        if [ -f sitemap_failures.txt ]; then
+          cat sitemap_failures.txt
+        else
+          echo "No failure summary file found"
+        fi
         exit 1

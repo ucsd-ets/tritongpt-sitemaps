@@ -76,15 +76,24 @@ for config in configs:
 
 # Report all failures at the end
 if failed_domains:
-    print("\n" + "="*80)
-    print("SITEMAP GENERATION FAILURES:")
-    print("="*80)
+    failure_summary = []
+    failure_summary.append("="*80)
+    failure_summary.append("SITEMAP GENERATION FAILURES:")
+    failure_summary.append("="*80)
     for failure in failed_domains:
-        print(f"\nDomain: {failure['domain']}")
-        print(f"  Old URL count: {failure['old_count']}")
-        print(f"  New URL count: {failure['new_count']}")
-        print(f"  Difference: {failure['diff']} (threshold: {failure['threshold']})")
-    print("\n" + "="*80)
-    print(f"Total failures: {len(failed_domains)}")
-    print("="*80)
+        failure_summary.append(f"\nDomain: {failure['domain']}")
+        failure_summary.append(f"  Old URL count: {failure['old_count']}")
+        failure_summary.append(f"  New URL count: {failure['new_count']}")
+        failure_summary.append(f"  Difference: {failure['diff']} (threshold: {failure['threshold']})")
+    failure_summary.append("\n" + "="*80)
+    failure_summary.append(f"Total failures: {len(failed_domains)}")
+    failure_summary.append("="*80)
+
+    # Print to console
+    print("\n" + "\n".join(failure_summary))
+
+    # Save to file for GitHub Actions
+    with open('sitemap_failures.txt', 'w') as f:
+        f.write("\n".join(failure_summary))
+
     exit(2)
