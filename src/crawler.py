@@ -22,13 +22,14 @@ class IllegalArgumentError(ValueError):
 	pass
 
 class UrlDiffThresholdExceeded(Exception):
-	def __init__(self, domain, old_count, new_count, threshold):
+	def __init__(self, domain, old_count, new_count, threshold_percent):
 		self.domain = domain
 		self.old_count = old_count
 		self.new_count = new_count
-		self.threshold = threshold
+		self.threshold_percent = threshold_percent
 		self.diff = abs(new_count - old_count)
-		super().__init__(f"URL count difference ({self.diff}) exceeds threshold ({threshold}) for {domain}")
+		self.diff_percent = (self.diff / old_count * 100) if old_count > 0 else 0
+		super().__init__(f"URL count difference ({self.diff}, {self.diff_percent:.1f}%) exceeds threshold ({threshold_percent}%) for {domain}")
 
 class Crawler:
 
@@ -77,7 +78,7 @@ class Crawler:
 				 report=False ,domain="", exclude=[], skipext=[], drop=[],
 				 debug=False, verbose=False, images=False, auth=False, as_index=False,
 				 sort_alphabetically=True, user_agent='*', sitemap_url=None, sitemap_only=False,
-				 max_url_diff=None):
+				 max_url_diff_percent=50):
 		self.num_workers = num_workers
 		self.parserobots = parserobots
 		self.user_agent = user_agent
@@ -95,7 +96,7 @@ class Crawler:
 		self.sort_alphabetically = sort_alphabetically
 		self.sitemap_url = sitemap_url
 		self.sitemap_only = sitemap_only
-		self.max_url_diff = max_url_diff
+		self.max_url_diff_percent = max_url_diff_percent
 
 		if self.debug:
 			log_level = logging.DEBUG
@@ -406,22 +407,25 @@ class Crawler:
 		are_multiple_sitemap_files_required = \
 			len(self.url_strings_to_output) > self.MAX_URLS_PER_SITEMAP
 
-		# Check URL count difference if max_url_diff is configured
-		if self.max_url_diff is not None and self.output:
+		# Check URL count difference if max_url_diff_percent is configured
+		if self.max_url_diff_percent is not None and self.output:
 			old_count = self.count_urls_in_sitemap(self.output)
 			new_count = len(self.url_strings_to_output)
 
 			# Only check if there's an existing sitemap file
-			if old_count is not None:
+			if old_count is not None and old_count > 0:
 				diff = abs(new_count - old_count)
-				logging.info(f"URL count comparison - Old: {old_count}, New: {new_count}, Diff: {diff}, Threshold: {self.max_url_diff}")
+				diff_percent = (diff / old_count) * 100
+				logging.info(f"URL count comparison - Old: {old_count}, New: {new_count}, Diff: {diff} ({diff_percent:.1f}%), Threshold: {self.max_url_diff_percent}%")
 
-				if diff > self.max_url_diff:
-					logging.error(f"ERROR: URL count difference ({diff}) exceeds threshold ({self.max_url_diff}). Skipping update for {self.domain}.")
+				if diff_percent > self.max_url_diff_percent:
+					logging.error(f"ERROR: URL count difference ({diff}, {diff_percent:.1f}%) exceeds threshold ({self.max_url_diff_percent}%). Skipping update for {self.domain}.")
 					logging.error(f"Old sitemap had {old_count} URLs, new would have {new_count} URLs.")
-					raise UrlDiffThresholdExceeded(self.domain, old_count, new_count, self.max_url_diff)
+					raise UrlDiffThresholdExceeded(self.domain, old_count, new_count, self.max_url_diff_percent)
 				else:
-					logging.info(f"URL count difference check passed ({diff} <= {self.max_url_diff})")
+					logging.info(f"URL count difference check passed ({diff_percent:.1f}% <= {self.max_url_diff_percent}%)")
+			else:
+				logging.info("First-time scrape detected, skipping diff detection!")
 
 		# Open output file now that threshold check has passed
 		if self.output:

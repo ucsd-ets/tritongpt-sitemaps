@@ -21,7 +21,7 @@ parser.add_argument('--report', action="store_true", default=False, required=Fal
 parser.add_argument('--images', action="store_true", default=False, required=False, help="Add image to sitemap.xml (see https://support.google.com/webmasters/answer/178636?hl=en)")
 parser.add_argument('--sitemap-url', action="store", default=None, required=False, help="Custom sitemap URL(s) to process (can be sitemap index or regular sitemap)", dest='sitemap_url')
 parser.add_argument('--sitemap-only', action="store_true", default=False, required=False, help="Only process sitemaps, do not crawl HTML pages", dest='sitemap_only')
-parser.add_argument('--max-url-diff', type=int, action="store", default=None, required=False, help="Abort if URL count changes by more than ±N from existing sitemap", dest='max_url_diff')
+parser.add_argument('--max-url-diff-percent', type=float, action="store", default=50, required=False, help="Abort if URL count changes by more than N%% from existing sitemap (default: 50%%)", dest='max_url_diff_percent')
 
 group = parser.add_mutually_exclusive_group()
 group.add_argument('--config', action="store", default=None, help="Configuration file in json format")
@@ -70,9 +70,10 @@ for config in configs:
             'old_count': e.old_count,
             'new_count': e.new_count,
             'diff': e.diff,
-            'threshold': e.threshold
+            'diff_percent': e.diff_percent,
+            'threshold_percent': e.threshold_percent
         })
-        print(f"SKIPPED: {e.domain} - URL count changed by {e.diff} (threshold: {e.threshold})")
+        print(f"SKIPPED: {e.domain} - URL count changed by {e.diff} ({e.diff_percent:.1f}%, threshold: {e.threshold_percent}%)")
 
 # Report all failures at the end
 if failed_domains:
@@ -84,7 +85,8 @@ if failed_domains:
         failure_summary.append(f"\nDomain: {failure['domain']}")
         failure_summary.append(f"  Old URL count: {failure['old_count']}")
         failure_summary.append(f"  New URL count: {failure['new_count']}")
-        failure_summary.append(f"  Difference: {failure['diff']} (threshold: {failure['threshold']})")
+        failure_summary.append(f"  Difference: {failure['diff']} ({failure['diff_percent']:.1f}%)")
+        failure_summary.append(f"  Threshold: {failure['threshold_percent']}%")
     failure_summary.append("\n" + "="*80)
     failure_summary.append(f"Total failures: {len(failed_domains)}")
     failure_summary.append("="*80)
