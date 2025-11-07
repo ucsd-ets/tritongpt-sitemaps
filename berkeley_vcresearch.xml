@@ -160,6 +160,7 @@
 <url><loc>https://vcresearch.berkeley.edu/facilities/college-chemistry-glass-shop</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/facilities/college-chemistry-microanalytical-facility</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/facilities/crl-molecular-imaging-center</loc></url>
+<url><loc>https://vcresearch.berkeley.edu/facilities/crystalline-materials-facility</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/facilities/dna-sequencing-sanger-nanopore-related</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/facilities/earth-and-planetary-science-lab</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/facilities/electron-microscope-laboratory</loc></url>
@@ -310,6 +311,7 @@
 <url><loc>https://vcresearch.berkeley.edu/faculty/andrew-atwood</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/andrew-barshay</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/andrew-bradt</loc></url>
+<url><loc>https://vcresearch.berkeley.edu/faculty/andrew-bray</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/andrew-dillin</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/andrew-garrett</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/andrew-jones</loc></url>
@@ -353,7 +355,6 @@
 <url><loc>https://vcresearch.berkeley.edu/faculty/armando-lara-millan</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/arpad-horvath</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/arthur-middleton</loc></url>
-<url><loc>https://vcresearch.berkeley.edu/faculty/arthur-reingold</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/aruna-ranganathan</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/asad-q-ahmed</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/ashley-wolf</loc></url>
@@ -556,7 +557,6 @@
 <url><loc>https://vcresearch.berkeley.edu/faculty/daniel-stolper</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/daniel-tataru</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/daniel-viehoff</loc></url>
-<url><loc>https://vcresearch.berkeley.edu/faculty/daniel-warren</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/daniela-cammack</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/daniela-kaufer</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/daniella-cadiz-bedini</loc></url>
@@ -692,7 +692,6 @@
 <url><loc>https://vcresearch.berkeley.edu/faculty/elena-schneider</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/eli-yablonovitch</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/elisa-tamarkin</loc></url>
-<url><loc>https://vcresearch.berkeley.edu/faculty/elisabeth-sadoulet</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/elisabeth-semel</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/eliza-brown</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/elizabeth-abel</loc></url>
@@ -822,7 +821,6 @@
 <url><loc>https://vcresearch.berkeley.edu/faculty/greg-castillo</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/greg-niemeyer</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/gregory-barton</loc></url>
-<url><loc>https://vcresearch.berkeley.edu/faculty/gregory-levine</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/gregory-w-aponte</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/grigory-tikhomirov</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/guanghan-meng</loc></url>
@@ -1281,7 +1279,6 @@
 <url><loc>https://vcresearch.berkeley.edu/faculty/marcia-linn</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/marco-gonzalez-navarro</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/margaret-chowning</loc></url>
-<url><loc>https://vcresearch.berkeley.edu/faculty/margaret-larkin</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/margaretta-markle-lovell</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/margaux-pinney</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/maria-laura-delle-monache</loc></url>
@@ -1390,7 +1387,6 @@
 <url><loc>https://vcresearch.berkeley.edu/faculty/michael-miki-lustig</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/michael-nachman</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/michael-nacht</loc></url>
-<url><loc>https://vcresearch.berkeley.edu/faculty/michael-nylan</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/michael-ohare</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/michael-pollan</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/michael-ranney</loc></url>
@@ -1640,10 +1636,8 @@
 <url><loc>https://vcresearch.berkeley.edu/faculty/robert-kaufman</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/robert-l-taylor</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/robert-lillis</loc></url>
-<url><loc>https://vcresearch.berkeley.edu/faculty/robert-m-anderson</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/robert-merges</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/robert-pilawa-podgurski</loc></url>
-<url><loc>https://vcresearch.berkeley.edu/faculty/robert-rhew</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/robert-ritchie</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/robert-s-zucker</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/robert-saxton</loc></url>
@@ -1827,7 +1821,6 @@
 <url><loc>https://vcresearch.berkeley.edu/faculty/suzanne-mj-fleiszig</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/svetlana-jitomirskaya</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/sydnee-caldwell</loc></url>
-<url><loc>https://vcresearch.berkeley.edu/faculty/sylvia-guendelman</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/sylvia-ratnasamy</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/sylvia-tiwon</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/faculty/sylvie-corteel</loc></url>
@@ -3214,6 +3207,7 @@
 <url><loc>https://vcresearch.berkeley.edu/news/film-changed-way-people-saw-sexuality-now-social-media-does</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/film-public-policy-grad-students-wins-emmy</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/financial-impacts-covid-19-higher-education-california</loc></url>
+<url><loc>https://vcresearch.berkeley.edu/news/finch-chirps-are-more-mindless-chatter</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/findings-offer-new-clues-addicted-brain</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/fire-and-foothills-reducing-wildfire-threats-while-boosting-biodiversity</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/fire-water-restoring-natural-fire-californias-mountains</loc></url>
@@ -3420,6 +3414,7 @@
 <url><loc>https://vcresearch.berkeley.edu/news/heady-mathematics-describing-popping-bubbles-foam</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/health-center-expands-testing-those-covid-19-symptoms</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/health-housing-and-path-ahead-uc-berkeley-researchers-los-angeles-fires</loc></url>
+<url><loc>https://vcresearch.berkeley.edu/news/heart-chip-may-lead-new-treatments-heart-failure</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/heart-health-risk-latinas-worried-about-deportation</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/heat-energy-leaps-through-empty-space-thanks-quantum-weirdness</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/heat-index-how-hot-it-feels-rising-faster-temperature</loc></url>

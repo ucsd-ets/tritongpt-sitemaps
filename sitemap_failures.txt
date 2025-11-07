@@ -2,10 +2,10 @@
 SITEMAP GENERATION FAILURES:
 ================================================================================
 
-Domain: https://vcresearch.berkeley.edu
-  Old URL count: 5875
-  New URL count: 2677
-  Difference: 3198 (54.4%)
+Domain: https://aps.ucsd.edu
+  Old URL count: 307
+  New URL count: 593
+  Difference: 286 (93.2%)
   Threshold: 50%
 
 ================================================================================
