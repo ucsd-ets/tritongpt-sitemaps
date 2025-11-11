@@ -8,12 +8,6 @@ Domain: https://aps.ucsd.edu
   Difference: 286 (93.2%)
   Threshold: 50%
 
-Domain: https://vcresearch.berkeley.edu
-  Old URL count: 5875
-  New URL count: 1985
-  Difference: 3890 (66.2%)
-  Threshold: 50%
-
 ================================================================================
-Total failures: 2
+Total failures: 1
 ================================================================================
