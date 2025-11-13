@@ -31,6 +31,11 @@ class UrlDiffThresholdExceeded(Exception):
 		self.diff_percent = (self.diff / old_count * 100) if old_count > 0 else 0
 		super().__init__(f"URL count difference ({self.diff}, {self.diff_percent:.1f}%) exceeds threshold ({threshold_percent}%) for {domain}")
 
+class EmptySitemapError(Exception):
+	def __init__(self, domain):
+		self.domain = domain
+		super().__init__(f"Sitemap is empty (0 URLs) for {domain}")
+
 class Crawler:
 
 	MAX_URLS_PER_SITEMAP = 50000
@@ -412,6 +417,11 @@ class Crawler:
 			old_count = self.count_urls_in_sitemap(self.output)
 			new_count = len(self.url_strings_to_output)
 
+			# Check if sitemap is empty (critical error)
+			if new_count == 0:
+				logging.error(f"ERROR: Sitemap is empty (0 URLs) for {self.domain}. This is likely a crawl failure.")
+				raise EmptySitemapError(self.domain)
+
 			# Only check if there's an existing sitemap file
 			if old_count is not None and old_count > 0:
 				diff = abs(new_count - old_count)
@@ -714,6 +724,14 @@ class Crawler:
 						# Apply exclusion rules
 						if not self.exclude_url(page_url):
 							logging.debug(f"Excluded URL from sitemap: {page_url}")
+							self.nb_exclude += 1
+							continue
+
+						# Check if the file extension should be skipped
+						parsed_url = urlparse(page_url)
+						target_extension = os.path.splitext(parsed_url.path)[1][1:]  # Get extension without dot
+						if target_extension in self.skipext:
+							logging.debug(f"Skipped URL with extension '{target_extension}' from sitemap: {page_url}")
 							self.nb_exclude += 1
 							continue
 

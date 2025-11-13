@@ -74,6 +74,17 @@ for config in configs:
             'threshold_percent': e.threshold_percent
         })
         print(f"SKIPPED: {e.domain} - URL count changed by {e.diff} ({e.diff_percent:.1f}%, threshold: {e.threshold_percent}%)")
+    except crawler.EmptySitemapError as e:
+        # Collect the empty sitemap failure
+        failed_domains.append({
+            'domain': e.domain,
+            'old_count': 'N/A',
+            'new_count': 0,
+            'diff': 'N/A',
+            'diff_percent': 100.0,
+            'threshold_percent': 'N/A'
+        })
+        print(f"SKIPPED: {e.domain} - Sitemap is empty (0 URLs)")
 
 # Report all failures at the end
 if failed_domains:
@@ -85,8 +96,12 @@ if failed_domains:
         failure_summary.append(f"\nDomain: {failure['domain']}")
         failure_summary.append(f"  Old URL count: {failure['old_count']}")
         failure_summary.append(f"  New URL count: {failure['new_count']}")
-        failure_summary.append(f"  Difference: {failure['diff']} ({failure['diff_percent']:.1f}%)")
-        failure_summary.append(f"  Threshold: {failure['threshold_percent']}%")
+        # Handle both numeric and string values for diff_percent
+        diff_percent_str = f"{failure['diff_percent']:.1f}%" if isinstance(failure['diff_percent'], (int, float)) else str(failure['diff_percent'])
+        failure_summary.append(f"  Difference: {failure['diff']} ({diff_percent_str})")
+        # Handle both numeric and string values for threshold_percent
+        threshold_str = f"{failure['threshold_percent']}%" if failure['threshold_percent'] != 'N/A' else failure['threshold_percent']
+        failure_summary.append(f"  Threshold: {threshold_str}")
     failure_summary.append("\n" + "="*80)
     failure_summary.append(f"Total failures: {len(failed_domains)}")
     failure_summary.append("="*80)

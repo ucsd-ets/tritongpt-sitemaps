@@ -1,6 +1,8 @@
 [
   {
     "domain": "https://bah.ucsd.edu/",
+    "sitemap_url": "https://bah.ucsd.edu/sitemap.xml",
+    "sitemap_only": true,
     "parserobots": false,
     "debug": true,
     "output": "bah.xml",
@@ -9,6 +11,8 @@
   },
   {
     "domain": "https://chancellor.ucsd.edu/",
+    "sitemap_url": "https://chancellor.ucsd.edu/sitemap.xml",
+    "sitemap_only": true,
     "parserobots": false,
     "debug": true,
     "output": "chancellor.xml",
@@ -17,6 +21,8 @@
   },
   {
     "domain": "https://hdh.ucsd.edu/",
+    "sitemap_url": "https://hdh.ucsd.edu/sitemap.xml",
+    "sitemap_only": true,
     "parserobots": false,
     "debug": true,
     "output": "hdh.xml",
@@ -25,6 +31,8 @@
   },
   {
     "domain": "https://transportation.ucsd.edu/",
+    "sitemap_url": "https://transportation.ucsd.edu/sitemap.xml",
+    "sitemap_only": true,
     "parserobots": false,
     "debug": true,
     "output": "transportation.xml",
@@ -32,32 +40,39 @@
     "max_url_diff_percent": 50
   },
   {
-    "domain": "https://vcsa.ucsd.edu/",
+    "domain": "https://vcsacl.ucsd.edu/",
+    "sitemap_url": "https://vcsacl.ucsd.edu/sitemap.xml",
+    "sitemap_only": true,
     "parserobots": false,
     "debug": true,
     "output": "vcsa.xml",
     "exclude": ["/_files/"],
-    "max_url_diff_percent": 50
+    "max_url_diff_percent": 100
   },
   {
     "domain": "https://aps.ucsd.edu",
     "parserobots": false,
     "debug": true,
     "output": "aps.xml",
-	  "skipext": [".docx", ".doc", ".xlsx"],
+	  "skipext": ["docx", "doc", "xlsx"],
     "exclude": ["/forms/", "/interfolio/", "/compensation/", "/oars/", "/pop/"],
     "max_url_diff_percent": 100
   },
   {
-    "domain": "https://diversity.ucsd.edu",
+    "domain": "https://transformation.ucsd.edu",
+    "sitemap_url": "https://transformation.ucsd.edu/sitemap.xml",
+    "sitemap_only": true,
     "parserobots": false,
     "debug": true,
     "output": "diversity.xml",
     "exclude": ["/research-data", "/eds", "/SAML2", "/SSO", "/_files"],
-    "max_url_diff_percent": 50
+    "skipext": [],
+    "max_url_diff_percent": 100
   },
   {
     "domain": "https://amphitheater.ucsd.edu",
+    "sitemap_url": "https://amphitheater.ucsd.edu/sitemap.xml",
+    "sitemap_only": true,
     "parserobots": false,
     "debug": true,
     "output": "amphitheater.xml",
@@ -113,6 +128,39 @@
     "parserobots": false,
     "debug": true,
     "output": "berkeley_haas.xml",
+    "exclude": [],
+    "skipext": [],
+    "max_url_diff_percent": 50
+  },
+  {
+    "domain": "https://begin.berkeley.edu",
+    "sitemap_url": "https://begin.berkeley.edu/sitemap_index.xml",
+    "sitemap_only": true,
+    "parserobots": false,
+    "debug": true,
+    "output": "berkeley_begin.xml",
+    "exclude": [],
+    "skipext": [],
+    "max_url_diff_percent": 100
+  },
+  {
+    "domain": "https://ced.berkeley.edu",
+    "sitemap_url": "https://ced.berkeley.edu/sitemap_index.xml",
+    "sitemap_only": true,
+    "parserobots": false,
+    "debug": true,
+    "output": "berkeley_ced.xml",
+    "exclude": [],
+    "skipext": [],
+    "max_url_diff_percent": 50
+  },
+  {
+    "domain": "https://ucnet.universityofcalifornia.edu",
+    "sitemap_url": "https://ucnet.universityofcalifornia.edu/sitemap_index.xml",
+    "sitemap_only": true,
+    "parserobots": false,
+    "debug": true,
+    "output": "ucnet_cal.xml",
     "exclude": [],
     "skipext": [],
     "max_url_diff_percent": 50
