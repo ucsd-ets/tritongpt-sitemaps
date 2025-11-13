@@ -44,9 +44,9 @@
     "parserobots": false,
     "debug": true,
     "output": "aps.xml",
-	"skipext": [".docx", ".doc", ".xlsx"],
+	  "skipext": [".docx", ".doc", ".xlsx"],
     "exclude": ["/forms/", "/interfolio/", "/compensation/", "/oars/", "/pop/"],
-    "max_url_diff_percent": 50
+    "max_url_diff_percent": 100
   },
   {
     "domain": "https://diversity.ucsd.edu",
