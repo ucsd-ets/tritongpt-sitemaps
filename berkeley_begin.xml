@@ -1,968 +1,572 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-  <url>
-    <loc>https://classes.berkeley.edu/content/2025-spring-educ-w190a-001-lec-00</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/bakar-labs/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/blockchain-xcelerator/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/citris-foundry/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/cal-hacks-fellowship/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/cleantech-to-market/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/cyclotron-road/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/energy-and-biosciences-institute-entrepreneurial-business-incubator-ebi2/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/launch/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/skydeck-pad-13-incubator/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/step/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/bearx/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-founders-pledge/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-haas-alumni-relations/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-innovators/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/cal-alumni-association/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/cal-founders/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/career-center/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/handshake/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/ucb-startup-fair/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/bay-area-i-corps/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-post-doc-entrepreneurship-program-bpep/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/ipira/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/life-sciences-entrepreneurship-center/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/startupberkeley-law/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-catalyst-fund-ii/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-frontier-fund/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-skydeck-fund-ii/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/blue-bear-ventures/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/california-innovation-fund/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/bakar-fellows/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/sbir-sttr-grants/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-angel-network/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-haas-entrepreneurship-startup-seed-fund/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/dorm-room-fund/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/erupture-ventures/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/haas-impact-fund/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/house-fund/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/i-school-innovators/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/bee-partners/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/better-ventures/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/bow-capital/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/double-bottom-line-ventures/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/ironfire-ventures/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/kapor-capital/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/life-science-angels/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/osage-university-partners/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/big-ideasberkeley/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/cal-hacks/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/collider-cup/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/haas-venture-fellows/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/nuclear-innovation-bootcamp/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/venture-capital-investment-competition/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-startup-cluster/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/biomolecular-nanotechnology-center/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/citris-invention-lab/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/jacobs-institute-for-design-innovation/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/me-student-machine-shop/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/marvell-nanolab/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/robinson-life-science-business-and-entrepreneurship-program/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-haas-entrepreneurship/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-institute-of-data-science/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-master-of-design/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/blum-center-social-innovator-onramp/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/fung-fellowship-for-wellness-and-technology-innovations/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/fung-institute-for-engineering-leadership/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/garwood-center-for-corporate-innovation/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/learn2launch/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/management-entrepreneurship-technology-program/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/ollie-legal/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/sutardja-center-for-entrepreneurship-technology/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/free-ventures/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/health-engine/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/edge-in-tech-initiative-at-u-c/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-entrepreneurs-association/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/decode/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-changemaker/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/health-tech-colab/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/postx/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/innovation-entrepreneurship-council/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/master-of-engineering-program/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/qb3-garageberkeley/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/courtyard-ventures/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/caltestbed/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-research-infrastructure-commons/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-discovery/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-catalyst-fund-i/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-skydeck-fund-i/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/fasttracking-founders-program/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/tory-burch-fellowship/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/hs-chau-women-in-enterprising-science/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/skydeck-ace-intern-program/</loc>
-  </url>
-  <url>
-    <loc>https://about.crunchbase.com/wp-content/uploads/2020/10/crunchbase_diversity_report_2020.pdf</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/free-ventures-fellowship/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-venture-capital/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/nucleate-bay-area/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/tech-transfer-ipira-dei-page/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/yc-co-founder-matching-scet/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/cradle-to-commerce/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/scet-summer-venture-lab/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/qb3-central/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/build-the-future/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/impact-science-ventures/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/inclusive-innovation-equitable-entrepreneurship/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-taiwan-health-innovation-accelerator/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/neurotech-collider-lab/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/she256/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/design-scholar-program/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-climate-change-network/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/master-of-translational-medicine/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/biology-scholars-program/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/formfund/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-lab/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/bioenginuity-impact-grant/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/sustainable-and-impact-finance-center/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/qb3-mentoring/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/qb3-innovation-discovery/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-ip-practicum/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-haas-open-innovation-squad/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-deep-tech-innovation-lab/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/berkeley-haas-entrepreneurship-hub/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/climate-solutions-fund/</loc>
-  </url>
-  <url>
-    <loc>https://begin.berkeley.edu/resources/richmond-field-station/</loc>
-  </url>
-  <url>
-    <loc>https://bakarlabs.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://xcelerator.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://citrisfoundry.org/</loc>
-  </url>
-  <url>
-    <loc>https://fellowship.calhacks.io/</loc>
-  </url>
-  <url>
-    <loc>https://qb3.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://haas.berkeley.edu/c2m/</loc>
-  </url>
-  <url>
-    <loc>https://cyclotronroad.lbl.gov/</loc>
-  </url>
-  <url>
-    <loc>https://energybiosciencesinstitute.org/entrepreneurship/</loc>
-  </url>
-  <url>
-    <loc>https://uclaunch.com/</loc>
-  </url>
-  <url>
-    <loc>https://skydeck.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://step.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://bearx.co/</loc>
-  </url>
-  <url>
-    <loc>https://founderspledge.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://haas.berkeley.edu/alumni/</loc>
-  </url>
-  <url>
-    <loc>https://innovators.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://alumni.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://calfounders.com/</loc>
-  </url>
-  <url>
-    <loc>https://career.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://career.berkeley.edu/handshake</loc>
-  </url>
-  <url>
-    <loc>https://ucbstartupfair.com/</loc>
-  </url>
-  <url>
-    <loc>https://bayicorps.com/</loc>
-  </url>
-  <url>
-    <loc>https://bpep.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://ipira.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://lsec.berkeley.edu/home</loc>
-  </url>
-  <url>
-    <loc>https://law.berkeley.edu/experiential/clinics/new-business-community-law-clinic/</loc>
-  </url>
-  <url>
-    <loc>https://law.berkeley.edu/experiential/startupberkeleylaw/</loc>
-  </url>
-  <url>
-    <loc>https://berkeleycatalystfund.com/</loc>
-  </url>
-  <url>
-    <loc>https://berkeleyfrontier.com/</loc>
-  </url>
-  <url>
-    <loc>https://skydeck.vc/</loc>
-  </url>
-  <url>
-    <loc>https://bbv.io/</loc>
-  </url>
-  <url>
-    <loc>https://californiainnovationfund.com/</loc>
-  </url>
-  <url>
-    <loc>https://bakarfellows.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://ipira.berkeley.edu/sbir-sttr-grants</loc>
-  </url>
-  <url>
-    <loc>https://berkeleyangelnetwork.com/</loc>
-  </url>
-  <url>
-    <loc>https://entrepreneurship.berkeley.edu/seed-funding/</loc>
-  </url>
-  <url>
-    <loc>https://dormroomfund.com/</loc>
-  </url>
-  <url>
-    <loc>https://erupture.co/</loc>
-  </url>
-  <url>
-    <loc>https://haas.berkeley.edu/saif/curriculum/haas-impact-fund/</loc>
-  </url>
-  <url>
-    <loc>https://thehouse.fund/</loc>
-  </url>
-  <url>
-    <loc>https://ischool.berkeley.edu/news/2019/funding-future-i-school-innovators</loc>
-  </url>
-  <url>
-    <loc>https://beepartners.vc/</loc>
-  </url>
-  <url>
-    <loc>https://better.vc/</loc>
-  </url>
-  <url>
-    <loc>https://bowcapital.com/</loc>
-  </url>
-  <url>
-    <loc>https://dbl.vc/about/</loc>
-  </url>
-  <url>
-    <loc>https://ironfireventures.com/</loc>
-  </url>
-  <url>
-    <loc>https://kaporcapital.com/</loc>
-  </url>
-  <url>
-    <loc>https://lifescienceangels.com/who-we-are</loc>
-  </url>
-  <url>
-    <loc>https://oup.vc/</loc>
-  </url>
-  <url>
-    <loc>https://bigideascontest.org/</loc>
-  </url>
-  <url>
-    <loc>https://calhacks.io/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/collider-cup/</loc>
-  </url>
-  <url>
-    <loc>https://entrepreneurship.berkeley.edu/student-clubs-and-activities/</loc>
-  </url>
-  <url>
-    <loc>https://nuclearbootcamp.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://vcicberkeley.org/index.html</loc>
-  </url>
-  <url>
-    <loc>https://berkeleystartupcluster.com/</loc>
-  </url>
-  <url>
-    <loc>https://qb3.berkeley.edu/facility/bnc/</loc>
-  </url>
-  <url>
-    <loc>https://invent.citris-uc.org/</loc>
-  </url>
-  <url>
-    <loc>https://jacobsinstitute.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://me.berkeley.edu/resources/student-machine-shop/</loc>
-  </url>
-  <url>
-    <loc>https://nanolab.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://haas.berkeley.edu/lsbe/</loc>
-  </url>
-  <url>
-    <loc>https://entrepreneurship.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://bids.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://design.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://blumcenter.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://fungfellows.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://funginstitute.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://corporateinnovation.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://learn2launch.berkeley.edu/home</loc>
-  </url>
-  <url>
-    <loc>https://met.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://ollielegal.com/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://freeventures.org/</loc>
-  </url>
-  <url>
-    <loc>https://readysethealth.io/</loc>
-  </url>
-  <url>
-    <loc>https://edge.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://haas.campusgroups.com/bea/home/</loc>
-  </url>
-  <url>
-    <loc>https://decode.build/</loc>
-  </url>
-  <url>
-    <loc>https://changemaker.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://healthtech.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://postx.berkeley.edu/home</loc>
-  </url>
-  <url>
-    <loc>https://iande.berkeley.edu/ie-council</loc>
-  </url>
-  <url>
-    <loc>https://funginstitute.berkeley.edu/fulltimemeng/</loc>
-  </url>
-  <url>
-    <loc>https://qb3.berkeley.edu/facilities/qb3-garage/</loc>
-  </url>
-  <url>
-    <loc>https://vcresearch.berkeley.edu/facilities/qb3-high-throughput-screening-facility</loc>
-  </url>
-  <url>
-    <loc>https://courtyard.vc/</loc>
-  </url>
-  <url>
-    <loc>https://caltestbed.com/</loc>
-  </url>
-  <url>
-    <loc>https://ipira.berkeley.edu/ric-t</loc>
-  </url>
-  <url>
-    <loc>https://discovery.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://berkeleycatalystfund.com/</loc>
-  </url>
-  <url>
-    <loc>https://skydeck.vc/</loc>
-  </url>
-  <url>
-    <loc>https://funginstitute.berkeley.edu/fasttracking-founders/</loc>
-  </url>
-  <url>
-    <loc>https://innovativegenomics.org/tory-burch/</loc>
-  </url>
-  <url>
-    <loc>https://innovativegenomics.org/enterprising-science-program/</loc>
-  </url>
-  <url>
-    <loc>https://skydeck.berkeley.edu/ace</loc>
-  </url>
-  <url>
-    <loc>https://about.crunchbase.com/wp-content/uploads/2020/10/crunchbase_diversity_report_2020.pdf</loc>
-  </url>
-  <url>
-    <loc>https://freeventures.org/fellowship</loc>
-  </url>
-  <url>
-    <loc>https://berkeleyvc.org/</loc>
-  </url>
-  <url>
-    <loc>https://nucleate.xyz/</loc>
-  </url>
-  <url>
-    <loc>https://ipira.berkeley.edu/diversity-equity-inclusion-belonging-and-justice</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/sutardja-center-partners-with-yc-to-bring-co-founder-matching-platform-to-berkeley/</loc>
-  </url>
-  <url>
-    <loc>https://c2c.lbl.gov/home</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/global/summer-venture-lab/</loc>
-  </url>
-  <url>
-    <loc>https://qb3.org/</loc>
-  </url>
-  <url>
-    <loc>https://thefuture.build/</loc>
-  </url>
-  <url>
-    <loc>https://impactscience.vc/</loc>
-  </url>
-  <url>
-    <loc>https://inclusiveinnovation.ucdavis.edu/</loc>
-  </url>
-  <url>
-    <loc>https://publichealth.berkeley.edu/news-media/school-news/berkeley-taiwan-accelerator/</loc>
-  </url>
-  <url>
-    <loc>https://ncl.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://she256.org/</loc>
-  </url>
-  <url>
-    <loc>https://jacobsinstitute.berkeley.edu/berkeley-engineering-design-scholar-program/</loc>
-  </url>
-  <url>
-    <loc>https://bccn.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://uctranslationalmedicine.org/</loc>
-  </url>
-  <url>
-    <loc>https://bsp.berkeley.edu/home</loc>
-  </url>
-  <url>
-    <loc>https://law.berkeley.edu/experiential/startupberkeleylaw/entrepreneurs/form-fund/</loc>
-  </url>
-  <url>
-    <loc>https://lbl.gov/</loc>
-  </url>
-  <url>
-    <loc>https://bbh.berkeley.edu/bioenginuity-impact-grant/</loc>
-  </url>
-  <url>
-    <loc>https://haas.berkeley.edu/saif/</loc>
-  </url>
-  <url>
-    <loc>https://qb3.org/early-stage-support</loc>
-  </url>
-  <url>
-    <loc>https://qb3.org/</loc>
-  </url>
-  <url>
-    <loc>https://law.berkeley.edu/research/bclt/life-sciences-project/#bb2-berkeley-ip-practicum-6</loc>
-  </url>
-  <url>
-    <loc>https://innovation-squad.berkeley.edu</loc>
-  </url>
-  <url>
-    <loc>https://deeptech.berkeley.edu</loc>
-  </url>
-  <url>
-    <loc>https://ehub.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://haas.berkeley.edu/saif/curriculum/csf/</loc>
-  </url>
-  <url>
-    <loc>https://rfs.berkeley.edu/</loc>
-  </url>
-  <url>
-    <loc>https://vcresearch.berkeley.edu/berkeley-ric/about</loc>
-  </url>
-  <url>
-    <loc>https://ipira.berkeley.edu/entrepreneurs/licensing-process</loc>
-  </url>
-  <url>
-    <loc>https://iande.berkeley.edu/resources/shared-carry-funds</loc>
-  </url>
-  <url>
-    <loc>https://iande.berkeley.edu/sites/default/files/top_10_sources_of_venture_flow_at_uc_berkeley_4.pdf</loc>
-  </url>
-  <url>
-    <loc>https://news.berkeley.edu/2024/09/04/uc-berkeley-ranked-no-1-for-generating-startup-founders-companies-and-female-entrepreneurs/</loc>
-  </url>
-  <url>
-    <loc>https://iande.berkeley.edu/sites/default/files/recognizing_innovation_transfer_and_entrepreneurship_in_the_academic_personnel_process.pdf</loc>
-  </url>
-  <url>
-    <loc>https://iande.berkeley.edu/sites/default/files/entrepreneurship_guide.pdf</loc>
-  </url>
-  <url>
-    <loc>https://iande.berkeley.edu/resources/incubators-and-accelerators</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/programs/summer-venture-lab/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/summer-abroad-global-entrepreneurship-innovation/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/a-richard-newton-lecture-series-a-berkeley-changemaker-course/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/berkeley-method-of-entrepreneurship-bootcamp/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/applied-resilience-your-innovation-springboard/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/startup-catalyst/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/future-of-technology-how-innovators-critically-examine-game-changing-and-time-wasting-technologies/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/technology-entrepreneurship/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/growth-marketing/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/ai-powered-startups/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/exploring-sustainable-food-production/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/connected-life-how-mobile-ai-internet-of-things-will-improve-our-lives/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/bio-inspired-innovation/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/create-innovations-that-are-financially-ecologically-socially-and-ethically-sustainable-without-compromise/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/product-management/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/altmeat-product-design-of-plant-based-foods/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/building-bridges-between-democracy-and-technology-for-a-better-society/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/designing-startups-to-transform-society-a-berkeley-changemaker-course/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/from-idea-to-impact/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/sportstech-entrepreneurship-the-future-of-sports/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/amazoogle-ai-and-the-modern-data-driven-business-model/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/decode-silicon-valley-startup-fundraising/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/innovators-in-residence/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/introduction-to-generative-ai/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/courses/decal-moonshots/</loc>
-  </url>
-  <url>
-    <loc>https://classes.berkeley.edu/content/2025-spring-ugba-156-001-lec-001</loc>
-  </url>
-  <url>
-    <loc>https://changemaker.berkeley.edu/sites/default/files/ugba_156_lwa_spring_2024_6_1.pdf</loc>
-  </url>
-  <url>
-    <loc>https://classes.berkeley.edu/index.php/content/2025-summer-ugba-c12-01d-lec-01d</loc>
-  </url>
-  <url>
-    <loc>https://classes.berkeley.edu/content/2025-summer-ugba-c196c-01d-lec-01d</loc>
-  </url>
-  <url>
-    <loc>https://classes.berkeley.edu/content/2025-summer-ls-4-001-lec-001</loc>
-  </url>
-  <url>
-    <loc>https://classes.berkeley.edu/content/2025-summer-ls-104-001-lec-001</loc>
-  </url>
-  <url>
-    <loc>https://classes.berkeley.edu/content/2025-summer-colwrit-11-001-sem-001</loc>
-  </url>
-  <url>
-    <loc>https://classes.berkeley.edu/content/2025-summer-educ-w141-001-wbl-001</loc>
-  </url>
-  <url>
-    <loc>https://classes.berkeley.edu/content/2025-fall-ugba-c12-001-lec-001</loc>
-  </url>
-  <url>
-    <loc>https://classes.berkeley.edu/content/2025-fall-ugba-c196c-001-lec-001</loc>
-  </url>
-  <url>
-    <loc>https://classes.berkeley.edu/content/2025-fall-educ-w190a-001-lec-001</loc>
-  </url>
-  <url>
-    <loc>https://classes.berkeley.edu/content/2025-fall-pubpol-190-004-lec-004</loc>
-  </url>
-  <url>
-    <loc>https://classes.berkeley.edu/content/2025-fall-pubpol-290-014-lec-014</loc>
-  </url>
-  <url>
-    <loc>https://classes.berkeley.edu/content/2025-fall-indeng-171-001-lec-001</loc>
-  </url>
-  <url>
-    <loc>https://classes.berkeley.edu/content/2025-fall-indeng-171-2-lec-2</loc>
-  </url>
-  <url>
-    <loc>https://classes.berkeley.edu/content/2025-fall-ugba-191l-001-lec-001</loc>
-  </url>
-  <url>
-    <loc>https://classes.berkeley.edu/content/2025-fall-engin-183-001-sem-001</loc>
-  </url>
-  <url>
-    <loc>https://classes.berkeley.edu/content/2025-fall-polsci-132c-001-lec-001</loc>
-  </url>
-  <url>
-    <loc>https://classes.berkeley.edu/content/2025-fall-engin-183a-001-col-001</loc>
-  </url>
-  <url>
-    <loc>https://classes.berkeley.edu/content/2025-fall-engin-283a-001-col-001</loc>
-  </url>
-  <url>
-    <loc>https://classes.berkeley.edu/content/2025-fall-colwrit-11-001-sem-001</loc>
-  </url>
-  <url>
-    <loc>https://guide.berkeley.edu/undergraduate/degree-programs/entrepreneurship-technology/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/certificate-in-entrepreneurship-and-technology/</loc>
-  </url>
-  <url>
-    <loc>https://changemaker.berkeley.edu/berkeley-changemaker-courses</loc>
-  </url>
-  <url>
-    <loc>https://haas.berkeley.edu/alumni/career/entrepreneurship/</loc>
-  </url>
-  <url>
-    <loc>https://haas.berkeley.edu/entrepreneurship-program/students-overview/courses/</loc>
-  </url>
-  <url>
-    <loc>https://haas.berkeley.edu/entrepreneurship-program/students-overview/mentoring-hours/</loc>
-  </url>
-  <url>
-    <loc>https://haas.berkeley.edu/entrepreneurship-program/students-overview/</loc>
-  </url>
-  <url>
-    <loc>https://scet.berkeley.edu/students/</loc>
-  </url>
-  <url>
-    <loc>https://berkeley.edu/entrepreneurship/</loc>
-  </url>
-  <url>
-     <loc>https://changemaker.berkeley.edu/berkeley-changemaker-courses</loc>
-   </url>
-   <url>
-     <loc>https://changemaker.berkeley.edu/people</loc>
-   </url>
-   <url>
-     <loc>https://changemaker.berkeley.edu/berkeley-changemaker-gateway-course</loc>
-   </url>
-   <url>
-     <loc>https://changemaker.berkeley.edu/berkeley-changemaker-certificate-completion</loc>
-   </url>
-   <url>
-     <loc>https://changemaker.berkeley.edu/inclusion</loc>
-   </url>
-   <url>
-     <loc>https://changemaker.berkeley.edu/about</loc>
-   </url>
-   <url>
-     <loc>https://changemaker.berkeley.edu/berkeley-changemaker-exec-ed</loc>
-   </url>
-   <url>
-     <loc>https://changemaker.berkeley.edu/banners</loc>
-   </url>
-   <url>
-     <loc>https://changemaker.berkeley.edu/letters-sciences-ls-4104-berkeley-changemaker-openness-opposing-views</loc>
-   </url>
+<url><loc>https://begin.berkeley.edu/1569/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711074067-82/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711074108-31/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711118517-9/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711118613-91/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711118621-29/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711118621-58/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711165790-71/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711165843-28/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711210991-01/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711211057-15/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711262740-22/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711262798-86/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711314111-91/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711314165-47/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711329184-13/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711329228-61/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711385045-66/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711385106-39/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711417506-77/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711417562-32/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711486102-01/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711486170-13/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711551366-01/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711551369-05/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711551413-86/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711588748-33/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711588791-71/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711588794-04/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711671722-12/</loc></url>
+<url><loc>https://begin.berkeley.edu/1711671814-1/</loc></url>
+<url><loc>https://begin.berkeley.edu/</loc></url>
+<url><loc>https://begin.berkeley.edu/announcing-begin-berkeleys-new-gateway-to-innovation/</loc></url>
+<url><loc>https://begin.berkeley.edu/arrow-capital-accepting-applications/</loc></url>
+<url><loc>https://begin.berkeley.edu/audience/alumni/</loc></url>
+<url><loc>https://begin.berkeley.edu/audience/faculty/</loc></url>
+<url><loc>https://begin.berkeley.edu/audience/industry-established-companies/</loc></url>
+<url><loc>https://begin.berkeley.edu/audience/industry-startup-companies/</loc></url>
+<url><loc>https://begin.berkeley.edu/audience/masters-students/</loc></url>
+<url><loc>https://begin.berkeley.edu/audience/other/</loc></url>
+<url><loc>https://begin.berkeley.edu/audience/phd-students/</loc></url>
+<url><loc>https://begin.berkeley.edu/audience/postdoc/</loc></url>
+<url><loc>https://begin.berkeley.edu/audience/staff/</loc></url>
+<url><loc>https://begin.berkeley.edu/audience/undergraduate-students/</loc></url>
+<url><loc>https://begin.berkeley.edu/author/1118768/</loc></url>
+<url><loc>https://begin.berkeley.edu/author/12004618/</loc></url>
+<url><loc>https://begin.berkeley.edu/author/1756468/</loc></url>
+<url><loc>https://begin.berkeley.edu/author/aleidab6139/</loc></url>
+<url><loc>https://begin.berkeley.edu/berkeley-engineering-launches-ai-program-for-execs/</loc></url>
+<url><loc>https://begin.berkeley.edu/christyna-serrano-talks-sports-tech-and-education-in-the-wake-of-collider-cup-success/</loc></url>
+<url><loc>https://begin.berkeley.edu/contact/</loc></url>
+<url><loc>https://begin.berkeley.edu/courses/</loc></url>
+<url><loc>https://begin.berkeley.edu/directory/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/18397/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/2025-neurotechberkeley/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/ai-entrepreneurs-at-berkeley-demo-day-cohort-iv/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/ai-investment-summit-2025-uc-berkeley/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/ai-summit/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/b-school-disrupt-sf-2/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/bcssa-2025-startup-fair/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/berkeley-analytics-lab-showcase-2/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/berkeley-blockchain-nexus/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/berkeley-haas-entrepreneurship-program-open-house-2/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/berkeley-skydeck-alumni-panel/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/berkeley-x-skydeck-tour-networking-for-berkeley-students/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/big-ideas-grand-prize-pitch-day/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/big-ideas-upskilling-workshop/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/biotech-pitchathon-decoding-biotech-for-everyone/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/bleam-bccn-book-talk-building-climate-energy-ventures/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/careers-in-ai-higher-education-and-industry/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/clara-chappaz-france-minister-of-ai-digitalization/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/collective-for-inclusive-engineering-kickoff/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/collider-cup-xv/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/collider-cup-xvi/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/cursor-berkeley-getting-technical/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/date-before-you-marry/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/decode-conference/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/delphi-speaker-series/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/designberkeley-designathon/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/ehub-x-berkeley-changemaker-information-session/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/ehub-x-startup-law-with-spz-legal-information-session/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/elevate-investment-banking-panel/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/empathy-ideation-problem-of-the-month/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/entrepreneurs-berkeley-and-z-fellows-qa-and-mixer/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/find-your-path-thursday-nights-at-the-ehub/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/find-your-path-thursday-nights-with-the-ehub/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/fireside-chat-with-adam-draper/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/global-climate-tech-startup-mixer/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/hack-with-claude/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/hbsa-innovation-challenge-entrepreneur-bootcamp/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/hbsa-shark-tank/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/health-futures-unconference/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/idea-party-thursday-nights-at-the-ehub/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/innovation-in-period-products/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/lean-transfer-information-session/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/lessons-from-launching-a-startup-raising-capital-abroad/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/live-webinar-how-ai-is-changing-the-growth-marketing-playbook/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/mars-innovation-workshop/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/master-of-translational-medicine-final-symposium/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/medicaid-innovation-competition/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/meet-the-vcs-hosted-by-entrepreneurs-berkeley/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/nexus-investment-banking-panel/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/operate-like-a-yc-founder-sam-altmans-operating-checklist/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/outside-your-comfort-zone-thursday-nights-with-the-ehub/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/problem-of-the-month-navigating-social-dissonance-part-2/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/problem-of-the-month-social-dissonance/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/problem-of-the-month-thursday-nights-at-the-ehub-2/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/problem-of-the-month-thursday-nights-at-the-ehub/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/problem-of-the-month-thursday-nights-with-the-ehub/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/product-career-growth-fireside-chat-with-tiktok-pm-sunny-sun/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/prototype-test-problem-of-the-month/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/qa-and-mixer-entrepreneurs-berkeley-and-z-fellows/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/rdi-spring-celebration-llm-agents-poster-session/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/scet-venture-catalyst-forum/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/skydeck-virtual-intern-fair/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/skydeck-virtual-internship-fair/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/skydeck-virtual-summer-intern-fair/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/social-innovator-speaker-series-emeka-ugwu/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/start-something-the-ehub-launch-party/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/start-something-the-ehub-open-house/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/startup-campus-book-launch/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/step-showcase-day-2/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/talking-sbir-sttr-grant-funding/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/tc-sessions-ai/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/techcrunch-all-stage-2025/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/tony-xu-fireside-chat/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/uc-berkeley-ai-hackathon/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/uc-berkeley-entrepreneurship-mixer-2/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/uc-berkeley-xrpl-hackathon/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/uc-launch-demo-day-3/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/uc-launch-demo-day-4/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/uc-launch-demo-day-5/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/uc-launch-startup-accelerator-information-session/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/ucb-inter-school-co-founder-mixer-april-15th-2022/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/us-asia-health-innovation-networking-in-silicon-valley/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/usda-energytech-info-webinar/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/vcic-information-session/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/visionary-vibes-2025-ehub-grand-opening/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/webinar-agentic-ai-ais-dr-jekyll-mr-hyde-moment/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/what-i-wish-i-knew-before-i-started/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/what-makes-an-idea-big-panel-discussion-with-big-ideas-judges/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/whats-yours-to-solve/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/women-who-lead-empowering-success/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/you-belong-here-find-your-fit/</loc></url>
+<url><loc>https://begin.berkeley.edu/event/your-ideal-day/</loc></url>
+<url><loc>https://begin.berkeley.edu/events-legacy/</loc></url>
+<url><loc>https://begin.berkeley.edu/events/</loc></url>
+<url><loc>https://begin.berkeley.edu/events/category/ai-applications/</loc></url>
+<url><loc>https://begin.berkeley.edu/events/category/blockchain/</loc></url>
+<url><loc>https://begin.berkeley.edu/events/category/competition/</loc></url>
+<url><loc>https://begin.berkeley.edu/events/category/education/</loc></url>
+<url><loc>https://begin.berkeley.edu/events/category/innovation-engineernig/</loc></url>
+<url><loc>https://begin.berkeley.edu/events/category/ip/</loc></url>
+<url><loc>https://begin.berkeley.edu/events/category/machine-learning/</loc></url>
+<url><loc>https://begin.berkeley.edu/events/category/networking/</loc></url>
+<url><loc>https://begin.berkeley.edu/events/category/patent/</loc></url>
+<url><loc>https://begin.berkeley.edu/events/category/student-innovations/</loc></url>
+<url><loc>https://begin.berkeley.edu/events/category/tech-transfer/</loc></url>
+<url><loc>https://begin.berkeley.edu/fall-2018-cal-intro-to-entrepreneurship-resources/</loc></url>
+<url><loc>https://begin.berkeley.edu/first-ever-study-of-aapi-representation-among-vc-investors-finds-persistent-underrepresentation-2/</loc></url>
+<url><loc>https://begin.berkeley.edu/from-pharmacist-to-innovator-rashmi-varmas-journey-to-bridging-health-gaps/</loc></url>
+<url><loc>https://begin.berkeley.edu/highlights-from-hylight-a-conversation-with-founder-thomas-laporte/</loc></url>
+<url><loc>https://begin.berkeley.edu/home/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/3d-printing/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/adtech/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/advanced-manufacturing/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/agtech/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/all-no-specific-industry-focus/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/artificial-intelligence-and-machine-learning-ai-ml/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/audiotech/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/augmented-reality-ar/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/autonomous-cars/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/big-data/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/biotech/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/biotechnology/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/cleantech/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/climate-tech/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/construction-technology/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/cryptocurrency-and-blockchain/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/cybersecurity/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/diagnostics/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/digital-health/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/edtech/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/femtech/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/fintech/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/foodtech/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/health-it/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/healthtech/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/impact-investing/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/internet-of-things-iot/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/legal-tech/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/life-sciences/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/lifestyles-of-health-and-sustainability-lohas-and-wellnes/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/lifestyles-of-health-and-sustainability-lohas-and-wellness/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/medicine/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/mobile/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/mobility-tech/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/nanotechnology/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/neurotech/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/oncology/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/robotics-and-drones/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/software-as-a-service-saas/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/space-tech/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/supply-chain-technology/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/technology/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/therapeutics/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/virtual-reality-vr/</loc></url>
+<url><loc>https://begin.berkeley.edu/industry/wearables-and-quantified-self/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/b/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/c/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/d/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/e/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/f/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/g/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/h/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/i/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/j/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/k/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/l/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/m/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/n/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/o/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/p/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/q/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/r/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/s/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/t/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/u/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/v/</loc></url>
+<url><loc>https://begin.berkeley.edu/initial/y/</loc></url>
+<url><loc>https://begin.berkeley.edu/innovation-and-engineering-leadership-with-marc-tarpenning-co-founder-tesla-inc/</loc></url>
+<url><loc>https://begin.berkeley.edu/jobs/</loc></url>
+<url><loc>https://begin.berkeley.edu/meet-minjoo-sur-the-entrepreneur-helping-people-stay-motivated/</loc></url>
+<url><loc>https://begin.berkeley.edu/meet-our-spring-2024-course-coordinators/</loc></url>
+<url><loc>https://begin.berkeley.edu/meet-the-minds-behind-simplecell/</loc></url>
+<url><loc>https://begin.berkeley.edu/museum-of-3d-illusions-san-francisco-02-01/</loc></url>
+<url><loc>https://begin.berkeley.edu/news/</loc></url>
+<url><loc>https://begin.berkeley.edu/nobel-peace-price-recipient-discusses-war-crimes-in-the-ai-era/</loc></url>
+<url><loc>https://begin.berkeley.edu/opportunities-old/</loc></url>
+<url><loc>https://begin.berkeley.edu/opportunities/</loc></url>
+<url><loc>https://begin.berkeley.edu/opportunity/</loc></url>
+<url><loc>https://begin.berkeley.edu/opportunity/agentx-agentbeats-competition/</loc></url>
+<url><loc>https://begin.berkeley.edu/opportunity/cal-co-founder-matching/</loc></url>
+<url><loc>https://begin.berkeley.edu/opportunity/civic-innovation-challenge/</loc></url>
+<url><loc>https://begin.berkeley.edu/qa-team-playvision-builds-a-bright-future-for-sports-tech/</loc></url>
+<url><loc>https://begin.berkeley.edu/reducing-ais-climate-impact-everything-you-always-wanted-to-know-but-were-afraid-to-ask/</loc></url>
+<url><loc>https://begin.berkeley.edu/resource_type/accelerators-incubators/</loc></url>
+<url><loc>https://begin.berkeley.edu/resource_type/alumni-networks/</loc></url>
+<url><loc>https://begin.berkeley.edu/resource_type/commercialization/</loc></url>
+<url><loc>https://begin.berkeley.edu/resource_type/community/</loc></url>
+<url><loc>https://begin.berkeley.edu/resource_type/competitions/</loc></url>
+<url><loc>https://begin.berkeley.edu/resource_type/courses-new-venture-services/</loc></url>
+<url><loc>https://begin.berkeley.edu/resource_type/funding/</loc></url>
+<url><loc>https://begin.berkeley.edu/resource_type/grants-fellowships/</loc></url>
+<url><loc>https://begin.berkeley.edu/resource_type/inclusion/</loc></url>
+<url><loc>https://begin.berkeley.edu/resource_type/labs-prototyping/</loc></url>
+<url><loc>https://begin.berkeley.edu/resource_type/new-venture-services/</loc></url>
+<url><loc>https://begin.berkeley.edu/resource_type/other-uc-berkeley-active-funds/</loc></url>
+<url><loc>https://begin.berkeley.edu/resource_type/student-alumni-funds/</loc></url>
+<url><loc>https://begin.berkeley.edu/resource_type/uc-berkeley-affiliated-funds/</loc></url>
+<url><loc>https://begin.berkeley.edu/resource_type/uncategorized/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/bakar-fellows/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/bakar-labs/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/bay-area-i-corps/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/bearx/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/bee-partners/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-angel-network/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-catalyst-fund-i/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-catalyst-fund-ii/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-changemaker/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-climate-change-network/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-deep-tech-innovation-lab/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-discovery/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-entrepreneurs-association/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-founders-pledge/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-frontier-fund/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-haas-alumni-relations/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-haas-entrepreneurship-hub/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-haas-entrepreneurship-startup-seed-fund/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-haas-entrepreneurship/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-haas-open-innovation-squad/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-innovators/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-institute-of-data-science/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-ip-practicum/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-lab/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-master-of-design/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-post-doc-entrepreneurship-program-bpep/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-research-infrastructure-commons/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-skydeck-fund-i/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-skydeck-fund-ii/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-startup-cluster/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-taiwan-health-innovation-accelerator/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/berkeley-venture-capital/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/better-ventures/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/big-ideasberkeley/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/bioenginuity-impact-grant/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/biology-scholars-program/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/biomolecular-nanotechnology-center/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/blockchain-xcelerator/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/blue-bear-ventures/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/blum-center-social-innovator-onramp/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/bow-capital/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/build-the-future/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/built-by-berkeley/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/cal-alumni-association/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/cal-founders/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/cal-hacks-fellowship/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/cal-hacks/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/california-innovation-fund/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/caltestbed/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/career-center/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/citris-foundry/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/citris-invention-lab/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/cleantech-to-market/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/climate-solutions-fund/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/collider-cup/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/courtyard-ventures/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/cradle-to-commerce/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/cyclotron-road/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/decode/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/design-scholar-program/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/dorm-room-fund/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/double-bottom-line-ventures/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/edge-in-tech-initiative-at-u-c/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/energy-and-biosciences-institute-entrepreneurial-business-incubator-ebi2/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/erupture-ventures/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/fasttracking-founders-program/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/formfund/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/free-ventures-fellowship/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/free-ventures/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/fung-fellowship-for-wellness-and-technology-innovations/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/fung-institute-for-engineering-leadership/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/garwood-center-for-corporate-innovation/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/haas-impact-fund/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/haas-venture-fellows/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/handshake/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/health-engine/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/health-tech-colab/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/house-fund/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/hs-chau-women-in-enterprising-science/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/i-school-innovators/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/impact-science-ventures/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/inclusive-innovation-equitable-entrepreneurship/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/innovation-entrepreneurship-council/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/ipira/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/ironfire-ventures/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/jacobs-institute-for-design-innovation/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/kapor-capital/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/launch/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/learn2launch/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/life-science-angels/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/life-sciences-entrepreneurship-center/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/management-entrepreneurship-technology-program/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/marvell-nanolab/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/master-of-engineering-program/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/master-of-translational-medicine/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/me-student-machine-shop/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/neurotech-collider-lab/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/nuclear-innovation-bootcamp/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/nucleate-bay-area/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/ollie-legal/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/osage-university-partners/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/postx/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/qb3-central/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/qb3-garageberkeley/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/qb3-innovation-discovery/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/qb3-mentoring/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/richmond-field-station/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/robinson-life-science-business-and-entrepreneurship-program/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/sbir-sttr-grants/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/scet-summer-venture-lab/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/she256/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/skydeck-ace-intern-program/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/skydeck-pad-13-incubator/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/startupberkeley-law/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/step/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/sustainable-and-impact-finance-center/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/sutardja-center-for-entrepreneurship-technology/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/tech-transfer-ipira-dei-page/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/tory-burch-fellowship/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/ucb-startup-fair/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/venture-capital-investment-competition/</loc></url>
+<url><loc>https://begin.berkeley.edu/resources/yc-co-founder-matching-scet/</loc></url>
+<url><loc>https://begin.berkeley.edu/rich-lyons-qa-the-future-of-innovation-and-entrepreneurship-berkeley/</loc></url>
+<url><loc>https://begin.berkeley.edu/roadmap-accelerate/</loc></url>
+<url><loc>https://begin.berkeley.edu/roadmap-early-formation/</loc></url>
+<url><loc>https://begin.berkeley.edu/roadmap-ideation/</loc></url>
+<url><loc>https://begin.berkeley.edu/roadmap-scale/</loc></url>
+<url><loc>https://begin.berkeley.edu/scet-takes-the-global-stage-at-asian-leadership-conference/</loc></url>
+<url><loc>https://begin.berkeley.edu/scets-altmeat-lab-receives-800k-grant-from-open-philanthropy/</loc></url>
+<url><loc>https://begin.berkeley.edu/serendipity-by-design-how-berkeley-systemically-fosters-entrepreneurial-success/</loc></url>
+<url><loc>https://begin.berkeley.edu/solving-swimming-aqua-ai-founder-peyton-mcqueen-makes-waves/</loc></url>
+<url><loc>https://begin.berkeley.edu/spring-2024-alumni-dive-into-exciting-futures/</loc></url>
+<url><loc>https://begin.berkeley.edu/stage/accelerate/</loc></url>
+<url><loc>https://begin.berkeley.edu/stage/early-formation/</loc></url>
+<url><loc>https://begin.berkeley.edu/stage/ideation/</loc></url>
+<url><loc>https://begin.berkeley.edu/stage/scale/</loc></url>
+<url><loc>https://begin.berkeley.edu/state-grant-accelerates-uc-berkeleys-innovation-and-entrepreneurship/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/adam-draper/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/agentic-ai/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/ai/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/alumni/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/applicants/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/artificial-intelligence/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/asuc/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/bccn/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/bcssa/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/ben-soltoff/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/berkeley-skydeck/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/bhep/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/big-ideas-mentors/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/big-ideas/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/bio-business-initiative/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/bio-startup-speed-teaming/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/biotech/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/bleam/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/book-launch/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/cal-innovation-week/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/career/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/citris-foundry/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/climate-and-energy/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/climate-tech/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/coding/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/coinbase/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/collider-cup/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/computational-biology-berkeley/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/conference/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/courses/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/decode/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/deeptech/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/delphi/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/demo-day/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/design/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/designathon/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/earth-day/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/ehub/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/engineering/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/faculty/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/fireside-chat/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/founder/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/founders/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/frontier-tech/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/futuretech/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/global-leaders/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/graduate-students/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/haas-mba/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/hackathon/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/harvard/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/health-innovation/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/higher-education/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/ideation/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/ie-council/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/ie-ecosystem/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/igem/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/inclusive-engineering/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/industry-application/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/industry-corporate/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/industry-established-companies/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/industry-startup-companies/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/info-session/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/infosession/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/innovation/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/intern-fair/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/internships/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/investment-banking/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/investors/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/job-fair/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/judges/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/launch-party/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/leadership/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/lean-transfer/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/life-sciences-startup/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/llm/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/masters-students-academic-programs/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/masters-students-professional-programs/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/mental-health/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/mentorship/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/mit/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/networking/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/nobel-prize/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/nutrition/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/online-event/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/open-house/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/open-to-all/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/openai/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/panel/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/phd-students/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/pitch-competition/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/pitching/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/postdocs/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/problem-solving/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/product-workshop/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/qa/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/rdi/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/sam-altman/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/scet/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/school-of-public-health/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/sf-climate-week/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/sibyl-chen/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/silicon-valley/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/skydeck/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/social-innovation/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/social/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/speaker-panel/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/speaker-series/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/stanford/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/startup-accelerator/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/startup-fair/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/startup-funding/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/startup-mentorship/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/startups/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/student-event/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/students/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/summer-internships/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/sustainability/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/sutardja-center-for-entrepreneurship-technology/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/technology/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/tour/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/uc-berkeley/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/uc-launch/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/undergraduate-students/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/upskilling/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/vc-founders/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/vc/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/vcic/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/venture-capital/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/virtual/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/webinar/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/women-entrepreneurs/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/workshop/</loc></url>
+<url><loc>https://begin.berkeley.edu/tag/yale/</loc></url>
+<url><loc>https://begin.berkeley.edu/test-page/</loc></url>
+<url><loc>https://begin.berkeley.edu/uc-berkeley-ranked-no-1-for-generating-startup-founders-companies-and-female-entrepreneurs/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw183870058/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw1838701c5/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw183872040/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw18387220a/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw183872d9f/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw1838745a1/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw18387507d/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw183875286/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw183875bb6/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw183876583/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw183877d7a/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw1838789ab/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw183878b22/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw1838795dc/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw183879a78/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw18387a16a/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw18387aa5a/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw18387b7d3/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw18387bb8b/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw18387bc29/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw18387bc66/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw18387d545/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw18387d6c1/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw18387d770/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw18387e02a/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw18387e0ce/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw18387e1fe/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw18387f784/</loc></url>
+<url><loc>https://begin.berkeley.edu/xtw18387f9d6/</loc></url>
 </urlset>
