@@ -80,7 +80,7 @@ class Crawler:
 	scheme		  = ""
 
 	def __init__(self, num_workers=1, parserobots=False, output=None,
-				 report=False ,domain="", exclude=[], skipext=[], drop=[],
+				 report=False ,domain="", domain_aliases=[], exclude=[], skipext=[], drop=[],
 				 debug=False, verbose=False, images=False, auth=False, as_index=False,
 				 sort_alphabetically=True, user_agent='*', sitemap_url=None, sitemap_only=False,
 				 max_url_diff_percent=50):
@@ -90,6 +90,7 @@ class Crawler:
 		self.output 	= output
 		self.report 	= report
 		self.domain 	= domain
+		self.domain_aliases = domain_aliases
 		self.exclude 	= exclude
 		self.skipext 	= skipext
 		self.drop		= drop
@@ -719,8 +720,25 @@ class Crawler:
 				page_urls = self.parse_sitemap(content, current_url, redirected_to_target)
 				# Process page URLs from sitemap
 				for page_url in page_urls:
-					# Only process URLs from the same domain
-					if self.target_domain in page_url:
+					# Check if URL is from target domain or alias domain
+					parsed_url = urlparse(page_url)
+					is_target_domain = self.target_domain in page_url
+					is_alias_domain = any(alias in parsed_url.netloc for alias in self.domain_aliases)
+
+					if is_target_domain or is_alias_domain:
+						# Normalize alias domain URLs to target domain
+						if is_alias_domain and not is_target_domain:
+							# Reconstruct URL with target domain
+							normalized_url = f"{self.scheme}://{self.target_domain}{parsed_url.path}"
+							if parsed_url.query:
+								normalized_url += f"?{parsed_url.query}"
+							if parsed_url.fragment:
+								normalized_url += f"#{parsed_url.fragment}"
+							logging.debug(f"Normalized alias domain URL: {page_url} -> {normalized_url}")
+							page_url = normalized_url
+							# Re-parse the normalized URL
+							parsed_url = urlparse(page_url)
+
 						# Apply exclusion rules
 						if not self.exclude_url(page_url):
 							logging.debug(f"Excluded URL from sitemap: {page_url}")
@@ -728,7 +746,6 @@ class Crawler:
 							continue
 
 						# Check if the file extension should be skipped
-						parsed_url = urlparse(page_url)
 						target_extension = os.path.splitext(parsed_url.path)[1][1:]  # Get extension without dot
 						if target_extension in self.skipext:
 							logging.debug(f"Skipped URL with extension '{target_extension}' from sitemap: {page_url}")
