@@ -56,7 +56,6 @@
 <url><loc>https://ced.berkeley.edu/admissions/fees-financial-aid/financial-aid</loc></url>
 <url><loc>https://ced.berkeley.edu/admissions/fees-financial-aid/tuition-fees</loc></url>
 <url><loc>https://ced.berkeley.edu/admissions/fees-financial-aid</loc></url>
-<url><loc>https://ced.berkeley.edu/admissions/graduate-admissions/graduate-info-sessions</loc></url>
 <url><loc>https://ced.berkeley.edu/admissions/graduate-admissions</loc></url>
 <url><loc>https://ced.berkeley.edu/admissions/undergraduate-admissions/apply</loc></url>
 <url><loc>https://ced.berkeley.edu/admissions/undergraduate-admissions/articulation</loc></url>
@@ -689,9 +688,11 @@
 <url><loc>https://ced.berkeley.edu/news/george-floyd-and-the-beloved-community-2</loc></url>
 <url><loc>https://ced.berkeley.edu/news/george-floyd-and-the-beloved-community</loc></url>
 <url><loc>https://ced.berkeley.edu/news/georgios-eftaxiopoulos-scholar-and-expert-in-architectural-flexibility-joins-department-of-architecture</loc></url>
+<url><loc>https://ced.berkeley.edu/news/gift-from-alum-karen-swett-conway-catalyzes-exploratory-design</loc></url>
 <url><loc>https://ced.berkeley.edu/news/give-today-to-edith-heath-philosophies</loc></url>
 <url><loc>https://ced.berkeley.edu/news/giving-back-alum-bob-grether-design-development-impact-mredd</loc></url>
 <url><loc>https://ced.berkeley.edu/news/global-cities-and-their-discontents</loc></url>
+<url><loc>https://ced.berkeley.edu/news/graduate-application-deadlines</loc></url>
 <url><loc>https://ced.berkeley.edu/news/graduate-architecture-alumni-practice-claims-architectural-records-house-of-the-month</loc></url>
 <url><loc>https://ced.berkeley.edu/news/graduate-architecture-student-joins-dewberry-firm</loc></url>
 <url><loc>https://ced.berkeley.edu/news/graduate-student-athena-do-wins-avery-review-essay-prize</loc></url>
@@ -825,7 +826,6 @@
 <url><loc>https://ced.berkeley.edu/news/monica-lamela-blazquez-ms-arch-21-receives-prestigious-aias-research-honor-award</loc></url>
 <url><loc>https://ced.berkeley.edu/news/monument-to-extraction-walking-california-history-at-the-albany-bulb-landfill</loc></url>
 <url><loc>https://ced.berkeley.edu/news/more-affordable-tech-access-for-ced-students-thanks-to-a-20-sandwich</loc></url>
-<url><loc>https://ced.berkeley.edu/news/motivating-factor-faculty-couple-gives-beyond-the-classroom</loc></url>
 <url><loc>https://ced.berkeley.edu/news/moving-forward-from-maria-uli-helps-rebuild-puerto-rico</loc></url>
 <url><loc>https://ced.berkeley.edu/news/mredd-alum-brent-clark-led-uc-berkeley-team-to-victory-in-naiop-golden-shovel-competition</loc></url>
 <url><loc>https://ced.berkeley.edu/news/mredd-faculty-carl-shannon-named-in-bay-area-power-100-list-by-the-sf-business-times</loc></url>
@@ -908,7 +908,6 @@
 <url><loc>https://ced.berkeley.edu/news/rails-to-trails-conservancy-names-daniel-rodriguez-board-member-expands-on-urban-transportation-and-environmental-policy-planning-and-safety</loc></url>
 <url><loc>https://ced.berkeley.edu/news/redefining-the-limits-of-urban-design-mud-studio-takes-to-the-salinas-valley</loc></url>
 <url><loc>https://ced.berkeley.edu/news/remembering-dean-emeritus-richard-bender</loc></url>
-<url><loc>https://ced.berkeley.edu/news/remembering-professor-emeritus-lars-lerup-influential-thinker-and-educator</loc></url>
 <url><loc>https://ced.berkeley.edu/news/renee-chow-awarded-distinguished-professor-award-by-acsa-11-ced-faculty-and-alumni-also-receive-awards</loc></url>
 <url><loc>https://ced.berkeley.edu/news/renee-chow-to-step-down-as-ced-dean-in-2026</loc></url>
 <url><loc>https://ced.berkeley.edu/news/renee-y-chow-is-announced-dean-of-the-college-of-environmental-design</loc></url>
@@ -1069,7 +1068,6 @@
 <url><loc>https://ced.berkeley.edu/people/aleks-baharlo</loc></url>
 <url><loc>https://ced.berkeley.edu/people/alex-warren</loc></url>
 <url><loc>https://ced.berkeley.edu/people/alexander-quinn</loc></url>
-<url><loc>https://ced.berkeley.edu/people/allan-jacobs</loc></url>
 <url><loc>https://ced.berkeley.edu/people/alli-appelbaum</loc></url>
 <url><loc>https://ced.berkeley.edu/people/allison-evans</loc></url>
 <url><loc>https://ced.berkeley.edu/people/allison-williams</loc></url>
@@ -1269,7 +1267,6 @@
 <url><loc>https://ced.berkeley.edu/people/kristian-dawson</loc></url>
 <url><loc>https://ced.berkeley.edu/people/kristina-hill</loc></url>
 <url><loc>https://ced.berkeley.edu/people/kyle-steinfeld</loc></url>
-<url><loc>https://ced.berkeley.edu/people/lars-lerup</loc></url>
 <url><loc>https://ced.berkeley.edu/people/laura-belik</loc></url>
 <url><loc>https://ced.berkeley.edu/people/laura-mae-deleon</loc></url>
 <url><loc>https://ced.berkeley.edu/people/lian-plass</loc></url>
@@ -1487,6 +1484,7 @@
 <url><loc>https://ced.berkeley.edu/resources/library</loc></url>
 <url><loc>https://ced.berkeley.edu/resources/student-fees-waivers</loc></url>
 <url><loc>https://ced.berkeley.edu/resources/student-organizations/ced-undergraduate-student-council</loc></url>
+<url><loc>https://ced.berkeley.edu/resources/student-organizations/ced-wellness-affairs</loc></url>
 <url><loc>https://ced.berkeley.edu/resources/student-organizations/register-a-student-organization</loc></url>
 <url><loc>https://ced.berkeley.edu/resources/student-organizations</loc></url>
 <url><loc>https://ced.berkeley.edu/resources/student-support/advocacy-conflict-resolution</loc></url>
