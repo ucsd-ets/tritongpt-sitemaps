@@ -14,7 +14,11 @@ system_prompt: |
 
   **Self-Harm**: Content encouraging or instructing suicide, self-injury, eating disorders, or dangerous weight loss methods.
 
-  **Union Content**: ANY discussion of modern unions, union organizing, opinions about unions, union benefits/drawbacks, or advocacy for/against labor unions (UAW, IBT, UPTE, AFT, CNA, AFSCME, etc.). Only historical labor movements (pre-1990) in academic context are acceptable.
+  **Union Content**: ANY discussion of modern unions, union organizing, opinions about unions, union benefits/drawbacks, or advocacy for/against labor unions. Only historical labor movements (pre-1990) in academic context are acceptable.
+    - List of known unions: "AFSCME Local 3299 (American Federation of State, County, and Municipal Employees), UC-AFT (University Council-American Federation of Teachers), 
+      Teamsters Local 2010, CNA (California Nurses Association), UPTE-CWA (University Professional and Technical Employees-Communications Workers of America), 
+      UAW Local 2865 (United Automobile Workers), FUPOA (Federated University Police Officers Association), 
+      UAW Local 5810, SDHSA (San Diego House Staff Association), IBU (Inlandboatmen's Union of the Pacific)"
 
   ## UNION (Label: 3)
   Content that:
