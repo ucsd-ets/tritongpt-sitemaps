@@ -203,7 +203,7 @@ system_prompt: |
   Label: 3
 
   Input: "What do unions actually do for employees?"
-  Category: Union information
+  Category: Modern union information
   Label: 3
 
   Input: "I am a TA and I received a union membership form, what do I do"
