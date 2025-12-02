@@ -1937,6 +1937,7 @@
 <url><loc>https://www.law.berkeley.edu/article/entrepreneurial-companies-and-the-patent-system/</loc></url>
 <url><loc>https://www.law.berkeley.edu/article/environmental-blog-clears-one-million-unique-hits/</loc></url>
 <url><loc>https://www.law.berkeley.edu/article/environmental-expert-discusses-global-trends/</loc></url>
+<url><loc>https://www.law.berkeley.edu/article/environmental-impact-berkeley-law-clee-plays-vital-role-in-shaping-new-california-climate-bills/</loc></url>
 <url><loc>https://www.law.berkeley.edu/article/environmental-law-clinic-fights-toxic-exposures-in-federal-court-and-at-the-state-house/</loc></url>
 <url><loc>https://www.law.berkeley.edu/article/environmental-law-clinic-mitch-zuklie-orrick-gift-health-justice/#new_tab</loc></url>
 <url><loc>https://www.law.berkeley.edu/article/environmental-law-clinic-mitch-zuklie-orrick-gift-health-justice/</loc></url>
@@ -5329,7 +5330,6 @@
 <url><loc>https://www.law.berkeley.edu/consumer-protection/</loc></url>
 <url><loc>https://www.law.berkeley.edu/contact-us-2/</loc></url>
 <url><loc>https://www.law.berkeley.edu/contact-us-3/</loc></url>
-<url><loc>https://www.law.berkeley.edu/contracts-and-grants/</loc></url>
 <url><loc>https://www.law.berkeley.edu/contracts-and-grants/building-a-proposal-budget/</loc></url>
 <url><loc>https://www.law.berkeley.edu/contracts-and-grants/conflicts-of-interest/</loc></url>
 <url><loc>https://www.law.berkeley.edu/contracts-and-grants/effort-reporting/</loc></url>
@@ -5410,6 +5410,7 @@
 <url><loc>https://www.law.berkeley.edu/emergency-info/</loc></url>
 <url><loc>https://www.law.berkeley.edu/empirical-research-methods/</loc></url>
 <url><loc>https://www.law.berkeley.edu/employment-opportunities/</loc></url>
+<url><loc>https://www.law.berkeley.edu/english-language-resources/</loc></url>
 <url><loc>https://www.law.berkeley.edu/enrollment-checklist/</loc></url>
 <url><loc>https://www.law.berkeley.edu/enrollment-checklist/deposit-form/</loc></url>
 <url><loc>https://www.law.berkeley.edu/entertainment-check-request-form/</loc></url>
@@ -5441,7 +5442,6 @@
 <url><loc>https://www.law.berkeley.edu/event-services/event-services-old/fleming-2018/</loc></url>
 <url><loc>https://www.law.berkeley.edu/event-services/event-services-old/hosting-foreign-guests/</loc></url>
 <url><loc>https://www.law.berkeley.edu/event-services/event-services-old/islamiclaw/</loc></url>
-<url><loc>https://www.law.berkeley.edu/event-services/event-services-old/jorde/</loc></url>
 <url><loc>https://www.law.berkeley.edu/event-services/event-services-old/minor-jurisprudence-2016-2/</loc></url>
 <url><loc>https://www.law.berkeley.edu/event-services/event-services-old/parking-directions/</loc></url>
 <url><loc>https://www.law.berkeley.edu/event-services/event-services-old/publicity/</loc></url>
@@ -6147,10 +6147,10 @@
 <url><loc>https://www.law.berkeley.edu/event/free-coffee-and-tea-for-students-3/2025-04-14/</loc></url>
 <url><loc>https://www.law.berkeley.edu/event/free-coffee-and-tea-for-students-3/2025-04-21/</loc></url>
 <url><loc>https://www.law.berkeley.edu/event/free-coffee-and-tea-for-students-3/2025-04-28/</loc></url>
+<url><loc>https://www.law.berkeley.edu/event/free-coffee-and-tea-for-students-4-2/</loc></url>
+<url><loc>https://www.law.berkeley.edu/event/free-coffee-and-tea-for-students-4-3/</loc></url>
 <url><loc>https://www.law.berkeley.edu/event/free-coffee-and-tea-for-students-4/2025-08-25/</loc></url>
 <url><loc>https://www.law.berkeley.edu/event/free-coffee-and-tea-for-students-4/2025-12-01/</loc></url>
-<url><loc>https://www.law.berkeley.edu/event/free-coffee-and-tea-for-students-4/2025-12-08/</loc></url>
-<url><loc>https://www.law.berkeley.edu/event/free-coffee-and-tea-for-students-4/2025-12-15/</loc></url>
 <url><loc>https://www.law.berkeley.edu/event/free-coffee-and-tea-for-students-4/2026-01-12/</loc></url>
 <url><loc>https://www.law.berkeley.edu/event/free-coffee-and-tea-for-students-4/2026-01-26/</loc></url>
 <url><loc>https://www.law.berkeley.edu/event/free-coffee-and-tea-for-students-4/2026-02-02/</loc></url>
@@ -8168,6 +8168,7 @@
 <url><loc>https://www.law.berkeley.edu/news/for-journalists/press-releases-and-media-advisories/2012-press-releases/</loc></url>
 <url><loc>https://www.law.berkeley.edu/news/for-journalists/press-releases-and-media-advisories/2013-press-releases/</loc></url>
 <url><loc>https://www.law.berkeley.edu/news/for-journalists/press-releases-and-media-advisories/</loc></url>
+<url><loc>https://www.law.berkeley.edu/news/juicer-full-width/</loc></url>
 <url><loc>https://www.law.berkeley.edu/news/justice-ruth-bader-ginsburg/</loc></url>
 <url><loc>https://www.law.berkeley.edu/news/livestream-democracy-town-hall-lessons-2020-election/</loc></url>
 <url><loc>https://www.law.berkeley.edu/news/livestream-implications-of-the-presidential-election-for-various-aspects-of-law/</loc></url>
@@ -8887,12 +8888,15 @@
 <url><loc>https://www.law.berkeley.edu/our-faculty/faculty-sites/steve-sugarman/my-publications/auto-insurance/</loc></url>
 <url><loc>https://www.law.berkeley.edu/our-faculty/faculty-sites/steve-sugarman/my-publications/children-and-families/</loc></url>
 <url><loc>https://www.law.berkeley.edu/our-faculty/faculty-sites/steve-sugarman/my-publications/disaster-law/</loc></url>
+<url><loc>https://www.law.berkeley.edu/our-faculty/faculty-sites/steve-sugarman/my-publications/education-policy-and-law-generally/</loc></url>
+<url><loc>https://www.law.berkeley.edu/our-faculty/faculty-sites/steve-sugarman/my-publications/employee-benefits-and-employment-law/</loc></url>
 <url><loc>https://www.law.berkeley.edu/our-faculty/faculty-sites/steve-sugarman/my-publications/other/</loc></url>
 <url><loc>https://www.law.berkeley.edu/our-faculty/faculty-sites/steve-sugarman/my-publications/performance-based-regulation/</loc></url>
 <url><loc>https://www.law.berkeley.edu/our-faculty/faculty-sites/steve-sugarman/my-publications/school-choice/</loc></url>
 <url><loc>https://www.law.berkeley.edu/our-faculty/faculty-sites/steve-sugarman/my-publications/school-finance/</loc></url>
 <url><loc>https://www.law.berkeley.edu/our-faculty/faculty-sites/steve-sugarman/my-publications/tobacco-alcohol-and-unhealthy-foods/</loc></url>
 <url><loc>https://www.law.berkeley.edu/our-faculty/faculty-sites/steve-sugarman/my-publications/torts-and-alternatives/</loc></url>
+<url><loc>https://www.law.berkeley.edu/our-faculty/faculty-sites/steve-sugarman/my-publications/welfare-and-social-security/</loc></url>
 <url><loc>https://www.law.berkeley.edu/our-faculty/faculty-sites/steve-sugarman/papers/</loc></url>
 <url><loc>https://www.law.berkeley.edu/our-faculty/faculty-sites/steve-sugarman/papers/auto-insurance/</loc></url>
 <url><loc>https://www.law.berkeley.edu/our-faculty/faculty-sites/steve-sugarman/papers/children-and-family-policy-and-the-law/</loc></url>
@@ -9848,7 +9852,6 @@
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2010-conferences/august-2010-ip-scholars/presenters/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2010-conferences/june-2010-the-3rd-annual-privacy-law-scholars-conference/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2010-conferences/march-2010-cloud-computing/</loc></url>
-<url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2010-conferences/march-2010-cloud-computing/audio-ppt/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2010-conferences/march-2010-cloud-computing/logistics/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2010-conferences/march-2010-cloud-computing/photos/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2010-conferences/march-2010-cloud-computing/speakers/</loc></url>
@@ -9997,12 +10000,12 @@
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/april013-copyright-formalities/speakers-2/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/april013-copyright-formalities/speakers/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/april013-copyright-formalities/sponsors/</loc></url>
-<url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/december-2013-14th-annual-advanced-patent-law-institute/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/december-2013-14th-annual-advanced-patent-law-institute/agenda-materials/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/december-2013-14th-annual-advanced-patent-law-institute/logistics/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/december-2013-14th-annual-advanced-patent-law-institute/photos/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/december-2013-14th-annual-advanced-patent-law-institute/speaker-bios/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/december-2013-14th-annual-advanced-patent-law-institute/speaker-bios/speaker-bios-10/</loc></url>
+<url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/december-2013-14th-annual-advanced-patent-law-institute/speaker-bios/speaker-bios-2/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/december-2013-14th-annual-advanced-patent-law-institute/speaker-bios/speaker-bios-3/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/december-2013-14th-annual-advanced-patent-law-institute/speaker-bios/speaker-bios-4/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/december-2013-14th-annual-advanced-patent-law-institute/speaker-bios/speaker-bios-5/</loc></url>
@@ -10019,6 +10022,7 @@
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/january-2013-how-to-become-a-privacy-lawyer/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/january-2013-music-business-seminar/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/july-2013-the-supreme-court-and-dna-patents/</loc></url>
+<url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/july-2013-the-supreme-court-and-dna-patents/october-2013-chips-women-in-ip-global-summit/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/july-2013-the-supreme-court-and-dna-patents/resources/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/july-2013-the-supreme-court-and-dna-patents/speakers/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/june-2013-privacy-law-scholars-conference/</loc></url>
@@ -10028,7 +10032,6 @@
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/march-2013-bclt-privacy-forum/agenda/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/march-2013-bclt-privacy-forum/audio-slides/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/march-2013-bclt-privacy-forum/photos/</loc></url>
-<url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/march-2013-bclt-privacy-forum/registration/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/march-2013-bclt-privacy-forum/resources/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/march-2013-bclt-privacy-forum/speakers/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2013-conferences/november-2013-patent-law-and-policy-conference/</loc></url>
@@ -10064,7 +10067,6 @@
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2014-conferences/august-2014-ip-scholars-conference/attendees/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2014-conferences/august-2014-ip-scholars-conference/logisticslodging/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2014-conferences/august-2014-ip-scholars-conference/past-conferences/</loc></url>
-<url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2014-conferences/august-2014-ip-scholars-conference/request-to-attend/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2014-conferences/august-2014-ip-scholars-conference/request-to-present/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2014-conferences/august-2014-ip-scholars-conference/schedule/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2014-conferences/august-2014-ip-scholars-conference/speakers/</loc></url>
@@ -10124,9 +10126,9 @@
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2015-conferences/april-2015-the-19th-annual-bcltbtlj-symposium-open-data-addressing-privacy-security-and-civil-rights-challenges/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2015-conferences/april-2015-the-19th-annual-bcltbtlj-symposium-open-data-addressing-privacy-security-and-civil-rights-challenges/additional-literature/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2015-conferences/april-2015-the-19th-annual-bcltbtlj-symposium-open-data-addressing-privacy-security-and-civil-rights-challenges/david-flaherty/</loc></url>
-<url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2015-conferences/april-2015-the-19th-annual-bcltbtlj-symposium-open-data-addressing-privacy-security-and-civil-rights-challenges/essential-texts/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2015-conferences/april-2015-the-19th-annual-bcltbtlj-symposium-open-data-addressing-privacy-security-and-civil-rights-challenges/event-logistics/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2015-conferences/april-2015-the-19th-annual-bcltbtlj-symposium-open-data-addressing-privacy-security-and-civil-rights-challenges/funded-projects-literature-review/</loc></url>
+<url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2015-conferences/april-2015-the-19th-annual-bcltbtlj-symposium-open-data-addressing-privacy-security-and-civil-rights-challenges/funded-projects/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2015-conferences/april-2015-the-19th-annual-bcltbtlj-symposium-open-data-addressing-privacy-security-and-civil-rights-challenges/program/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2015-conferences/april-2015-the-19th-annual-bcltbtlj-symposium-open-data-addressing-privacy-security-and-civil-rights-challenges/registration/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2015-conferences/april-2015-the-19th-annual-bcltbtlj-symposium-open-data-addressing-privacy-security-and-civil-rights-challenges/speakers/</loc></url>
@@ -10151,6 +10153,7 @@
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2015-conferences/june-2015-the-8th-annual-privacy-law-scholars-conference/participants/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2015-conferences/june-2015-the-8th-annual-privacy-law-scholars-conference/plsc-paper-awards/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2015-conferences/june-2015-the-8th-annual-privacy-law-scholars-conference/program-committee/</loc></url>
+<url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2015-conferences/june-2015-the-8th-annual-privacy-law-scholars-conference/program/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2015-conferences/june-2015-the-8th-annual-privacy-law-scholars-conference/registration/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2015-conferences/june-2015-the-8th-annual-privacy-law-scholars-conference/resources/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/past-events/2015-conferences/june-2015-the-8th-annual-privacy-law-scholars-conference/speakers/</loc></url>
@@ -10360,7 +10363,6 @@
 <url><loc>https://www.law.berkeley.edu/research/bclt/research/law-tech-research-portal/talha-syed/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/research/privacy-at-bclt/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/research/privacy-at-bclt/archive-of-the-meetings-of-the-secretarys-advisory-committee-on-automated-personal-data-systems-sacapds/</loc></url>
-<url><loc>https://www.law.berkeley.edu/research/bclt/research/privacy-at-bclt/berkeley-consumer-privacy-survey/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/research/privacy-at-bclt/faculty-with-a-focus-on-privacy/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/research/privacy-at-bclt/the-annual-privacy-law-forum/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/bclt/research/privacy-at-bclt/the-bclt-annual-privacy-lecture/</loc></url>
@@ -10947,6 +10949,7 @@
 <url><loc>https://www.law.berkeley.edu/research/business/events/video-library-2/video-library-55/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/business/events/video-library-2/video-library-56/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/business/events/video-library-2/video-library-57/</loc></url>
+<url><loc>https://www.law.berkeley.edu/research/business/events/video-library-2/video-library-58/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/business/events/video-library-2/video-library-59/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/business/events/video-library-2/video-library-6/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/business/events/video-library-2/video-library-60/</loc></url>
@@ -11035,7 +11038,6 @@
 <url><loc>https://www.law.berkeley.edu/research/california-constitution-center/events/mli-conference-2/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/california-constitution-center/events/mli-conference-2/agenda/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/california-constitution-center/events/mli-conference-2/registration-and-logistics/</loc></url>
-<url><loc>https://www.law.berkeley.edu/research/california-constitution-center/events/mli-conference-2/resources/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/california-constitution-center/events/mli-conference-2/sponsors/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/california-constitution-center/events/mli-conference/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/california-constitution-center/events/mli-conference/agenda/</loc></url>
@@ -11179,6 +11181,7 @@
 <url><loc>https://www.law.berkeley.edu/research/chief-justice-earl-warren-institute-on-law-and-social-policy/criminal-justice/people/sarah-lawrence/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/chief-justice-earl-warren-institute-on-law-and-social-policy/criminal-justice/publications/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/chief-justice-earl-warren-institute-on-law-and-social-policy/curriculum-guide/health-security-curriculum/2009-2010-courses/</loc></url>
+<url><loc>https://www.law.berkeley.edu/research/chief-justice-earl-warren-institute-on-law-and-social-policy/curriculum-guide/health-security-curriculum/fall-2010-courses/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/chief-justice-earl-warren-institute-on-law-and-social-policy/demonstration-project-california/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/chief-justice-earl-warren-institute-on-law-and-social-policy/education-research-products/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/chief-justice-earl-warren-institute-on-law-and-social-policy/education/events/</loc></url>
@@ -11219,7 +11222,6 @@
 <url><loc>https://www.law.berkeley.edu/research/chief-justice-earl-warren-institute-on-law-and-social-policy/sophia-green/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/chief-justice-earl-warren-institute-on-law-and-social-policy/troy-duster/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/chief-justice-earl-warren-institute-on-law-and-social-policy/voting-rights/events/</loc></url>
-<url><loc>https://www.law.berkeley.edu/research/chief-justice-earl-warren-institute-on-law-and-social-policy/voting-rights/initiatives/california-redistricting-briefs/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/chief-justice-earl-warren-institute-on-law-and-social-policy/voting-rights/people/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/claw/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/claw/about-claw/</loc></url>
@@ -11563,7 +11565,6 @@
 <url><loc>https://www.law.berkeley.edu/research/clee/research/law-of-the-sea-institute/publications/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/clee/research/law-of-the-sea-institute/publications/multilateralism-and-international-ocean-resources-law/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/clee/research/law-of-the-sea-institute/publications/publications-1965/</loc></url>
-<url><loc>https://www.law.berkeley.edu/research/clee/research/law-of-the-sea-institute/publications/securing-the-ocean-for-the-next-generation/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/clee/research/law-of-the-sea-institute/scheiber-lecture/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/clee/research/law-of-the-sea-institute/the-oceans-as-commons/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/clee/research/new-report/</loc></url>
@@ -11886,6 +11887,7 @@
 <url><loc>https://www.law.berkeley.edu/research/human-rights-center/past-projects/vulnerable-populations/congo-drc/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/human-rights-center/past-projects/vulnerable-populations/liberia/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/human-rights-center/past-projects/vulnerable-populations/uganda/</loc></url>
+<url><loc>https://www.law.berkeley.edu/research/human-rights-center/programs/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/human-rights-center/programs/customary-international-law-resource-library-2/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/human-rights-center/programs/customary-international-law-resource-library-3/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/human-rights-center/programs/customary-international-law-resource-library/</loc></url>
@@ -11950,7 +11952,6 @@
 <url><loc>https://www.law.berkeley.edu/research/human-rights-center/student-fellowships/past-fellows/2015-2/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/human-rights-center/student-fellowships/past-fellows/2016-human-rights-center-fellows/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/human-rights-center/student-fellowships/past-fellows/2017-human-rights-center-fellows/</loc></url>
-<url><loc>https://www.law.berkeley.edu/research/human-rights-center/student-fellowships/past-fellows/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/human-rights-center/student-fellowships/special-2017-fellowship-opportunities/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/human-rights-center/supporting-hrc/</loc></url>
 <url><loc>https://www.law.berkeley.edu/research/human-rights-center/supporting-hrc/annual-reports/</loc></url>
@@ -12715,6 +12716,7 @@
 <url><loc>https://www.law.berkeley.edu/sidebar/professor-abbye-atkinson-borrowing-and-belonging/</loc></url>
 <url><loc>https://www.law.berkeley.edu/sidebar/professor-and-director-of-the-haas/</loc></url>
 <url><loc>https://www.law.berkeley.edu/sidebar/professor-catherine-albiston-cited-supreme-court-lackey-v-stinnie/</loc></url>
+<url><loc>https://www.law.berkeley.edu/sidebar/professor-catherine-fisk-miller-award-employment-labor-law/</loc></url>
 <url><loc>https://www.law.berkeley.edu/sidebar/professor-harry-scheiber-is-the-editor/</loc></url>
 <url><loc>https://www.law.berkeley.edu/sidebar/professor-mary-ann-mason-says-california%c2%92s/</loc></url>
 <url><loc>https://www.law.berkeley.edu/sidebar/professor-melissa-murray%c2%92s-award-winning-article-marriage/</loc></url>
@@ -13382,8 +13384,9 @@
 <url><loc>https://www.law.berkeley.edu/standalone-course-offerings-nondegree-students/certificate-of-specialization-in-energy-and-environmental-law-for-nondegree-students/</loc></url>
 <url><loc>https://www.law.berkeley.edu/stanford-videos/</loc></url>
 <url><loc>https://www.law.berkeley.edu/stationery-letterhead-purchases/</loc></url>
-<url><loc>https://www.law.berkeley.edu/student-life/</loc></url>
 <url><loc>https://www.law.berkeley.edu/student-life/arts-entertainment/</loc></url>
+<url><loc>https://www.law.berkeley.edu/student-life/health/</loc></url>
+<url><loc>https://www.law.berkeley.edu/student-life/parents-family/</loc></url>
 <url><loc>https://www.law.berkeley.edu/student-spotlight-mia-szarvas-class-of-15/</loc></url>
 <url><loc>https://www.law.berkeley.edu/student-stories-demo/</loc></url>
 <url><loc>https://www.law.berkeley.edu/student-writing/</loc></url>
