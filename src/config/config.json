@@ -165,5 +165,16 @@
     "exclude": [],
     "skipext": [],
     "max_url_diff_percent": 50
+  },
+  {
+     "domain": "https://www.sdsc.edu",
+    "sitemap_url": "https://www.sdsc.edu/sitemap.xml",
+    "sitemap_only": true,
+    "parserobots": false,
+    "debug": true,
+    "output": "sdsc.xml",
+    "exclude": [],
+    "skipext": [],
+    "max_url_diff_percent": 50
   }
 ]
