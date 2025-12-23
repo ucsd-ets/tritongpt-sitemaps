@@ -287,6 +287,37 @@ Asante House Meeting Rooms,123B,ASANT 123B,1,659,34,Open Lab - Restricted,No,Yes
 Asante House Meeting Rooms,123C,ASANT 123C,1,721,34,Open Lab - Restricted,No,Yes,No,C - Carpet,M - Movable,N/A,No,C - Chalk 10' x 4' (1),No (8'),G - Good,N/A,7,N/A,B - Blinds,FL,,1 (Standard),A - Analog,N/A
 Asante House Meeting Rooms,123D,ASANT 123D,1,663,20,Open Lab - Restricted,No,Yes,No,C - Carpet,M - Movable,N/A,No,C - Chalk 10' x 4' (1),No (8'),"P - Poor
 REV - Echo in room",N/A,3,N/A,B - Blinds,FL,,N/A,A - Analog,N/A
+Coalition,B17,COA B17,B,1531,0,Classroom,No,No,No,CM - Cement,"M - Movable
+FL - Flexible",No,No,N/A,Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,N/A
+Coalition,B21,COA B21,B,1350,0,Classroom,No,No,No,CM - Cement,"M - Movable
+FL - Flexible",No,No,N/A,Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,N/A
+Coalition,B23,COA B23,B,1458,0,Classroom,No,No,No,CM - Cement,"M - Movable
+FL - Flexible",No,No,N/A,Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,N/A
+Coalition,B26,COA B26,B,1512,0,Classroom,No,No,No,CM - Cement,"M - Movable
+FL - Flexible",No,No,N/A,Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,N/A
+Coalition,B27,COA B27,B,1297,0,Classroom,No,No,No,CM - Cement,"M - Movable
+FL - Flexible",No,No,N/A,Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,N/A
+Coalition,B30,COA B30,B,1454,0,Classroom,No,No,No,CM - Cement,"M - Movable
+FL - Flexible",No,No,N/A,Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,N/A
+Coalition,117,COA 117,1,1522,0,Classroom,No,No,No,CM - Cement,"M - Movable
+FL - Flexible",No,No,N/A,Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,N/A
+Coalition,121,COA 121,1,1138,0,Classroom,No,No,No,CM - Cement,"M - Movable
+FL - Flexible",No,No,N/A,Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,N/A
+Coalition,122,COA 122,1,1080,0,Classroom,No,No,No,CM - Cement,"M - Movable
+FL - Flexible",No,No,N/A,Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,N/A
+Coalition,123,COA 123,1,1451,0,Classroom,No,No,No,CM - Cement,"M - Movable
+FL - Flexible",No,No,N/A,Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,N/A
+Coalition,124,COA 124,1,1062,0,Classroom,No,No,No,CM - Cement,"M - Movable
+FL - Flexible",No,No,N/A,Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,N/A
+Coalition,125,COA 125,1,1379,0,Classroom,No,No,No,CM - Cement,"M - Movable
+FL - Flexible",No,No,N/A,Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,N/A
+Coalition,126,COA 126,1,1067,0,Classroom,No,No,No,CM - Cement,"M - Movable
+FL - Flexible",No,No,N/A,Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,N/A
+Coalition,127,COA 127,1,1343,0,Classroom,No,No,No,CM - Cement,"M - Movable
+FL - Flexible",No,No,N/A,Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,N/A
+Coalition,128,COA 128,1,1244,0,Classroom,No,No,No,CM - Cement,"M - Movable
+FL - Flexible",No,No,N/A,Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,N/A
+Coalition,130,COA 130,1,2398,0,Classroom,No,No,No,C/T - Cement/Tile,F - Fixed,No,Yes,N/A,Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,N/A
 Copley International Conference Center,109,CICC 109,1,1166,28,Conference Room,No,Yes,No,N/A,N/A,N/A,No,N/A,N/A,N/A,N/A,N/A,,,,,N/A,A - Analog,N/A
 Humanities and Social Sciences,2346A,HSS 2346A,2,466,22,Open Lab - Restricted,No,Yes,No,N/A,N/A,N/A,No,N/A,N/A,N/A,N/A,N/A,,,,,N/A,"A - Analog
 A - Analog",N/A
