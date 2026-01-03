@@ -51,15 +51,12 @@
 <url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/life-insurance-premium-estimator/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/life/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/medical/</loc></url>
-<url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/medical/core/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/medical/employee-medical-plan-costs-2025/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/medical/employee-medical-plan-costs/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/medical/health-savings-plus/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/medical/kaiser-hmo/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/medical/uc-blue-gold-hmo/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/medical/uc-care/</loc></url>
-<url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/medical/uc-health-savings-plan/</loc></url>
-<url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/medical/which-medical-plan-is-right-for-you-2025/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/medical/which-medical-plan-is-right-for-you/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/vision/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/benefits/home-family/</loc></url>
@@ -1713,7 +1710,6 @@
 <url><loc>https://ucnet.universityofcalifornia.edu/oe/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/oe/emp-start/help/oe-faq/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/oe/emp-start/how-to-enroll/retiring-next-year/</loc></url>
-<url><loc>https://ucnet.universityofcalifornia.edu/oe/emp-start/medical/employee-medical-plan-costs/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/oe/emp-start/medical/which-medical-plan-is-right-for-you-oe/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/oe/retiree-start/help/information-sessions/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/oe/retiree-start/how-to-enroll/enrolling-in-a-medicare-plan/</loc></url>
@@ -1866,11 +1862,9 @@
 <url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/for-retirees-identity-theft-protection/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/for-retirees-pets/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/medical-plans-for-retirees/</loc></url>
-<url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/medical-plans-for-retirees/core-for-retirees/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/medical-plans-for-retirees/for-retirees-uc-coverage-and-medicare/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/medical-plans-for-retirees/for-retirees-uc-coverage-and-medicare/medicare-faq/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/medical-plans-for-retirees/for-retirees-uc-coverage-and-medicare/split-or-mixed-medicare-families/</loc></url>
-<url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/medical-plans-for-retirees/healthsavings-for-retirees-2/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/medical-plans-for-retirees/healthsavings-for-retirees/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/medical-plans-for-retirees/kaiser-hmo-for-retirees/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/medical-plans-for-retirees/kaiser-senior-advantage/</loc></url>
@@ -1880,11 +1874,9 @@
 <url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/medical-plans-for-retirees/uc-blue-gold-for-retirees/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/medical-plans-for-retirees/uc-care-retirees/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/medical-plans-for-retirees/uc-high-option-supplement-to-medicare/</loc></url>
-<url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/medical-plans-for-retirees/uc-hsp-retirees/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/medical-plans-for-retirees/uc-medicare-choice/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/medical-plans-for-retirees/uc-medicare-ppo-without-prescription-drugs/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/medical-plans-for-retirees/uc-medicare-ppo/</loc></url>
-<url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/medical-plans-for-retirees/which-medicare-plan-is-right-for-you-2025/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/medical-plans-for-retirees/which-medicare-plan-is-right-for-you/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/retiree-add/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/retirees/retiree-benefits/retiree-health/retiree-dental/</loc></url>
@@ -2571,7 +2563,6 @@
 <url><loc>https://ucnet.universityofcalifornia.edu/wp-content/uploads/forms/pdf/vsp-plan-summary-employees.pdf</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/wp-content/uploads/forms/pdf/vsp-plan-summary-retirees.pdf</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/wp-content/uploads/forms/pdf/welcome-kit.pdf</loc></url>
-<url><loc>https://ucnet.universityofcalifornia.edu/wp-content/uploads/forms/pdf/wha-creditable-coverage-notice.pdf</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/wp-content/uploads/forms/pdf/which-medical-plan-is-right-for-you.pdf</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/wp-content/uploads/forms/pdf/which-medicare-plan-is-right-for-you.pdf</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/wp-content/uploads/forms/pdf/your-benefits-at-a-glance.pdf</loc></url>
