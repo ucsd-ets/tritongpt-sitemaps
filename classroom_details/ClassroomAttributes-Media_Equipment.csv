@@ -1141,7 +1141,7 @@ Tracking camera
 ",Yes,Yes,"Ethernet
 Wireless
 "
-Pepper Canyon Hall,240,PCYNH 240,2,994,37,Classroom,Yes,Yes,Touchscreen,"Blu-Ray Disc player, separate
+Pepper Canyon Hall,240,PCYNH 240,2,994,0,Classroom,Yes,Yes,Touchscreen,"Blu-Ray Disc player, separate
 VHS Player available upon request
 ","HDMI
 USB C
@@ -1202,7 +1202,7 @@ Tracking camera
 ",Yes,Yes,"Ethernet
 Wireless
 "
-Peterson Hall,110,PETER 110,1,2933,331,Lecture Hall,Yes,Yes,Touchscreen,"VHS/DVD/CD combo deck
+Peterson Hall,110,PETER 110,1,2933,328,Lecture Hall,Yes,Yes,Touchscreen,"VHS/DVD/CD combo deck
 Blu-Ray Disc player, separate
 ","VGA with audio
 HDMI

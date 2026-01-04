@@ -212,7 +212,7 @@ C - Chalk 30' x 4' (1)",Yes (>12'),G - Good,Good,None,,,"FL, Dimmable",TT - Tabl
 Pepper Canyon Hall,122,PCYNH 122,1,1528,115,Lecture Hall,Yes,Yes,No,C/T - Cement/Tile,FN - Fixed and Numbered,N/A,No,"C - Chalk 8' x 4' (1)
 C - Chalk 30' x 4' (1)",Yes (>12'),G - Good,Good,None,,,"FL, Dimmable
 IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,4
-Pepper Canyon Hall,240,PCYNH 240,2,994,37,Classroom,Yes,Yes,No,C - Carpet,M - Movable,Yes,No,"W - White 4' x 4' (1)
+Pepper Canyon Hall,240,PCYNH 240,2,994,0,Classroom,Yes,Yes,No,C - Carpet,M - Movable,Yes,No,"W - White 4' x 4' (1)
 W - White 8' x 4' (1)",No (8'),G - Good,Good,8,Fair,B - Blinds,FL,"FS-P - Freestanding, anchored to floor",1 (Station),NA - None,N/A
 Peterson Hall,102,PETER 102,1,956,70,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 26' x 4' (1),Yes (>12'),"P - Poor
 Mech - Mechanical noise",Good,2,Excellent,"B - Blinds
@@ -228,7 +228,7 @@ IN",TT - Tabletop,1 (Standard),A - Analog,1
 Peterson Hall,108,PETER 108,1,3405,410,Lecture Hall,Yes,Yes,Yes,C/T - Cement/Tile,FN - Fixed and Numbered,N/A,Yes,C - Chalk 54' x 4' (1),Yes (>12'),G - Good,Good,None,,,"FL
 IN","FS-P - Freestanding, anchored to floor
 TT - Tabletop",1 (Standard),A - Analog,2
-Peterson Hall,110,PETER 110,1,2933,331,Lecture Hall,Yes,Yes,Yes,C/C/T - Cement/Carpet/Tile,FN - Fixed and Numbered,N/A,Yes,C - Chalk 48' x 4' (1),Yes (>12'),G - Good,Good,None,,,"FL, Dimmable
+Peterson Hall,110,PETER 110,1,2933,328,Lecture Hall,Yes,Yes,Yes,C/C/T - Cement/Carpet/Tile,FN - Fixed and Numbered,N/A,Yes,C - Chalk 48' x 4' (1),Yes (>12'),G - Good,Good,None,,,"FL, Dimmable
 IN, Dimmable","FS-P - Freestanding, anchored to floor",1 (Standard),A - Analog,2
 Podemos,0132,PODEM 0132,1,1216,44,Classroom,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,Limited (8-12'),G - Good,N/A,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
 Podemos,0133,PODEM 0133,1,1234,46,Classroom,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,No (8'),G - Good,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
