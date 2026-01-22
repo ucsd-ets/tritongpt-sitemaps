@@ -51,6 +51,7 @@
 <url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/life-insurance-premium-estimator/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/life/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/medical/</loc></url>
+<url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/medical/alex/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/medical/employee-medical-plan-costs/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/medical/health-savings-plus/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/benefits/health-welfare/medical/kaiser-hmo/</loc></url>
@@ -1166,6 +1167,7 @@
 <url><loc>https://ucnet.universityofcalifornia.edu/job/child-life-specialist/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-a/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-a/appointed-official-student-activities/</loc></url>
+<url><loc>https://ucnet.universityofcalifornia.edu/job/class-a/athletic-trainer-2/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-a/camp-counselor/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-a/lifeguard/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-a/museum-educator-1-3-tx/</loc></url>
@@ -1214,6 +1216,7 @@
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-d-communication-arts-and-graphics/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-d-communication-arts-and-graphics/art-model/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-d-communication-arts-and-graphics/artist/</loc></url>
+<url><loc>https://ucnet.universityofcalifornia.edu/job/class-d-communication-arts-and-graphics/broadcast-communications/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-d-communication-arts-and-graphics/comm-and-network-technical-analyst-1-5/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-d-communication-arts-and-graphics/editor/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-d-communication-arts-and-graphics/illustrator/</loc></url>
@@ -1260,7 +1263,6 @@
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-f-fiscal-management-and-staff-services/executive-assistant-3-cx/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-f-fiscal-management-and-staff-services/financial-analyst-1-2-cx/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-f-fiscal-management-and-staff-services/financial-services-analyst-1-2-cx/</loc></url>
-<url><loc>https://ucnet.universityofcalifornia.edu/job/class-f-fiscal-management-and-staff-services/patient-navigator-non-clinical-2-cx/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-f-fiscal-management-and-staff-services/records-analyst-2-cx/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-f-fiscal-management-and-staff-services/research-administrator-1-2-cx/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-f-fiscal-management-and-staff-services/revenue-cycle-hc-analyst-1/</loc></url>
@@ -1398,6 +1400,7 @@
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/hospital-laboratory-technician/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/hospital-medical-transcriber/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/hospital-radiation-physicist/</loc></url>
+<url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/infection-prevention-coordinator-1-4-hx/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/massage-therapist-2-hx/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/medical-assistant/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/medical-interpreter/</loc></url>
@@ -1417,6 +1420,8 @@
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/pathology-assistant-2-4-hx/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/patient-biller/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/patient-escort/</loc></url>
+<url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/patient-navigator-clinical-3-5-hx/</loc></url>
+<url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/patient-navigator-non-clinical-2-4-cx/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/patient-records-abstractor/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/patient-relations-professional-2-4-cx/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/per-diem-certified-occupational-therapy-assistant/</loc></url>
@@ -1450,6 +1455,7 @@
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/psychologist/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/psychometrist/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/pulmonary-technician/</loc></url>
+<url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/quality-improvement/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/radiation-therapy-technologist-trainee/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/radiation-therapy-technologist/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/radiologic-technologist-trainee/</loc></url>
@@ -1469,6 +1475,7 @@
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/social-work-associate/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/special-duty-physical-therapist/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/spiritual-care-hc-specialist-hx-1-4/</loc></url>
+<url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/sports-medicine-trainer-2-4-hx/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/student-health-care/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/student-health-physician/</loc></url>
 <url><loc>https://ucnet.universityofcalifornia.edu/job/class-h-health-care-and-allied-services/surgical-instrument-maker/</loc></url>
