@@ -330,7 +330,7 @@ iPod/MP3
 ",None,Yes,Yes,"Ethernet
 Wireless
 "
-Coalition,B17,COA B17,B,1531,0,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+Coalition,B17,COA B17,B,1531,60,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
 VHS Player available upon request
 ","HDMI
 USB C
@@ -347,7 +347,7 @@ Tracking camera
 ",Yes,No,"Ethernet
 Wireless
 "
-Coalition,B21,COA B21,B,1350,0,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+Coalition,B21,COA B21,B,1350,60,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
 VHS Player available upon request
 ","HDMI
 USB C
@@ -364,7 +364,7 @@ Tracking camera
 ",Yes,No,"Ethernet
 Wireless
 "
-Coalition,B23,COA B23,B,1458,0,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+Coalition,B23,COA B23,B,1458,60,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
 VHS Player available upon request
 ","HDMI
 USB C
@@ -381,7 +381,7 @@ Tracking camera
 ",Yes,No,"Ethernet
 Wireless
 "
-Coalition,B26,COA B26,B,1512,0,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+Coalition,B26,COA B26,B,1512,60,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
 VHS Player available upon request
 ","HDMI
 USB C
@@ -398,7 +398,7 @@ Tracking camera
 ",Yes,No,"Ethernet
 Wireless
 "
-Coalition,B27,COA B27,B,1297,0,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+Coalition,B27,COA B27,B,1297,100,Lecture Hall,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
 VHS Player available upon request
 ","HDMI
 USB C
@@ -415,7 +415,7 @@ Tracking camera
 ",Yes,No,"Ethernet
 Wireless
 "
-Coalition,B30,COA B30,B,1454,0,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+Coalition,B30,COA B30,B,1454,58,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
 VHS Player available upon request
 ","HDMI
 USB C
@@ -430,7 +430,7 @@ Tracking camera
 ",Yes,No,"Ethernet
 Wireless
 "
-Coalition,117,COA 117,1,1522,0,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+Coalition,117,COA 117,1,1522,56,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
 VHS Player available upon request
 ","HDMI
 USB C
@@ -447,7 +447,7 @@ Tracking camera
 ",Yes,No,"Ethernet
 Wireless
 "
-Coalition,121,COA 121,1,1138,0,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+Coalition,121,COA 121,1,1138,40,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
 VHS Player available upon request
 ","HDMI
 USB C
@@ -463,24 +463,7 @@ Tracking camera
 ",Yes,No,"Ethernet
 Wireless
 "
-Coalition,122,COA 122,1,1080,0,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
-VHS Player available upon request
-","HDMI
-USB C
-iPod/MP3
-Wireless Video
-",Yes,"Wireless
-",High Definition,Electric,12',"Wall 80 (4) WI
-","Zoom Capable Room
-Camera and Microphone
-","Audio (lapel or over-the-ear mic)
-Audio (audience ceiling mic)
-Screen
-Tracking camera
-",Yes,No,"Ethernet
-Wireless
-"
-Coalition,123,COA 123,1,1451,0,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+Coalition,122,COA 122,1,1080,40,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
 VHS Player available upon request
 ","HDMI
 USB C
@@ -497,7 +480,24 @@ Tracking camera
 ",Yes,No,"Ethernet
 Wireless
 "
-Coalition,124,COA 124,1,1062,0,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+Coalition,123,COA 123,1,1451,60,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+VHS Player available upon request
+","HDMI
+USB C
+iPod/MP3
+Wireless Video
+",Yes,"Wireless
+",High Definition,Electric,12',"Wall 80 (4) WI
+","Zoom Capable Room
+Camera and Microphone
+","Audio (lapel or over-the-ear mic)
+Audio (audience ceiling mic)
+Screen
+Tracking camera
+",Yes,No,"Ethernet
+Wireless
+"
+Coalition,124,COA 124,1,1062,40,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
 VHS Player available upon request
 ","HDMI
 USB C
@@ -514,7 +514,7 @@ Tracking camera
 ",Yes,No,"Ethernet
 Wireless
 "
-Coalition,125,COA 125,1,1379,0,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+Coalition,125,COA 125,1,1379,110,Lecture Hall,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
 VHS Player available upon request
 ","HDMI
 USB C
@@ -548,7 +548,7 @@ Tracking camera
 ",Yes,No,"Ethernet
 Wireless
 "
-Coalition,127,COA 127,1,1343,0,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+Coalition,127,COA 127,1,1343,104,Lecture Hall,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
 VHS Player available upon request
 ","HDMI
 USB C
@@ -582,7 +582,7 @@ Tracking camera
 ",Yes,No,"Ethernet
 Wireless
 "
-Coalition,130,COA 130,1,2398,0,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+Coalition,130,COA 130,1,2398,140,Lecture Hall,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
 VHS Player available upon request
 ","HDMI
 USB C
@@ -1030,7 +1030,7 @@ Tracking camera
 ",Yes,Yes,"Ethernet
 Wireless
 "
-Mosaic,MO0113,MOS 0113,1,2684,250,Lecture Hall,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+Mosaic,MO0113,MOS 0113,1,2684,500,Lecture Hall,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
 VHS Player available upon request
 ","HDMI
 USB C

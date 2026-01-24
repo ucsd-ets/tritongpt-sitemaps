@@ -83,53 +83,53 @@ IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
 Center Hall,224C,CENTR 224C,2,294,15,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 11.8' x 4' (1),,"P - Poor
 REV - Echo in room",Good,1,Excellent,S - Shades,"FL, Dimmable
 IN, Dimmable",TT - Tabletop,1 (Standard),A - Analog,1
-Coalition,B17,COA B17,B,1531,0,Classroom,Yes,Yes,No,T - Tile,"M - Movable
+Coalition,B17,COA B17,B,1531,60,Classroom,Yes,Yes,No,T - Tile,"M - Movable
 FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
 W - White 6' x 4' (3)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
-Coalition,B21,COA B21,B,1350,0,Classroom,Yes,Yes,No,T - Tile,"M - Movable
+Coalition,B21,COA B21,B,1350,60,Classroom,Yes,Yes,No,T - Tile,"M - Movable
 FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
 W - White 6' x 4' (3)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
-Coalition,B23,COA B23,B,1458,0,Classroom,Yes,Yes,No,T - Tile,"M - Movable
+Coalition,B23,COA B23,B,1458,60,Classroom,Yes,Yes,No,T - Tile,"M - Movable
 FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
 W - White 6' x 4' (2)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
-Coalition,B26,COA B26,B,1512,0,Classroom,Yes,Yes,No,T - Tile,"M - Movable
+Coalition,B26,COA B26,B,1512,60,Classroom,Yes,Yes,No,T - Tile,"M - Movable
 FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
 W - White 6' x 4' (2)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
-Coalition,B27,COA B27,B,1297,0,Classroom,Yes,Yes,No,T - Tile,"M - Movable
+Coalition,B27,COA B27,B,1297,100,Lecture Hall,Yes,Yes,No,T - Tile,"M - Movable
 FL - Flexible",Yes,No,"C - Chalk 14' x 4' (4)
 W - White 6' x 4' (2)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
-Coalition,B30,COA B30,B,1454,0,Classroom,Yes,Yes,No,T - Tile,"M - Movable
+Coalition,B30,COA B30,B,1454,58,Classroom,Yes,Yes,No,T - Tile,"M - Movable
 FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
 W - White 6' x 4' (2)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
-Coalition,117,COA 117,1,1522,0,Classroom,Yes,Yes,No,T - Tile,"M - Movable
+Coalition,117,COA 117,1,1522,56,Classroom,Yes,Yes,No,T - Tile,"M - Movable
 FL - Flexible",Yes,No,"C - Chalk 12' x 4' (1)
 C - Chalk 14' x 4' (1)
 W - White 6' x 4' (2)",Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
-Coalition,121,COA 121,1,1138,0,Classroom,Yes,Yes,No,T - Tile,"M - Movable
+Coalition,121,COA 121,1,1138,40,Classroom,Yes,Yes,No,T - Tile,"M - Movable
 FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
 W - White 6' x 4' (3)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
-Coalition,122,COA 122,1,1080,0,Classroom,Yes,Yes,No,T - Tile,"M - Movable
+Coalition,122,COA 122,1,1080,40,Classroom,Yes,Yes,No,T - Tile,"M - Movable
 FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
 W - White 6' x 4' (2)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
-Coalition,123,COA 123,1,1451,0,Classroom,Yes,Yes,No,T - Tile,"M - Movable
+Coalition,123,COA 123,1,1451,60,Classroom,Yes,Yes,No,T - Tile,"M - Movable
 FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
 W - White 6' x 4' (2)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
-Coalition,124,COA 124,1,1062,0,Classroom,Yes,Yes,No,T - Tile,"M - Movable
+Coalition,124,COA 124,1,1062,40,Classroom,Yes,Yes,No,T - Tile,"M - Movable
 FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
 W - White 6' x 4' (2)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
-Coalition,125,COA 125,1,1379,0,Classroom,Yes,Yes,No,T - Tile,"M - Movable
+Coalition,125,COA 125,1,1379,110,Lecture Hall,Yes,Yes,No,T - Tile,"M - Movable
 FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
 W - White 6' x 4' (1)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
 Coalition,126,COA 126,1,1067,0,Classroom,Yes,Yes,No,T - Tile,"M - Movable
 FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
 W - White 6' x 4' (1)",Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
-Coalition,127,COA 127,1,1343,0,Classroom,Yes,Yes,No,T - Tile,"M - Movable
+Coalition,127,COA 127,1,1343,104,Lecture Hall,Yes,Yes,No,T - Tile,"M - Movable
 FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
 W - White 6' x 4' (1)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
 Coalition,128,COA 128,1,1244,0,Classroom,Yes,Yes,No,T - Tile,"M - Movable
 FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
 W - White 6' x 4' (1)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
-Coalition,130,COA 130,1,2398,0,Classroom,Yes,Yes,No,T - Tile,F - Fixed,Yes,Yes,C - Chalk 8' x 4' (4),Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
+Coalition,130,COA 130,1,2398,140,Lecture Hall,Yes,Yes,No,T - Tile,F - Fixed,Yes,Yes,C - Chalk 8' x 4' (4),Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
 Cognitive Science Building,001,CSB 001,L,1468,120,Lecture Hall,Yes,Yes,No,T - Tile,FN - Fixed and Numbered,N/A,Yes,C - Chalk 16' x 4' (2),Limited (8-12'),G - Good,Poor,None,,,"FL, Dimmable
 IN, Dimmable","FS-P - Freestanding, anchored to floor
 TT - Tabletop",1 (Standard),A - Analog,1
@@ -197,7 +197,7 @@ C - Chalk 10' x 4' (1)",Yes (>12'),G - Good,Good,10,Excellent,C - Curtains,FL,TT
 McGill Hall,2334,MCGIL 2334,2,286,15,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,C - Chalk 7' x 4' (1),Limited (8-12'),G - Good,Good,10,Excellent,C - Curtains,FL,TT - Tabletop,1 (Standard),A - Analog,1
 McGill Hall,2342,MCGIL 2342,2,286,15,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 8' x 4' (1)
 C - Chalk 10' x 4' (1)",Yes (>12'),G - Good,Good,10,Excellent,C - Curtains,FL,TT - Tabletop,1 (Standard),A - Analog,1
-Mosaic,MO0113,MOS 0113,1,2684,250,Lecture Hall,Yes,Yes,No,T - Tile,FN - Fixed and Numbered,Yes,Yes,GW - Glass white 4' x 8' (2),Limited (8-12'),G - Good,Good,None,,,"FL, Dimmable","FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,5
+Mosaic,MO0113,MOS 0113,1,2684,500,Lecture Hall,Yes,Yes,No,T - Tile,FN - Fixed and Numbered,Yes,Yes,GW - Glass white 4' x 8' (2),Limited (8-12'),G - Good,Good,None,,,"FL, Dimmable","FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,5
 Mosaic,MO0114,MOS 0114,1,2600,250,Lecture Hall,Yes,Yes,No,T - Tile,FN - Fixed and Numbered,Yes,Yes,GW - Glass white 4' x 8' (2),Limited (8-12'),G - Good,Good,None,,,"FL, Dimmable","FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,5
 Mosaic,MO0204,MOS 0204,2,1998,75,Classroom,Yes,Yes,No,T - Tile,FL - Flexible,Yes,No,N/A,Limited (8-12'),G - Good,Good,N/A,,,"FL, Dimmable","FS-P - Freestanding, anchored to floor",1 (Station),NA - None,N/A
 Pepper Canyon Hall,106,PCYNH 106,1,2010,192,Lecture Hall,Yes,Yes,No,C/T - Cement/Tile,FN - Fixed and Numbered,N/A,Yes,C - Chalk 36' x 4' (1),Yes (>12'),G - Good,Good,None,,,"FL, Dimmable
