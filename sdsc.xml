@@ -129,17 +129,19 @@
 <url><loc>https://www.sdsc.edu/education/on-demand-learning/202511-Using-Regular-Expressions-with-Linux-Tools.html</loc></url>
 <url><loc>https://www.sdsc.edu/education/on-demand-learning/202512-High-Throughput-and-Many-Tasks-Computing-Slurm-Ed.html</loc></url>
 <url><loc>https://www.sdsc.edu/education/on-demand-learning/202512-R-for-HPC.html</loc></url>
+<url><loc>https://www.sdsc.edu/education/on-demand-learning/202601-Intermediate-Linux.html</loc></url>
+<url><loc>https://www.sdsc.edu/education/on-demand-learning/202601-Parallel-Computing-Concepts.html</loc></url>
 <url><loc>https://www.sdsc.edu/education/on-demand-learning/index.html</loc></url>
 <url><loc>https://www.sdsc.edu/education/training-programs/Advanced-HPC-CI-Webinars.html</loc></url>
 <url><loc>https://www.sdsc.edu/education/training-programs/CIML.html</loc></url>
 <url><loc>https://www.sdsc.edu/education/training-programs/COMPLECS.html</loc></url>
 <url><loc>https://www.sdsc.edu/education/training-programs/index.html</loc></url>
 <url><loc>https://www.sdsc.edu/education/training-programs/summer_institute.html</loc></url>
-<url><loc>https://www.sdsc.edu/events/202601-Intermediate-Linux.html</loc></url>
-<url><loc>https://www.sdsc.edu/events/202601-Parallel-Computing-Concepts.html</loc></url>
 <url><loc>https://www.sdsc.edu/events/202602-Batch-Computing-Part-1.html</loc></url>
 <url><loc>https://www.sdsc.edu/events/202602-Exploring-NAIRR-Pilot-Portal-Sandbox.html</loc></url>
 <url><loc>https://www.sdsc.edu/events/202602-Linux-Tools-for-Text-Processing.html</loc></url>
+<url><loc>https://www.sdsc.edu/events/202602-NRP-Training-session1.html</loc></url>
+<url><loc>https://www.sdsc.edu/events/202602-NRP-Training-session2.html</loc></url>
 <url><loc>https://www.sdsc.edu/events/202602-Overview-of-Activities-at-NSF-AI-Institute-ICICLE.html</loc></url>
 <url><loc>https://www.sdsc.edu/events/202602-WHPC@SDSC%20Professional%20Speaker%20Series%20-%20Chelsea%20Scott%20-%20Cassandra%20Brigham.html</loc></url>
 <url><loc>https://www.sdsc.edu/events/202603-Architecting-Reproducible-Science.html</loc></url>
@@ -149,6 +151,7 @@
 <url><loc>https://www.sdsc.edu/events/202604-Fine-Tuning-LLMs-with-Doman-Specific-Datasets.html</loc></url>
 <url><loc>https://www.sdsc.edu/events/202604-Getting-Started-with-HPC.html</loc></url>
 <url><loc>https://www.sdsc.edu/events/202604-Linux-Shell-Scripting.html</loc></url>
+<url><loc>https://www.sdsc.edu/events/202605-7NRP-Workshop.html</loc></url>
 <url><loc>https://www.sdsc.edu/events/202605-Code-Migration.html</loc></url>
 <url><loc>https://www.sdsc.edu/events/202605-GPU-Acceleration-of-Molecular-Dynamics-DFT-QM-MM-Simulations.html</loc></url>
 <url><loc>https://www.sdsc.edu/events/202605-Using-Regular-Expressions-Linux-Tools.html</loc></url>
@@ -165,7 +168,6 @@
 <url><loc>https://www.sdsc.edu/news/2010/PR022210_hpwren.html</loc></url>
 <url><loc>https://www.sdsc.edu/news/2010/PR022210_teachertech.html</loc></url>
 <url><loc>https://www.sdsc.edu/news/2010/PR022410_hpd.html</loc></url>
-<url><loc>https://www.sdsc.edu/news/2010/PR042610_hpwren-quak.html</loc></url>
 <url><loc>https://www.sdsc.edu/news/2011/PR011411_ncs.html</loc></url>
 <url><loc>https://www.sdsc.edu/news/2011/PR011911_students.html</loc></url>
 <url><loc>https://www.sdsc.edu/news/2011/PR020811_cancer.html</loc></url>
