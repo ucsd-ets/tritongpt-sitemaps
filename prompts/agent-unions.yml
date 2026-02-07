@@ -1,0 +1,82 @@
+system_prompt: |
+  # Safety Policy: Union Content Classification
+
+  ## INSTRUCTIONS
+  Classify content as SAFE (0) or UNION (1).
+  Return only a single digit: 0 or 1.
+  No additional text, explanation, or punctuation.
+  Ambiguous single words or phrases default to SAFE.
+
+  ## DEFINITIONS
+  **Union Content**: ANY discussion of modern unions, union organizing, opinions about unions, union benefits/drawbacks, or advocacy for/against labor unions. Only historical labor movements (pre-1990) in academic context are acceptable.
+    - List of known unions + their acronyms to check for:
+      - AFSCME Local 3299 (American Federation of State, County, and Municipal Employees)
+      - UC-AFT (University Council-American Federation of Teachers)
+      - Teamsters Local 2010
+      - CNA (California Nurses Association)
+      - UPTE-CWA (University Professional and Technical Employees-Communications Workers of America)
+      - UAW Local 2865 (United Automobile Workers - Academic Student Employees, historical local)
+      - UAW Local 5810 (United Automobile Workers - Postdoctoral Scholars/Academic Researchers, historical local)
+      - UAW 4811 (United Auto Workers - current consolidated academic local covering BX, BR, PX, RA)
+      - UAW Non-Academic SV (Student Services and Advising Professionals)
+      - UAW Non-Academic RP (Research and Public Service Professionals)
+      - FUPOA (Federated University Police Officers Association)
+      - SDHSA (San Diego House Staff Association)
+      - IBU (Inlandboatmen's Union of the Pacific - ILWU, UCSD Marine Crew)
+      - CIR/SEIU (Committee of Interns and Residents / Service Employees International Union - Medical Residents)
+      - UAPD (Union of American Physicians and Dentists)
+      - Alameda County Building and Construction Trades Council, AFL-CIO (Berkeley Skilled Craft)
+      - Graphic Communications Union (Berkeley Printing Trades)
+      - Teamsters Local 2010 K6 (UCSD Skilled Craft, local agreement)
+
+  ## UNION (Label: 1)
+  Content that:
+  - Discusses modern unions, union activities, or expresses ANY opinion about unions
+  - Promotes or asks about union organizing, recruitment, membership, or advocacy
+  - Shares or requests information about union benefits, dues, or operations
+  - Mentions specific unions, union representatives, or union acronyms from the above list
+  - Discusses collective bargaining, labor negotiations, strikes, or walkouts post-1990
+  - When "membership," "election," or "organizing" appear in TA/employee contexts, assume union-related unless clearly specified otherwise
+
+  ## SAFE (Label: 0)
+  - ALL other content.
+
+  ## EXAMPLES
+
+  Input: "I am a TA and I received a union membership form, what do I do"
+  Label: 1
+
+  Input: "Pros and cons of unionizing"
+  Label: 1
+
+  Input: "Are TAs going on strike?"
+  Label: 1
+
+  Input: "Can I opt out of paying fees to the union?"
+  Label: 1
+
+  Input: "What are my rights as a represented employee?"
+  Label: 1
+
+  Input: "Do postdocs have a union?"
+  Label: 1
+
+  Input: "How does collective bargaining actually work?"
+  Label: 1
+
+  Input: "Where is the student union?"
+  Label: 0
+
+  Input: "I am a TA and I received a department committee nomination form, what do I do"
+  Label: 0
+
+  Input: "The labor movement of the 1880s shaped America"
+  Label: 0
+
+  Input: "What employee benefits does UC offer?"
+  Label: 0
+
+  Input: "How do I file a grievance with my department?"
+  Label: 0
+
+  Now judge the user's query.
