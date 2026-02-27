@@ -327,6 +327,7 @@
 <url><loc>https://ced.berkeley.edu/collections/wurster-william-and-catherine-bauer</loc></url>
 <url><loc>https://ced.berkeley.edu/collections/wurster-william</loc></url>
 <url><loc>https://ced.berkeley.edu/collections/yelland-william</loc></url>
+<url><loc>https://ced.berkeley.edu/events/andrew-merritt-intertidal-food-architecture-lecture</loc></url>
 <url><loc>https://ced.berkeley.edu/events/anna-brand-abolitionist-archive-public-land-public-space-public-discourse</loc></url>
 <url><loc>https://ced.berkeley.edu/events/anya-domlesky-infrastructure-adaptation-oakland-studio-public-land-public-space-public-discourse</loc></url>
 <url><loc>https://ced.berkeley.edu/events/branner-stump-traveling-fellows-architecture-exhibition-reception</loc></url>
@@ -339,7 +340,6 @@
 <url><loc>https://ced.berkeley.edu/events/lu-liang-geospatial-intelligence-for-environmental-design-public-land-public-space-public-discourse</loc></url>
 <url><loc>https://ced.berkeley.edu/events/luis-flores-remaking-landed-economic-security-in-america-city-regional-planning-lecture</loc></url>
 <url><loc>https://ced.berkeley.edu/events/mediating-landscapes-uc-berkeley-upenn-faculty-in-conversation-public-land-public-space-public-discourse</loc></url>
-<url><loc>https://ced.berkeley.edu/events/myrl-beam-the-long-fire-sexual-policing-settler-colonialism-and-the-minneapolis-uprising-arcus-places-prize-lecture</loc></url>
 <url><loc>https://ced.berkeley.edu/events/renee-y-chow-a-call-to-architects-architecture-lecture</loc></url>
 <url><loc>https://ced.berkeley.edu/events/research-fellow-talks-environmental-design-archives</loc></url>
 <url><loc>https://ced.berkeley.edu/events/when-repair-isnt-enough-architecture-and-the-right-to-heal-architecture-symposium</loc></url>
@@ -685,6 +685,7 @@
 <url><loc>https://ced.berkeley.edu/news/fam-1st-family-foundation-aia-east-bay-summer-architecture-camp</loc></url>
 <url><loc>https://ced.berkeley.edu/news/first-prototype-of-lecturer-dan-spiegels-standardized-core-house-system-built-in-hawaii</loc></url>
 <url><loc>https://ced.berkeley.edu/news/five-alums-elevated-to-asla-council-of-fellows</loc></url>
+<url><loc>https://ced.berkeley.edu/news/five-ced-faculty-contribute-to-new-routledge-handbook-of-urban-design-practice</loc></url>
 <url><loc>https://ced.berkeley.edu/news/forest-to-frame-mayencourt-management-sustainability</loc></url>
 <url><loc>https://ced.berkeley.edu/news/former-dept-of-architecture-chair-and-professor-tom-j-buresh-will-retire-after-11-years-at-ced</loc></url>
 <url><loc>https://ced.berkeley.edu/news/former-state-housing-director-hud-official-joins-berkeley-housing-center</loc></url>
@@ -812,7 +813,6 @@
 <url><loc>https://ced.berkeley.edu/news/master-of-urban-design-qa-bageshri-thakar</loc></url>
 <url><loc>https://ced.berkeley.edu/news/master-of-urban-design-students-engage-local-communities-to-imagine-the-california-of-the-future</loc></url>
 <url><loc>https://ced.berkeley.edu/news/matt-kondolf-steps-in-as-new-laep-acting-chair</loc></url>
-<url><loc>https://ced.berkeley.edu/news/max-buchholz-who-focuses-on-urban-inequality-joins-the-department-of-city-regional-planning</loc></url>
 <url><loc>https://ced.berkeley.edu/news/mcp-alumna-reimagines-co-working-spaces-with-new-startup</loc></url>
 <url><loc>https://ced.berkeley.edu/news/mcp-students-travel-to-all-50-bart-stations-in-under-6-hours-a-world-record-speed-run</loc></url>
 <url><loc>https://ced.berkeley.edu/news/meet-bike-park-designer-megan-bradley</loc></url>
@@ -1227,6 +1227,7 @@
 <url><loc>https://ced.berkeley.edu/people/jason-corburn</loc></url>
 <url><loc>https://ced.berkeley.edu/people/jason-miller</loc></url>
 <url><loc>https://ced.berkeley.edu/people/javier-arizmendi</loc></url>
+<url><loc>https://ced.berkeley.edu/people/jay-sevilla</loc></url>
 <url><loc>https://ced.berkeley.edu/people/jean-paul-bourdier</loc></url>
 <url><loc>https://ced.berkeley.edu/people/jeff-allen</loc></url>
 <url><loc>https://ced.berkeley.edu/people/jeff-garnand</loc></url>
@@ -1475,8 +1476,7 @@
 <url><loc>https://ced.berkeley.edu/resources/awards-scholarships-and-fellowships</loc></url>
 <url><loc>https://ced.berkeley.edu/resources/careers-and-work-opportunities/internships-jobs</loc></url>
 <url><loc>https://ced.berkeley.edu/resources/careers-and-work-opportunities</loc></url>
-<url><loc>https://ced.berkeley.edu/resources/fabrication-materials</loc></url>
-<url><loc>https://ced.berkeley.edu/resources/facility-services/building-safety</loc></url>
+<url><loc>https://ced.berkeley.edu/resources/fabrication-shop-dfl</loc></url>
 <url><loc>https://ced.berkeley.edu/resources/facility-services/reserve-a-room</loc></url>
 <url><loc>https://ced.berkeley.edu/resources/facility-services/reserve-audio-visual</loc></url>
 <url><loc>https://ced.berkeley.edu/resources/facility-services</loc></url>
@@ -1485,15 +1485,12 @@
 <url><loc>https://ced.berkeley.edu/resources/it-computing/lab-schedule-policies</loc></url>
 <url><loc>https://ced.berkeley.edu/resources/it-computing/student-technology-center</loc></url>
 <url><loc>https://ced.berkeley.edu/resources/it-computing</loc></url>
-<url><loc>https://ced.berkeley.edu/resources/library</loc></url>
 <url><loc>https://ced.berkeley.edu/resources/student-fees-waivers</loc></url>
 <url><loc>https://ced.berkeley.edu/resources/student-organizations/ced-undergraduate-student-council</loc></url>
 <url><loc>https://ced.berkeley.edu/resources/student-organizations/ced-wellness-affairs</loc></url>
 <url><loc>https://ced.berkeley.edu/resources/student-organizations/register-a-student-organization</loc></url>
 <url><loc>https://ced.berkeley.edu/resources/student-organizations</loc></url>
-<url><loc>https://ced.berkeley.edu/resources/student-support/advocacy-conflict-resolution</loc></url>
 <url><loc>https://ced.berkeley.edu/resources/student-support/counseling-psychological-services</loc></url>
-<url><loc>https://ced.berkeley.edu/resources/student-support/sexual-harassment-violence-support</loc></url>
 <url><loc>https://ced.berkeley.edu/resources/student-support</loc></url>
 <url><loc>https://ced.berkeley.edu/resources</loc></url>
 <url><loc>https://ced.berkeley.edu/summer/highschool-summer-programs</loc></url>
@@ -1759,7 +1756,6 @@
 <url><loc>https://ced.berkeley.edu/work/inland-site-visits</loc></url>
 <url><loc>https://ced.berkeley.edu/work/inland-student-work</loc></url>
 <url><loc>https://ced.berkeley.edu/work/inland-visit-to-blake-garden</loc></url>
-<url><loc>https://ced.berkeley.edu/work/into-the-void-building-the-1939-san-francisco-worlds-fair</loc></url>
 <url><loc>https://ced.berkeley.edu/work/into-the-void-pacific-the-architecture-of-the-1939-san-francisco-worlds-fair</loc></url>
 <url><loc>https://ced.berkeley.edu/work/laep-graduating-class-of-2015-student-work</loc></url>
 <url><loc>https://ced.berkeley.edu/work/laep-spring-alumni-graduating-student-reception</loc></url>
@@ -1875,6 +1871,7 @@
 <url><loc>https://ced.berkeley.edu/work/the-everyday-life-of-memorials</loc></url>
 <url><loc>https://ced.berkeley.edu/work/the-mezcal-route</loc></url>
 <url><loc>https://ced.berkeley.edu/work/the-moving-air-a-cultural-environmental-paradigm</loc></url>
+<url><loc>https://ced.berkeley.edu/work/the-routledge-handbook-of-urban-design-practice</loc></url>
 <url><loc>https://ced.berkeley.edu/work/the-weston-havens-house-in-color</loc></url>
 <url><loc>https://ced.berkeley.edu/work/thomas-church-memorial-design-competition-2007</loc></url>
 <url><loc>https://ced.berkeley.edu/work/thomas-church-memorial-design-competition-2010</loc></url>
