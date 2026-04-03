@@ -807,13 +807,14 @@
 <url><loc>https://haas.berkeley.edu/cte/cases-2-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/cases-2-2/diversity-cases/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/cases-2/</loc></url>
-<url><loc>https://haas.berkeley.edu/cte/helpful-links/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2014-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2015-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2016-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2017-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2018-2/</loc></url>
+<url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/workshop-archive/</loc></url>
+<url><loc>https://haas.berkeley.edu/cte/teaching-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/cle-workshop-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/continuous-learning-events-workshop-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/instructional-support/</loc></url>
@@ -1709,7 +1710,6 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-non-299/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/affiliated-programs/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/borenstein-electricity-rate-reforms-2/</loc></url>
-<url><loc>https://haas.berkeley.edu/energy-institute/research/borenstein-socal-natural-gas-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/borenstein-solar-panels-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/borenstien-energy-storage/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/calpower/</loc></url>
@@ -1718,9 +1718,12 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/research/csem-working-papers/wp-194/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/essential-blog-posts/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/jim-bushnell-on-californias-power-alerts/</loc></url>
+<url><loc>https://haas.berkeley.edu/energy-institute/research/joe-shapiro-polluting-industries-studies/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/meredith-fowlie-environmental-regulation-justicellution-reduction/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/meredith-fowlie-on-the-legacy-of-enron-in-californias-power-challenges/</loc></url>
+<url><loc>https://haas.berkeley.edu/energy-institute/research/severin-borenstein-gas-california-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/severin-borenstein-on-gas-prices-in-california/</loc></url>
+<url><loc>https://haas.berkeley.edu/energy-institute/research/severin-borenstein-power-grid-drought/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/working-papers/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/working-papers/power-working-papers/</loc></url>
 <url><loc>https://haas.berkeley.edu/entrepreneurship-innovation-group/</loc></url>
@@ -1816,6 +1819,7 @@
 <url><loc>https://haas.berkeley.edu/event/alma-atma-network-inc-stablecoin-panel-networking-event/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/alumni-affinity-mixer/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/alumni-and-parents-weekend-at-homecoming/</loc></url>
+<url><loc>https://haas.berkeley.edu/event/alumni-career-webinar/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/alumni-networked-job-search-team-10/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/alumni-networked-job-search-team-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/alumni-networked-job-search-team-3/</loc></url>
@@ -5483,6 +5487,7 @@
 <url><loc>https://haas.berkeley.edu/responsible-business/blog/posts/crb-incubated-startups/</loc></url>
 <url><loc>https://haas.berkeley.edu/responsible-business/blog/posts/crb-mobilizes-solutions-patagonias-sustainability-challenges/</loc></url>
 <url><loc>https://haas.berkeley.edu/responsible-business/blog/posts/crb-presents-a-new-course-corporate-governance-shareholders-stakeholders-and-corporate-control/</loc></url>
+<url><loc>https://haas.berkeley.edu/responsible-business/blog/posts/crb-story-of-impact-amelia-forrest-kaye/</loc></url>
 <url><loc>https://haas.berkeley.edu/responsible-business/blog/posts/crb-student-advisory-board-2020-summer-recap/</loc></url>
 <url><loc>https://haas.berkeley.edu/responsible-business/blog/posts/crb-student-advisory-board-summer-experiences-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/responsible-business/blog/posts/crb-student-advisory-board-summer-experiences/</loc></url>
@@ -5665,6 +5670,7 @@
 <url><loc>https://haas.berkeley.edu/responsible-business/blog/posts/reflections-2018-student-advisory-board-graduates/</loc></url>
 <url><loc>https://haas.berkeley.edu/responsible-business/blog/posts/reflections-on-the-2019-net-impact-conference/</loc></url>
 <url><loc>https://haas.berkeley.edu/responsible-business/blog/posts/reflections-pri-finance-roundup/</loc></url>
+<url><loc>https://haas.berkeley.edu/responsible-business/blog/posts/regenerative-agriculture-salon-conversations-around-responsible-business-in-food-systems/</loc></url>
 <url><loc>https://haas.berkeley.edu/responsible-business/blog/posts/regenerative-agriculture-salon-from-the-ranch-to-the-plate/</loc></url>
 <url><loc>https://haas.berkeley.edu/responsible-business/blog/posts/remembering-john-whitehead-the-conscience-of-a-leader/</loc></url>
 <url><loc>https://haas.berkeley.edu/responsible-business/blog/posts/resiliency-we-must-focus-on-resiliency-letter-from-the-crb-executive-director/</loc></url>
