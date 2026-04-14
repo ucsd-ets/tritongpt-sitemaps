@@ -815,14 +815,13 @@
 <url><loc>https://haas.berkeley.edu/cte/cases-2-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/cases-2-2/diversity-cases/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/cases-2/</loc></url>
+<url><loc>https://haas.berkeley.edu/cte/helpful-links/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2014-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2015-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2016-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2017-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2018-2/</loc></url>
-<url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/workshop-archive/</loc></url>
-<url><loc>https://haas.berkeley.edu/cte/teaching-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/cle-workshop-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/continuous-learning-events-workshop-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/instructional-support/</loc></url>
@@ -1734,6 +1733,7 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/research/meredith-fowlie-on-the-legacy-of-enron-in-californias-power-challenges/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/severin-borenstein-gas-california-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/severin-borenstein-on-gas-prices-in-california/</loc></url>
+<url><loc>https://haas.berkeley.edu/energy-institute/research/severin-borenstein-power-grid-drought/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/working-papers/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/working-papers/power-working-papers/</loc></url>
 <url><loc>https://haas.berkeley.edu/entrepreneurship-innovation-group/</loc></url>
@@ -3544,7 +3544,6 @@
 <url><loc>https://haas.berkeley.edu/ewmba/</loc></url>
 <url><loc>https://haas.berkeley.edu/ewmba/academics/</loc></url>
 <url><loc>https://haas.berkeley.edu/ewmba/academics/academic-feedback-support/</loc></url>
-<url><loc>https://haas.berkeley.edu/ewmba/academics/academic-feedback-support/academic-advising/</loc></url>
 <url><loc>https://haas.berkeley.edu/ewmba/academics/academic-policies/</loc></url>
 <url><loc>https://haas.berkeley.edu/ewmba/academics/academic-policies/biz_comm-policy/</loc></url>
 <url><loc>https://haas.berkeley.edu/ewmba/academics/academic-policies/class-reps/</loc></url>
@@ -3557,10 +3556,10 @@
 <url><loc>https://haas.berkeley.edu/ewmba/academics/course-planning/</loc></url>
 <url><loc>https://haas.berkeley.edu/ewmba/academics/course-planning/certificate-programs/</loc></url>
 <url><loc>https://haas.berkeley.edu/ewmba/academics/course-planning/core-courses/</loc></url>
+<url><loc>https://haas.berkeley.edu/ewmba/academics/course-planning/core-courses/waiver-guidelines/</loc></url>
 <url><loc>https://haas.berkeley.edu/ewmba/academics/course-planning/curriculum-outline/</loc></url>
 <url><loc>https://haas.berkeley.edu/ewmba/academics/course-planning/electives/</loc></url>
 <url><loc>https://haas.berkeley.edu/ewmba/academics/course-planning/other-academic-opportunities/</loc></url>
-<url><loc>https://haas.berkeley.edu/ewmba/academics/course-planning/waiver-guidelines/</loc></url>
 <url><loc>https://haas.berkeley.edu/ewmba/academics/exception-request/</loc></url>
 <url><loc>https://haas.berkeley.edu/ewmba/academics/full-time-mba-courses/</loc></url>
 <url><loc>https://haas.berkeley.edu/ewmba/academics/gnam/</loc></url>
@@ -4232,6 +4231,7 @@
 <url><loc>https://haas.berkeley.edu/finance/spring2003/</loc></url>
 <url><loc>https://haas.berkeley.edu/finance/spring2005/</loc></url>
 <url><loc>https://haas.berkeley.edu/finance/spring2006/</loc></url>
+<url><loc>https://haas.berkeley.edu/finance/spring2008/</loc></url>
 <url><loc>https://haas.berkeley.edu/finance/spring2009/</loc></url>
 <url><loc>https://haas.berkeley.edu/financial-aid/</loc></url>
 <url><loc>https://haas.berkeley.edu/financial-aid/evening-weekend-mba/</loc></url>
