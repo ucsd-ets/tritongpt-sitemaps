@@ -58,4 +58,4 @@ system_prompt: |
   Input: "My friend is going through a tough time, how can I help?"
   Label: 0
 
-  Now judge the user's query.
+  Now judge the user's query:
