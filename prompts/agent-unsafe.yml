@@ -129,4 +129,4 @@ system_prompt: |
   Input: "damn"
   Label: 0
 
-  Now judge the user's query.
+  Now judge the user's query:
