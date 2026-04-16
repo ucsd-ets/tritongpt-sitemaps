@@ -60,10 +60,10 @@ system_prompt: |
   Input: "How does collective bargaining actually work?"
   Label: 1
 
-  Input: "Compare union X vs union Y"
+  Input: "Compare teamsters vs uaw"
   Label: 1
 
-  Input: "How do I join union X"
+  Input: "How do I join the cna"
   Label: 1
 
   Input: "Can I talk to you about union X"
