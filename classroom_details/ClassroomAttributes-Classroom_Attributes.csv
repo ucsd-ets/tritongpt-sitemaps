@@ -3,6 +3,16 @@ Tables",Clock,Wheelchair Spaces
 Applied Physics and Mathematics,2301,APM 2301,2,564,39,Classroom,Yes,Yes,No,T - Tile,M - Movable,N/A,No,"C - Chalk 15' x 4' (1)
 C - Chalk 20' x 4' (1)",Yes (>12'),"P - Poor
 REV - Echo in room",Good,10,Poor,B - Blinds,FL,TT - Tabletop,1 (Standard),A - Analog,2
+Brian C. Malk Hall,EB90,MALK B90,B,1443,0,Classroom,Yes,Yes,No,T - Tile,"M - Movable
+FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
+W - White 6' x 4' (2)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,2
+Brian C. Malk Hall,EB91,MALK B91,B,1440,0,Classroom,Yes,Yes,No,T - Tile,"M - Movable
+FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
+W - White 6' x 4' (2)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,2
+Brian C. Malk Hall,EB92,MALK B92,B,1067,0,Classroom,Yes,Yes,No,T - Tile,"M - Movable
+FL - Flexible",Yes,No,"C - Chalk 10' x 4' (1)
+C - Chalk 16' x 4' (1)
+W - White 6' x 4' (2)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
 Catalyst,CT0125,CTL 0125,01,3608,348,Lecture Hall,Yes,Yes,No,T - Tile,FN - Fixed and Numbered,No,Yes,"C - Chalk 12' x 4' (1)
 GW - Glass white 6' x 4' (2)",Limited (8-12'),G - Good,Good,None,,,"FL, Dimmable
 IN","FS-P - Freestanding, anchored to floor",1 (Station),NA - None,4

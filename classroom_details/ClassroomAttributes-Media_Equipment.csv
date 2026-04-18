@@ -13,6 +13,56 @@ Audio (ceiling mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
+Brian C. Malk Hall,EB90,MALK B90,B,1443,0,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+VHS Player available upon request
+","HDMI
+USB C
+Wireless Video
+",Yes,"Wireless
+",High Definition,Electric,12',"Wall 80 (4) WI
+","Camera and Microphone
+Zoom Capable Room
+","Tracking camera
+Screen
+Audio (audience ceiling mic)
+Audio (lapel or over-the-ear mic)
+",Yes,No,"Ethernet
+Wireless
+"
+Brian C. Malk Hall,EB91,MALK B91,B,1440,0,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+VHS Player available upon request
+","HDMI
+USB C
+iPod/MP3
+Wireless Video
+",Yes,"Wireless
+",High Definition,Electric,12',"Wall 80 (4) WI
+","Camera and Microphone
+Zoom Capable Room
+","Screen
+Tracking camera
+Audio (lapel or over-the-ear mic)
+Audio (audience ceiling mic)
+",Yes,No,"Ethernet
+Wireless
+"
+Brian C. Malk Hall,EB92,MALK B92,B,1067,0,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+VHS Player available upon request
+","HDMI
+USB C
+iPod/MP3
+Wireless Video
+",Yes,"Wireless
+",High Definition,Electric,12',"Wall 80 (4) WI
+","Camera and Microphone
+Zoom Capable Room
+","Audio (lapel or over-the-ear mic)
+Screen
+Tracking camera
+Audio (audience ceiling mic)
+",Yes,No,"Ethernet
+Wireless
+"
 Catalyst,CT0125,CTL 0125,01,3608,348,Lecture Hall,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
 VHS Player available upon request
 ","HDMI
@@ -22,8 +72,8 @@ Wireless Video
 ",Yes,"Wireless
 ",High Definition,Electric,"14' 7""",N/A,"Zoom Capable Room
 Camera and Microphone
-","Audio (lapel or over-the-ear mic)
-Tracking camera
+","Tracking camera
+Audio (lapel or over-the-ear mic)
 Screen
 ",Yes,Yes,"Ethernet
 Wireless
@@ -33,10 +83,11 @@ Blu-Ray Disc player, separate
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,Wired (,High Definition,Electric,16',N/A,"Camera and Microphone
-Zoom Capable Room
-","Tracking camera
-Screen
+",Yes,"Wireless
+Wired (",High Definition,Electric,16',N/A,"Zoom Capable Room
+Camera and Microphone
+","Screen
+Tracking camera
 Audio (lapel or over-the-ear mic)
 ",Yes,Yes,"Ethernet
 Wireless
@@ -49,8 +100,8 @@ iPod/MP3
 Wired (",High Definition,Electric,14',N/A,"Camera and Microphone
 Zoom Capable Room
 ","Tracking camera
-Audio (lapel or over-the-ear mic)
 Screen
+Audio (lapel or over-the-ear mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -59,11 +110,10 @@ Blu-Ray Disc player, separate
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,"Wireless
-Wired (",High Definition,Electric,14',N/A,"Camera and Microphone
-Zoom Capable Room
-","Audio (lapel or over-the-ear mic)
-Tracking camera
+",Yes,Wired (,High Definition,Electric,14',N/A,"Zoom Capable Room
+Camera and Microphone
+","Tracking camera
+Audio (lapel or over-the-ear mic)
 Screen
 ",Yes,Yes,"Ethernet
 Wireless
@@ -74,9 +124,9 @@ HDMI
 iPod/MP3
 ",Yes,Wired (,High Definition,Electric,14',N/A,"Zoom Capable Room
 Camera and Microphone
-","Audio (lapel or over-the-ear mic)
+","Screen
+Audio (lapel or over-the-ear mic)
 Tracking camera
-Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -87,9 +137,9 @@ HDMI
 iPod/MP3
 ",Yes,Wired (,High Definition,Electric,14',N/A,"Camera and Microphone
 Zoom Capable Room
-","Audio (lapel or over-the-ear mic)
+","Screen
+Audio (lapel or over-the-ear mic)
 Tracking camera
-Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -98,7 +148,8 @@ Blu-Ray Disc player, separate
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,Wired (,High Definition,Electric,16',N/A,"Camera and Microphone
+",Yes,"Wireless
+Wired (",High Definition,Electric,16',N/A,"Camera and Microphone
 Zoom Capable Room
 ","Screen
 Tracking camera
@@ -112,8 +163,8 @@ HDMI
 iPod/MP3
 ",Yes,None,High Definition,Electric,"7' 10""",N/A,"Zoom Capable Room
 Camera and Microphone
-","Tracking camera
-Screen
+","Screen
+Tracking camera
 Audio (ceiling mic)
 ",Yes,Yes,"Ethernet
 Wireless
@@ -122,11 +173,11 @@ Center Hall,202,CENTR 202,2,255,15,Classroom,Yes,Yes,Touchscreen,"VHS/DVD/CD com
 ","HDMI
 USB C
 iPod/MP3
-",Yes,None,High Definition,Electric,"6' 8""",N/A,"Zoom Capable Room
-Camera and Microphone
-","Tracking camera
+",Yes,None,High Definition,Electric,"6' 8""",N/A,"Camera and Microphone
+Zoom Capable Room
+","Audio (ceiling mic)
+Tracking camera
 Screen
-Audio (ceiling mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -136,9 +187,9 @@ USB C
 iPod/MP3
 ",Yes,None,High Definition,Electric,"7' 10""",N/A,"Camera and Microphone
 Zoom Capable Room
-","Audio (ceiling mic)
-Tracking camera
+","Tracking camera
 Screen
+Audio (ceiling mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -159,9 +210,9 @@ USB C
 iPod/MP3
 ",Yes,None,High Definition,Electric,"7' 10""",N/A,"Camera and Microphone
 Zoom Capable Room
-","Audio (ceiling mic)
+","Screen
+Audio (ceiling mic)
 Tracking camera
-Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -171,9 +222,9 @@ USB C
 iPod/MP3
 ",No,None,Widescreen,Manual,"7' 10""",N/A,"Camera and Microphone
 Zoom Capable Room
-","Screen
+","Tracking camera
 Audio (ceiling mic)
-Tracking camera
+Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -184,8 +235,8 @@ iPod/MP3
 ",Yes,None,High Definition,Electric,"7' 10""",N/A,"Camera and Microphone
 Zoom Capable Room
 ","Audio (ceiling mic)
-Tracking camera
 Screen
+Tracking camera
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -193,11 +244,11 @@ Center Hall,208,CENTR 208,2,257,15,Classroom,Yes,Yes,Pushbutton,"VHS/DVD/CD comb
 ","HDMI
 USB C
 iPod/MP3
-",No,None,Standard,Manual,"7' 10""",N/A,"Camera and Microphone
-Zoom Capable Room
+",No,None,Standard,Manual,"7' 10""",N/A,"Zoom Capable Room
+Camera and Microphone
 ","Tracking camera
-Screen
 Audio (ceiling mic)
+Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -219,12 +270,11 @@ Blu-Ray Disc player, separate
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,"Wireless
-Wired (",High Definition,Electric,"9' 8""",N/A,"Zoom Capable Room
-Camera and Microphone
-","Tracking camera
+",Yes,Wired (,High Definition,Electric,"9' 8""",N/A,"Camera and Microphone
+Zoom Capable Room
+","Audio (lapel or over-the-ear mic)
 Screen
-Audio (lapel or over-the-ear mic)
+Tracking camera
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -233,9 +283,8 @@ Blu-Ray Disc/DVD/VHS/CD combo deck
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,"Wireless
-Wired (",High Definition,Electric,11',N/A,"Camera and Microphone
-Zoom Capable Room
+",Yes,Wired (,High Definition,Electric,11',N/A,"Zoom Capable Room
+Camera and Microphone
 ","Screen
 Tracking camera
 Audio (lapel or over-the-ear mic)
@@ -246,10 +295,10 @@ Center Hall,217A,CENTR 217A,2,482,35,Classroom,Yes,Yes,Touchscreen,"VHS/DVD/CD c
 ","HDMI
 USB C
 iPod/MP3
-",Yes,None,High Definition,Electric,"7' 10""",N/A,"Camera and Microphone
-Zoom Capable Room
-","Tracking camera
-Screen
+",Yes,None,High Definition,Electric,"7' 10""",N/A,"Zoom Capable Room
+Camera and Microphone
+","Screen
+Tracking camera
 Audio (ceiling mic)
 ",Yes,Yes,"Ethernet
 Wireless
@@ -272,9 +321,9 @@ USB C
 iPod/MP3
 ",Yes,None,High Definition,Electric,"7' 10""",N/A,"Zoom Capable Room
 Camera and Microphone
-","Screen
-Tracking camera
+","Tracking camera
 Audio (ceiling mic)
+Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -295,8 +344,8 @@ iPod/MP3
 ",Yes,None,High Definition,Electric,"7' 10""",N/A,"Camera and Microphone
 Zoom Capable Room
 ","Tracking camera
-Screen
 Audio (ceiling mic)
+Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -344,10 +393,10 @@ Wireless Video
 ",High Definition,Electric,12',"Wall 80 (4) WI
 ","Camera and Microphone
 Zoom Capable Room
-","Screen
-Tracking camera
+","Audio (lapel or over-the-ear mic)
+Screen
 Audio (audience ceiling mic)
-Audio (lapel or over-the-ear mic)
+Tracking camera
 ",Yes,No,"Ethernet
 Wireless
 "
@@ -359,12 +408,12 @@ iPod/MP3
 Wireless Video
 ",Yes,"Wireless
 ",High Definition,Electric,12',"Wall 80 (4) WI
-","Camera and Microphone
-Zoom Capable Room
-","Audio (lapel or over-the-ear mic)
-Audio (audience ceiling mic)
-Tracking camera
+","Zoom Capable Room
+Camera and Microphone
+","Tracking camera
+Audio (lapel or over-the-ear mic)
 Screen
+Audio (audience ceiling mic)
 ",Yes,No,"Ethernet
 Wireless
 "
@@ -376,12 +425,12 @@ iPod/MP3
 Wireless Video
 ",Yes,"Wireless
 ",High Definition,Electric,12',"Wall 80 (3) WI
-","Camera and Microphone
-Zoom Capable Room
-","Screen
-Audio (lapel or over-the-ear mic)
-Audio (audience ceiling mic)
+","Zoom Capable Room
+Camera and Microphone
+","Audio (audience ceiling mic)
 Tracking camera
+Screen
+Audio (lapel or over-the-ear mic)
 ",Yes,No,"Ethernet
 Wireless
 "
@@ -396,9 +445,9 @@ Wireless Video
 ","Camera and Microphone
 Zoom Capable Room
 ","Audio (audience ceiling mic)
-Tracking camera
-Screen
 Audio (lapel or over-the-ear mic)
+Screen
+Tracking camera
 ",Yes,No,"Ethernet
 Wireless
 "
@@ -413,8 +462,8 @@ Wireless Video
 ","Camera and Microphone
 Zoom Capable Room
 ","Screen
-Audio (audience ceiling mic)
 Tracking camera
+Audio (audience ceiling mic)
 Audio (lapel or over-the-ear mic)
 ",Yes,No,"Ethernet
 Wireless
@@ -426,8 +475,8 @@ USB C
 Wireless Video
 ",Yes,"Wireless
 ",High Definition,Electric,10',"Wall 80 (4) WI
-","Zoom Capable Room
-Camera and Microphone
+","Camera and Microphone
+Zoom Capable Room
 ","Tracking camera
 Audio (audience ceiling mic)
 Audio (lapel or over-the-ear mic)
@@ -442,12 +491,12 @@ iPod/MP3
 Wireless Video
 ",Yes,"Wireless
 ",High Definition,Electric,12',"Wall 80 (4) WI
-","Camera and Microphone
-Zoom Capable Room
-","Audio (audience ceiling mic)
-Tracking camera
-Audio (lapel or over-the-ear mic)
+","Zoom Capable Room
+Camera and Microphone
+","Tracking camera
 Screen
+Audio (audience ceiling mic)
+Audio (lapel or over-the-ear mic)
 ",Yes,No,"Ethernet
 Wireless
 "
@@ -458,12 +507,12 @@ USB C
 iPod/MP3
 ",Yes,"Wireless
 ",High Definition,Electric,12',"Wall 80 (4) WI
-","Zoom Capable Room
-Camera and Microphone
-","Screen
-Audio (lapel or over-the-ear mic)
-Audio (audience ceiling mic)
+","Camera and Microphone
+Zoom Capable Room
+","Audio (lapel or over-the-ear mic)
 Tracking camera
+Screen
+Audio (audience ceiling mic)
 ",Yes,No,"Ethernet
 Wireless
 "
@@ -475,12 +524,12 @@ iPod/MP3
 Wireless Video
 ",Yes,"Wireless
 ",High Definition,Electric,12',"Wall 80 (4) WI
-","Zoom Capable Room
-Camera and Microphone
+","Camera and Microphone
+Zoom Capable Room
 ","Screen
-Tracking camera
-Audio (lapel or over-the-ear mic)
 Audio (audience ceiling mic)
+Audio (lapel or over-the-ear mic)
+Tracking camera
 ",Yes,No,"Ethernet
 Wireless
 "
@@ -492,12 +541,12 @@ iPod/MP3
 Wireless Video
 ",Yes,"Wireless
 ",High Definition,Electric,12',"Wall 80 (4) WI
-","Camera and Microphone
-Zoom Capable Room
-","Audio (lapel or over-the-ear mic)
-Screen
-Tracking camera
+","Zoom Capable Room
+Camera and Microphone
+","Screen
 Audio (audience ceiling mic)
+Audio (lapel or over-the-ear mic)
+Tracking camera
 ",Yes,No,"Ethernet
 Wireless
 "
@@ -509,12 +558,12 @@ iPod/MP3
 Wireless Video
 ",Yes,"Wireless
 ",High Definition,Electric,12',"Wall 80 (3) WI
-","Camera and Microphone
-Zoom Capable Room
-","Audio (audience ceiling mic)
+","Zoom Capable Room
+Camera and Microphone
+","Audio (lapel or over-the-ear mic)
 Tracking camera
+Audio (audience ceiling mic)
 Screen
-Audio (lapel or over-the-ear mic)
 ",Yes,No,"Ethernet
 Wireless
 "
@@ -529,8 +578,8 @@ Wireless Video
 ","Camera and Microphone
 Zoom Capable Room
 ","Audio (audience ceiling mic)
-Screen
 Tracking camera
+Screen
 Audio (lapel or over-the-ear mic)
 ",Yes,No,"Ethernet
 Wireless
@@ -545,10 +594,10 @@ Wireless Video
 ",High Definition,Electric,12',"Wall 80 (3) WI
 ","Zoom Capable Room
 Camera and Microphone
-","Screen
-Tracking camera
-Audio (lapel or over-the-ear mic)
+","Audio (lapel or over-the-ear mic)
+Screen
 Audio (audience ceiling mic)
+Tracking camera
 ",Yes,No,"Ethernet
 Wireless
 "
@@ -560,11 +609,11 @@ iPod/MP3
 Wireless Video
 ",Yes,"Wireless
 ",High Definition,Electric,12',"Wall 80 (3) WI
-","Zoom Capable Room
-Camera and Microphone
-","Tracking camera
+","Camera and Microphone
+Zoom Capable Room
+","Screen
 Audio (audience ceiling mic)
-Screen
+Tracking camera
 Audio (lapel or over-the-ear mic)
 ",Yes,No,"Ethernet
 Wireless
@@ -577,11 +626,11 @@ iPod/MP3
 Wireless Video
 ",Yes,"Wireless
 ",High Definition,Electric,12',"Wall 80 (3) WI
-","Zoom Capable Room
-Camera and Microphone
+","Camera and Microphone
+Zoom Capable Room
 ","Audio (lapel or over-the-ear mic)
-Audio (audience ceiling mic)
 Tracking camera
+Audio (audience ceiling mic)
 Screen
 ",Yes,No,"Ethernet
 Wireless
@@ -593,8 +642,8 @@ USB C
 iPod/MP3
 Wireless Video
 ",Yes,"Wireless
-",High Definition,Electric,16',N/A,"Camera and Microphone
-Zoom Capable Room
+",High Definition,Electric,16',N/A,"Zoom Capable Room
+Camera and Microphone
 ","Tracking camera
 Audio (lapel or over-the-ear mic)
 Audio (audience ceiling mic)
@@ -609,9 +658,9 @@ HDMI
 iPod/MP3
 ",Yes,Wired (,High Definition,Electric,"9' 2""",N/A,"Zoom Capable Room
 Camera and Microphone
-","Tracking camera
-Screen
+","Screen
 Audio (lapel or over-the-ear mic)
+Tracking camera
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -624,8 +673,8 @@ iPod/MP3
 Wired (",High Definition,Electric,"9' 2""",N/A,"Zoom Capable Room
 Camera and Microphone
 ","Audio (lapel or over-the-ear mic)
-Screen
 Tracking camera
+Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -636,9 +685,9 @@ HDMI
 iPod/MP3
 ",Yes,None,High Definition,Electric,"6' 9""",N/A,"Camera and Microphone
 Zoom Capable Room
-","Tracking camera
-Screen
+","Screen
 Audio (ceiling mic)
+Tracking camera
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -649,8 +698,8 @@ HDMI
 iPod/MP3
 ",Yes,None,High Definition,Electric,"6' 9""",N/A,"Camera and Microphone
 Zoom Capable Room
-","Screen
-Tracking camera
+","Tracking camera
+Screen
 Audio (ceiling mic)
 ",Yes,Yes,"Ethernet
 Wireless
@@ -669,13 +718,13 @@ Design and Innovation Building,121,DIB 121,1,1309,50,Classroom,Yes,No,Touchscree
 USB C
 Wireless Video
 ",Yes,"Wireless
-",High Definition,Electric,"9' 6""",N/A,"Camera and Microphone
-Zoom Capable Room
+",High Definition,Electric,"9' 6""",N/A,"Zoom Capable Room
+Camera and Microphone
 ","Tracking camera
 Audio (audience ceiling mic)
-Screen
 Audio (lapel or over-the-ear mic)
 Audio (ceiling mic)
+Screen
 ",N,No,"Wireless
 "
 Design and Innovation Building,122,DIB 122,1,1393,50,Classroom,Yes,No,Touchscreen,"Blu-Ray Disc player, separate
@@ -685,10 +734,10 @@ Wireless Video
 ",Yes,"Wireless
 ",High Definition,Electric,"9' 6""",N/A,"Camera and Microphone
 Zoom Capable Room
-","Tracking camera
-Audio (audience ceiling mic)
-Screen
+","Audio (audience ceiling mic)
+Tracking camera
 Audio (ceiling mic)
+Screen
 Audio (lapel or over-the-ear mic)
 ",N,No,"Wireless
 "
@@ -697,12 +746,12 @@ Franklin Antonio Hall,1101,FAH 1101,1,2460,104,Lecture Hall,Yes,Yes,Touchscreen 
 USB C
 Wireless Video
 ",Yes,"Wireless
-",High Definition,Electric,10',N/A,"Camera and Microphone
-Zoom Capable Room
-","Screen
-Tracking camera
-Audio (lapel or over-the-ear mic)
+",High Definition,Electric,10',N/A,"Zoom Capable Room
+Camera and Microphone
+","Audio (lapel or over-the-ear mic)
 Audio (audience ceiling mic)
+Screen
+Tracking camera
 ",N,No,"Ethernet
 Wireless
 "
@@ -713,10 +762,10 @@ USB C
 Wireless Video
 ",Yes,"Wireless
 ",High Definition,Electric,12',"Wall 80 (2) 
-","Zoom Capable Room
-Camera and Microphone
-","Tracking camera
-Audio (lapel or over-the-ear mic)
+","Camera and Microphone
+Zoom Capable Room
+","Audio (lapel or over-the-ear mic)
+Tracking camera
 Screen
 ",Yes,Yes,"Ethernet
 Wireless
@@ -728,10 +777,10 @@ Wireless Video
 ",No,"Wireless
 ",High Definition,Electric,10',N/A,"Zoom Capable Room
 Camera and Microphone
-","Screen
-Tracking camera
-Audio (lapel or over-the-ear mic)
+","Audio (lapel or over-the-ear mic)
 Audio (audience ceiling mic)
+Screen
+Tracking camera
 ",N,No,"Ethernet
 Wireless
 "
@@ -740,8 +789,8 @@ Humanities and Social Sciences,1106A,HSS 1106A,1,422,20,Classroom,Yes,Yes,Touchs
 HDMI
 iPod/MP3
 ",Yes,None,High Definition,Electric,"6' 8""",N/A,"Not a Zoom Capable Room
-","Audio (ceiling mic)
-Screen
+","Screen
+Audio (ceiling mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -750,8 +799,8 @@ Humanities and Social Sciences,1106B,HSS 1106B,1,406,20,Classroom,Yes,Yes,Touchs
 HDMI
 iPod/MP3
 ",Yes,None,High Definition,Electric,"6' 8""",N/A,"Not a Zoom Capable Room
-","Audio (ceiling mic)
-Screen
+","Screen
+Audio (ceiling mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -770,8 +819,8 @@ Humanities and Social Sciences,1128B,HSS 1128B,1,406,15,Classroom,Yes,Yes,Touchs
 HDMI
 iPod/MP3
 ",Yes,None,High Definition,Electric,"6' 8""",N/A,"Not a Zoom Capable Room
-","Screen
-Audio (ceiling mic)
+","Audio (ceiling mic)
+Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -780,8 +829,8 @@ Humanities and Social Sciences,1138,HSS 1138,1,299,15,Classroom,Yes,Yes,Touchscr
 HDMI
 iPod/MP3
 ",Yes,None,High Definition,Electric,"6' 8""",N/A,"Not a Zoom Capable Room
-","Screen
-Audio (ceiling mic)
+","Audio (ceiling mic)
+Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -800,8 +849,8 @@ Humanities and Social Sciences,1315,HSS 1315,1,602,35,Classroom,Yes,Yes,Touchscr
 HDMI
 iPod/MP3
 ",Yes,None,High Definition,Electric,"7' 10""",N/A,"Not a Zoom Capable Room
-","Audio (ceiling mic)
-Screen
+","Screen
+Audio (ceiling mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -813,8 +862,8 @@ iPod/MP3
 ",Yes,"Wireless
 Wired (",High Definition,Electric,11',N/A,"Camera and Microphone
 Zoom Capable Room
-","Tracking camera
-Audio (lapel or over-the-ear mic)
+","Audio (lapel or over-the-ear mic)
+Tracking camera
 Screen
 ",Yes,Yes,"Ethernet
 Wireless
@@ -844,8 +893,8 @@ Humanities and Social Sciences,2154,HSS 2154,2,467,37,Classroom,Yes,Yes,Touchscr
 HDMI
 iPod/MP3
 ",Yes,None,High Definition,Electric,8',N/A,"Not a Zoom Capable Room
-","Screen
-Audio (ceiling mic)
+","Audio (ceiling mic)
+Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -898,8 +947,8 @@ Humanities and Social Sciences,2333A,HSS 2333A,2,291,15,Classroom,Yes,Yes,Touchs
 HDMI
 iPod/MP3
 ",Yes,None,High Definition,Electric,"6' 8""",N/A,"Not a Zoom Capable Room
-","Screen
-Audio (ceiling mic)
+","Audio (ceiling mic)
+Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -908,8 +957,8 @@ Humanities and Social Sciences,2333B,HSS 2333B,2,325,15,Classroom,Yes,Yes,Touchs
 HDMI
 iPod/MP3
 ",Yes,None,High Definition,Electric,"6' 8""",N/A,"Not a Zoom Capable Room
-","Audio (ceiling mic)
-Screen
+","Screen
+Audio (ceiling mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -917,44 +966,14 @@ Mandeville Center,B104,MANDE B104,B1,864,42,Classroom,Yes,Yes,Touchscreen,"VHS/D
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,None,High Definition,Electric,"7' 10""",N/A,"Camera and Microphone
-Zoom Capable Room
-","Audio (ceiling mic)
-Tracking camera
-Screen
-",Yes,Yes,"Wireless
-"
-Mandeville Center,B146,MANDE B146,B1,483,20,Classroom,Yes,Yes,Touchscreen,"VHS/DVD/CD combo deck
-","VGA with audio
-HDMI
-iPod/MP3
-",Yes,None,High Definition,Electric,"7' 10""",N/A,"Not a Zoom Capable Room
-","Audio (ceiling mic)
-Screen
-",Yes,Yes,"Wireless
-"
-Mandeville Center,B150,MANDE B150,B1,1630,68,Classroom,Yes,Yes,Touchscreen,"VHS/DVD/CD combo deck
-","VGA with audio
-HDMI
-iPod/MP3
-",Yes,None,High Definition,Electric,"7' 10""","Wall 65 (5) WI
-","Zoom Capable Room
+",Yes,None,High Definition,Electric,"7' 10""",N/A,"Zoom Capable Room
 Camera and Microphone
 ","Tracking camera
 Screen
 Audio (ceiling mic)
 ",Yes,Yes,"Wireless
 "
-Mandeville Center,B152,MANDE B152,B1,601,20,Classroom,Yes,Yes,Touchscreen,"VHS/DVD/CD combo deck
-","VGA with audio
-HDMI
-iPod/MP3
-",Yes,None,High Definition,Electric,"7' 10""",N/A,"Not a Zoom Capable Room
-","Audio (ceiling mic)
-Screen
-",Yes,Yes,"Wireless
-"
-Mandeville Center,B153,MANDE B153,B1,601,20,Classroom,Yes,Yes,Touchscreen,"VHS/DVD/CD combo deck
+Mandeville Center,B146,MANDE B146,B1,483,20,Classroom,Yes,Yes,Touchscreen,"VHS/DVD/CD combo deck
 ","VGA with audio
 HDMI
 iPod/MP3
@@ -963,16 +982,46 @@ iPod/MP3
 Audio (ceiling mic)
 ",Yes,Yes,"Wireless
 "
+Mandeville Center,B150,MANDE B150,B1,1630,68,Classroom,Yes,Yes,Touchscreen,"VHS/DVD/CD combo deck
+","VGA with audio
+HDMI
+iPod/MP3
+",Yes,None,High Definition,Electric,"7' 10""","Wall 65 (5) WI
+","Camera and Microphone
+Zoom Capable Room
+","Screen
+Tracking camera
+Audio (ceiling mic)
+",Yes,Yes,"Wireless
+"
+Mandeville Center,B152,MANDE B152,B1,601,20,Classroom,Yes,Yes,Touchscreen,"VHS/DVD/CD combo deck
+","VGA with audio
+HDMI
+iPod/MP3
+",Yes,None,High Definition,Electric,"7' 10""",N/A,"Not a Zoom Capable Room
+","Screen
+Audio (ceiling mic)
+",Yes,Yes,"Wireless
+"
+Mandeville Center,B153,MANDE B153,B1,601,20,Classroom,Yes,Yes,Touchscreen,"VHS/DVD/CD combo deck
+","VGA with audio
+HDMI
+iPod/MP3
+",Yes,None,High Definition,Electric,"7' 10""",N/A,"Not a Zoom Capable Room
+","Audio (ceiling mic)
+Screen
+",Yes,Yes,"Wireless
+"
 Mandeville Center,B202,MANDE B202,B2,3070,158,Lecture Hall,Yes,Yes,Touchscreen,"VHS/DVD/CD combo deck
 Blu-Ray Disc player, separate
 ","VGA with audio
 HDMI
 iPod/MP3
 ",Yes,"Wireless
-",High Definition,Electric,15',N/A,"Camera and Microphone
-Zoom Capable Room
-","Audio (lapel or over-the-ear mic)
-Tracking camera
+",High Definition,Electric,15',N/A,"Zoom Capable Room
+Camera and Microphone
+","Tracking camera
+Audio (lapel or over-the-ear mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -984,8 +1033,8 @@ McGill Hall,2315,MCGIL 2315,2,480,22,Classroom,Yes,Yes,Touchscreen,"VHS/DVD/CD c
 HDMI
 iPod/MP3
 ",Yes,None,High Definition,Electric,"6' 8""",N/A,"Not a Zoom Capable Room
-","Audio (ceiling mic)
-Screen
+","Screen
+Audio (ceiling mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -995,9 +1044,9 @@ HDMI
 iPod/MP3
 ",Yes,None,High Definition,Electric,"6' 8""",N/A,"Camera and Microphone
 Zoom Capable Room
-","Tracking camera
-Audio (ceiling mic)
+","Audio (ceiling mic)
 Screen
+Tracking camera
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1008,9 +1057,9 @@ iPod/MP3
 ",Yes,None,High Definition,Electric,"6' 8""",N/A,"Zoom Capable Room
 Not a Zoom Capable Room
 Camera and Microphone
-","Tracking camera
+","Audio (ceiling mic)
+Tracking camera
 Screen
-Audio (ceiling mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1018,11 +1067,11 @@ McGill Hall,2334,MCGIL 2334,2,286,15,Classroom,Yes,Yes,Touchscreen,"VHS/DVD/CD c
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,None,High Definition,Electric,"6' 8""",N/A,"Zoom Capable Room
-Camera and Microphone
-","Tracking camera
-Screen
+",Yes,None,High Definition,Electric,"6' 8""",N/A,"Camera and Microphone
+Zoom Capable Room
+","Screen
 Audio (ceiling mic)
+Tracking camera
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1030,8 +1079,8 @@ McGill Hall,2342,MCGIL 2342,2,286,15,Classroom,Yes,Yes,Touchscreen,"VHS/DVD/CD c
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,None,High Definition,Electric,"6' 8""",N/A,"Zoom Capable Room
-Camera and Microphone
+",Yes,None,High Definition,Electric,"6' 8""",N/A,"Camera and Microphone
+Zoom Capable Room
 ","Tracking camera
 Audio (ceiling mic)
 Screen
@@ -1047,9 +1096,9 @@ Wireless Video
 ",Yes,"Wireless
 ",High Definition,Electric,"11' 6""",N/A,"Zoom Capable Room
 Camera and Microphone
-","Audio (lapel or over-the-ear mic)
+","Screen
+Audio (lapel or over-the-ear mic)
 Tracking camera
-Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1060,10 +1109,10 @@ USB C
 iPod/MP3
 Wireless Video
 ",Yes,"Wireless
-",High Definition,Electric,"11' 6""",N/A,"Zoom Capable Room
-Camera and Microphone
-","Tracking camera
-Screen
+",High Definition,Electric,"11' 6""",N/A,"Camera and Microphone
+Zoom Capable Room
+","Screen
+Tracking camera
 Audio (lapel or over-the-ear mic)
 ",Yes,Yes,"Ethernet
 Wireless
@@ -1078,10 +1127,10 @@ Wireless Video
 ",High Definition,Electric,9',"Wall 80 (2) WI
 ","Camera and Microphone
 Zoom Capable Room
-","Screen
-Audio (lapel or over-the-ear mic)
+","Tracking camera
+Screen
 Audio (audience ceiling mic)
-Tracking camera
+Audio (lapel or over-the-ear mic)
 ",N,No,"Ethernet
 Wireless
 "
@@ -1090,11 +1139,10 @@ Blu-Ray Disc player, separate
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,"Wireless
-Wired (",High Definition,Electric,16',N/A,"Camera and Microphone
+",Yes,Wired (,High Definition,Electric,16',N/A,"Camera and Microphone
 Zoom Capable Room
-","Audio (lapel or over-the-ear mic)
-Tracking camera
+","Tracking camera
+Audio (lapel or over-the-ear mic)
 Screen
 ",Yes,Yes,"Ethernet
 Wireless
@@ -1104,12 +1152,11 @@ Blu-Ray Disc player, separate
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,"Wireless
-Wired (",High Definition,Electric,16',N/A,"Camera and Microphone
+",Yes,Wired (,High Definition,Electric,16',N/A,"Camera and Microphone
 Zoom Capable Room
-","Tracking camera
-Audio (lapel or over-the-ear mic)
+","Audio (lapel or over-the-ear mic)
 Screen
+Tracking camera
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1117,30 +1164,15 @@ Pepper Canyon Hall,120,PCYNH 120,1,1507,56,Classroom,Yes,Yes,Touchscreen,"VHS/DV
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,"Wireless
-Wired (",High Definition,Electric,14',N/A,"Zoom Capable Room
-Camera and Microphone
-","Screen
+",Yes,Wired (,High Definition,Electric,14',N/A,"Camera and Microphone
+Zoom Capable Room
+","Audio (ceiling mic)
 Tracking camera
-Audio (ceiling mic)
+Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
 Pepper Canyon Hall,121,PCYNH 121,1,1578,60,Classroom,Yes,Yes,Touchscreen,"VHS/DVD/CD combo deck
-Blu-Ray Disc player, separate
-","VGA with audio
-HDMI
-iPod/MP3
-",Yes,"Wireless
-Wired (",High Definition,Electric,14',N/A,"Camera and Microphone
-Zoom Capable Room
-","Screen
-Tracking camera
-Audio (lapel or over-the-ear mic)
-",Yes,Yes,"Ethernet
-Wireless
-"
-Pepper Canyon Hall,122,PCYNH 122,1,1528,115,Lecture Hall,Yes,Yes,Touchscreen,"VHS/DVD/CD combo deck
 Blu-Ray Disc player, separate
 ","VGA with audio
 HDMI
@@ -1154,15 +1186,28 @@ Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
+Pepper Canyon Hall,122,PCYNH 122,1,1528,115,Lecture Hall,Yes,Yes,Touchscreen,"VHS/DVD/CD combo deck
+Blu-Ray Disc player, separate
+","VGA with audio
+HDMI
+iPod/MP3
+",Yes,Wired (,High Definition,Electric,14',N/A,"Camera and Microphone
+Zoom Capable Room
+","Tracking camera
+Screen
+Audio (lapel or over-the-ear mic)
+",Yes,Yes,"Ethernet
+Wireless
+"
 Pepper Canyon Hall,240,PCYNH 240,2,994,0,Classroom,Yes,Yes,Touchscreen,"Blu-Ray Disc player, separate
 VHS Player available upon request
 ","HDMI
 USB C
 ",No,Wired (,High Definition,Electric,8',N/A,"Camera and Microphone
 Zoom Capable Room
-","Tracking camera
+","Audio (ceiling mic)
 Screen
-Audio (ceiling mic)
+Tracking camera
 ",N,No,"Wireless
 "
 Peterson Hall,102,PETER 102,1,956,70,Classroom,Yes,Yes,Touchscreen,"VHS/DVD/CD combo deck
@@ -1170,11 +1215,11 @@ Blu-Ray Disc/DVD/VHS/CD combo deck
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,None,High Definition,Electric,8',N/A,"Zoom Capable Room
-Camera and Microphone
-","Screen
-Audio (ceiling mic)
+",Yes,None,High Definition,Electric,8',N/A,"Camera and Microphone
+Zoom Capable Room
+","Audio (ceiling mic)
 Tracking camera
+Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1197,8 +1242,8 @@ iPod/MP3
 ",Yes,None,High Definition,Electric,"7' 10""",N/A,"Zoom Capable Room
 Camera and Microphone
 ","Audio (ceiling mic)
-Screen
 Tracking camera
+Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1207,11 +1252,12 @@ Blu-Ray Disc player, separate
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,Wired (,High Definition,Electric,14',N/A,"Camera and Microphone
-Zoom Capable Room
-","Audio (lapel or over-the-ear mic)
+",Yes,"Wireless
+Wired (",High Definition,Electric,14',N/A,"Zoom Capable Room
+Camera and Microphone
+","Screen
+Audio (lapel or over-the-ear mic)
 Tracking camera
-Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1220,11 +1266,12 @@ Blu-Ray Disc player, separate
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,Wired (,High Definition,Electric,14',N/A,"Camera and Microphone
-Zoom Capable Room
+",Yes,"Wireless
+Wired (",High Definition,Electric,14',N/A,"Zoom Capable Room
+Camera and Microphone
 ","Audio (lapel or over-the-ear mic)
-Tracking camera
 Screen
+Tracking camera
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1237,9 +1284,9 @@ USB C
 ","Zoom Capable Room
 Camera and Microphone
 ","Tracking camera
+Audio (lapel or over-the-ear mic)
 Screen
 Audio (audience ceiling mic)
-Audio (lapel or over-the-ear mic)
 ",N,No,"Wireless
 "
 Podemos,0133,PODEM 0133,1,1234,46,Classroom,Yes,Yes,Touchscreen,"Blu-Ray Disc player, separate
@@ -1250,10 +1297,10 @@ USB C
 ",High Definition,Electric,12',"Wall 80 (2) 
 ","Zoom Capable Room
 Camera and Microphone
-","Audio (audience ceiling mic)
-Screen
+","Audio (lapel or over-the-ear mic)
 Tracking camera
-Audio (lapel or over-the-ear mic)
+Audio (audience ceiling mic)
+Screen
 ",N,No,"Wireless
 "
 Podemos,1A18,PODEM 1A18,1,2439,96,Lecture Hall,Yes,Yes,Touchscreen,"Blu-Ray Disc player, separate
@@ -1265,9 +1312,9 @@ USB C
 ","Zoom Capable Room
 Camera and Microphone
 ","Audio (audience ceiling mic)
-Audio (lapel or over-the-ear mic)
-Screen
 Tracking camera
+Screen
+Audio (lapel or over-the-ear mic)
 ",Yes,No,"Wireless
 "
 Podemos,1A19,PODEM 1A19,1,2376,90,Lecture Hall,Yes,Yes,Touchscreen,"Blu-Ray Disc player, separate
@@ -1293,8 +1340,8 @@ USB C
 ","Camera and Microphone
 Zoom Capable Room
 ","Tracking camera
-Screen
 Audio (audience ceiling mic)
+Screen
 Audio (lapel or over-the-ear mic)
 ",Yes,No,"Wireless
 "
@@ -1306,10 +1353,10 @@ USB C
 ",High Definition,Electric,11',"Wall 80 (2) 
 ","Camera and Microphone
 Zoom Capable Room
-","Tracking camera
+","Screen
 Audio (lapel or over-the-ear mic)
-Screen
 Audio (audience ceiling mic)
+Tracking camera
 ",N,No,"Wireless
 "
 Podemos,1A23,PODEM 1A23,1,1238,46,Classroom,Yes,Yes,Touchscreen,"Blu-Ray Disc player, separate
@@ -1318,21 +1365,20 @@ VHS Player available upon request
 USB C
 ",Yes,"Wireless
 ",High Definition,Electric,11',"Wall 80 (2) 
-","Camera and Microphone
-Zoom Capable Room
-","Screen
-Tracking camera
-Audio (lapel or over-the-ear mic)
+","Zoom Capable Room
+Camera and Microphone
+","Audio (lapel or over-the-ear mic)
 Audio (audience ceiling mic)
+Screen
+Tracking camera
 ",N,No,"Wireless
 "
 Price Center West,1.402,PRICE THEATRE,1,4651,481,Assembly,Yes,Yes,Pushbutton,"VHS/DVD/CD combo deck
 ","VGA with audio
 iPod/MP3
-",Yes,"Wireless
-Wired (",High Definition,Fixed screen with movable masking,29',N/A,"Not a Zoom Capable Room
-","Screen
-Audio (lapel or over-the-ear mic)
+",Yes,Wired (,High Definition,Fixed screen with movable masking,29',N/A,"Not a Zoom Capable Room
+","Audio (lapel or over-the-ear mic)
+Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1361,12 +1407,12 @@ iPod/MP3
 Wireless Video
 ",Yes,"Wireless
 ",High Definition,Electric,9',"Wall 80 (2) WI
-","Camera and Microphone
-Zoom Capable Room
-","Audio (lapel or over-the-ear mic)
-Audio (audience ceiling mic)
-Tracking camera
+","Zoom Capable Room
+Camera and Microphone
+","Audio (audience ceiling mic)
 Screen
+Tracking camera
+Audio (lapel or over-the-ear mic)
 ",N,No,"Ethernet
 Wireless
 "
@@ -1380,9 +1426,9 @@ Wireless Video
 ",High Definition,Electric,"11' 6""","Wall 80 (2) WI
 ","Zoom Capable Room
 Camera and Microphone
-","Audio (audience ceiling mic)
+","Screen
 Audio (lapel or over-the-ear mic)
-Screen
+Audio (audience ceiling mic)
 Tracking camera
 ",N,No,"Ethernet
 Wireless
@@ -1394,8 +1440,8 @@ iPod/MP3
 ",No,Wired (,High Definition,Electric,"9' 6""",N/A,"Zoom Capable Room
 Camera and Microphone
 ","Audio (lapel or over-the-ear mic)
-Screen
 Tracking camera
+Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1404,8 +1450,8 @@ Social Sciences Building,106,SSB 106,1,393,20,Classroom,Yes,Yes,Touchscreen,"VHS
 HDMI
 iPod/MP3
 ",Yes,None,High Definition,Electric,8',N/A,"Not a Zoom Capable Room
-","Screen
-Audio (ceiling mic)
+","Audio (ceiling mic)
+Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1414,11 +1460,11 @@ Solis Hall,104,SOLIS 104,1,1533,149,Lecture Hall,Yes,Yes,Touchscreen,"Blu-Ray Di
 HDMI
 iPod/MP3
 ",Yes,"Wireless
-Wired (",High Definition,Electric,12',N/A,"Camera and Microphone
-Zoom Capable Room
-","Audio (lapel or over-the-ear mic)
-Screen
+Wired (",High Definition,Electric,12',N/A,"Zoom Capable Room
+Camera and Microphone
+","Screen
 Tracking camera
+Audio (lapel or over-the-ear mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1426,9 +1472,9 @@ Solis Hall,105,SOLIS 105,1,700,46,Classroom,Yes,Yes,Touchscreen,"Blu-Ray Disc pl
 ","VGA with audio
 HDMI
 ",Yes,None,High Definition,Electric,N/A,N/A,"Not a Zoom Capable Room
-","Screen
+","Tracking camera
 Audio (ceiling mic)
-Tracking camera
+Screen
 ",N,No,"Wireless
 "
 Solis Hall,107,SOLIS 107,1,3173,300,Lecture Hall,Yes,Yes,Touchscreen,"VHS/DVD/CD combo deck
@@ -1436,27 +1482,16 @@ Blu-Ray Disc player, separate
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,Wired (,High Definition,Electric,20',N/A,"Zoom Capable Room
-Camera and Microphone
-","Audio (lapel or over-the-ear mic)
-Screen
+",Yes,"Wireless
+Wired (",High Definition,Electric,20',N/A,"Camera and Microphone
+Zoom Capable Room
+","Screen
 Tracking camera
+Audio (lapel or over-the-ear mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
 Solis Hall,109,SOLIS 109,1,549,44,Classroom,Yes,Yes,Touchscreen,"VHS/DVD/CD combo deck
-","VGA with audio
-HDMI
-iPod/MP3
-",Yes,None,Widescreen,Electric,8',N/A,"Zoom Capable Room
-Camera and Microphone
-","Audio (lapel or over-the-ear mic)
-Screen
-Tracking camera
-",Yes,Yes,"Ethernet
-Wireless
-"
-Solis Hall,110,SOLIS 110,1,548,46,Classroom,Yes,Yes,Touchscreen,"VHS/DVD/CD combo deck
 ","VGA with audio
 HDMI
 iPod/MP3
@@ -1465,6 +1500,18 @@ Zoom Capable Room
 ","Tracking camera
 Audio (lapel or over-the-ear mic)
 Screen
+",Yes,Yes,"Ethernet
+Wireless
+"
+Solis Hall,110,SOLIS 110,1,548,46,Classroom,Yes,Yes,Touchscreen,"VHS/DVD/CD combo deck
+","VGA with audio
+HDMI
+iPod/MP3
+",Yes,None,Widescreen,Electric,8',N/A,"Zoom Capable Room
+Camera and Microphone
+","Screen
+Tracking camera
+Audio (lapel or over-the-ear mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1474,9 +1521,9 @@ HDMI
 iPod/MP3
 ",Yes,None,Widescreen,Electric,8',N/A,"Camera and Microphone
 Zoom Capable Room
-","Screen
+","Audio (lapel or over-the-ear mic)
+Screen
 Tracking camera
-Audio (lapel or over-the-ear mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1486,11 +1533,11 @@ Blu-Ray Disc player, separate
 HDMI
 iPod/MP3
 ",Yes,"Wireless
-Wired (",High Definition,Electric,20',N/A,"Zoom Capable Room
-Camera and Microphone
-","Tracking camera
-Audio (lapel or over-the-ear mic)
+Wired (",High Definition,Electric,20',N/A,"Camera and Microphone
+Zoom Capable Room
+","Audio (lapel or over-the-ear mic)
 Screen
+Tracking camera
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1499,12 +1546,11 @@ Blu-Ray Disc player, separate
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,"Wireless
-Wired (",High Definition,Electric,14',N/A,"Camera and Microphone
-Zoom Capable Room
-","Screen
-Audio (lapel or over-the-ear mic)
+",Yes,Wired (,High Definition,Electric,14',N/A,"Zoom Capable Room
+Camera and Microphone
+","Audio (lapel or over-the-ear mic)
 Tracking camera
+Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1512,8 +1558,8 @@ Warren Lecture Hall,2110,WLH 2110,1,492,28,Classroom,Yes,Yes,Touchscreen,"VHS/DV
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,None,High Definition,Electric,"7' 10""",N/A,"Camera and Microphone
-Zoom Capable Room
+",Yes,None,High Definition,Electric,"7' 10""",N/A,"Zoom Capable Room
+Camera and Microphone
 ","Screen
 Tracking camera
 Audio (ceiling mic)
@@ -1524,11 +1570,10 @@ Warren Lecture Hall,2111,WLH 2111,1,943,70,Classroom,Yes,Yes,Touchscreen,"VHS/DV
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,"Wireless
-Wired (",High Definition,Electric,8',N/A,"Zoom Capable Room
+",Yes,Wired (,High Definition,Electric,8',N/A,"Zoom Capable Room
 Camera and Microphone
-","Audio (ceiling mic)
-Screen
+","Screen
+Audio (ceiling mic)
 Tracking camera
 ",Yes,Yes,"Ethernet
 Wireless
@@ -1539,9 +1584,9 @@ HDMI
 iPod/MP3
 ",Yes,None,High Definition,Electric,"7' 10""",N/A,"Camera and Microphone
 Zoom Capable Room
-","Tracking camera
+","Screen
 Audio (ceiling mic)
-Screen
+Tracking camera
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1549,11 +1594,11 @@ Warren Lecture Hall,2113,WLH 2113,1,683,49,Classroom,Yes,Yes,Touchscreen,"VHS/DV
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,None,High Definition,Electric,"7' 10""",N/A,"Camera and Microphone
-Zoom Capable Room
+",Yes,None,High Definition,Electric,"7' 10""",N/A,"Zoom Capable Room
+Camera and Microphone
 ","Audio (ceiling mic)
-Screen
 Tracking camera
+Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1572,11 +1617,11 @@ Warren Lecture Hall,2115,WLH 2115,1,638,40,Classroom,Yes,Yes,Touchscreen,"VHS/DV
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,None,High Definition,Electric,8',N/A,"Camera and Microphone
-Zoom Capable Room
-","Audio (lapel or over-the-ear mic)
-Tracking camera
+",Yes,None,High Definition,Electric,8',N/A,"Zoom Capable Room
+Camera and Microphone
+","Tracking camera
 Screen
+Audio (lapel or over-the-ear mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1598,9 +1643,9 @@ HDMI
 iPod/MP3
 ",Yes,None,High Definition,Electric,"7' 10""",N/A,"Camera and Microphone
 Zoom Capable Room
-","Screen
+","Audio (ceiling mic)
+Screen
 Tracking camera
-Audio (ceiling mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1622,9 +1667,9 @@ HDMI
 iPod/MP3
 ",Yes,None,High Definition,Electric,"7' 10""",N/A,"Zoom Capable Room
 Camera and Microphone
-","Audio (ceiling mic)
+","Tracking camera
 Screen
-Tracking camera
+Audio (ceiling mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1633,10 +1678,10 @@ Warren Lecture Hall,2208,WLH 2208,2,560,40,Classroom,Yes,Yes,Touchscreen,"VHS/DV
 HDMI
 iPod/MP3
 ",Yes,"Wireless
-",High Definition,Electric,"7' 7""",N/A,"Zoom Capable Room
-Camera and Microphone
-","Screen
-Tracking camera
+",High Definition,Electric,"7' 7""",N/A,"Camera and Microphone
+Zoom Capable Room
+","Tracking camera
+Screen
 Audio (ceiling mic)
 ",Yes,Yes,"Ethernet
 Wireless
@@ -1645,10 +1690,10 @@ Warren Lecture Hall,2209,WLH 2209,2,640,40,Classroom,Yes,Yes,Touchscreen,"VHS/DV
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,None,High Definition,Electric,"7' 10""",N/A,"Zoom Capable Room
-Camera and Microphone
-","Tracking camera
-Audio (ceiling mic)
+",Yes,None,High Definition,Electric,"7' 10""",N/A,"Camera and Microphone
+Zoom Capable Room
+","Audio (ceiling mic)
+Tracking camera
 Screen
 ",Yes,Yes,"Ethernet
 Wireless
@@ -1658,8 +1703,7 @@ Blu-Ray Disc player, separate
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,"Wireless
-Wired (",High Definition,Electric,14',N/A,"Zoom Capable Room
+",Yes,Wired (,High Definition,Electric,14',N/A,"Zoom Capable Room
 Camera and Microphone
 ","Screen
 Audio (lapel or over-the-ear mic)
@@ -1672,11 +1716,12 @@ Blu-Ray Disc player, separate
 ","VGA with audio
 HDMI
 iPod/MP3
-",Yes,Wired (,High Definition,Electric,16',N/A,"Camera and Microphone
+",Yes,"Wireless
+Wired (",High Definition,Electric,16',N/A,"Camera and Microphone
 Zoom Capable Room
-","Tracking camera
-Audio (lapel or over-the-ear mic)
+","Audio (lapel or over-the-ear mic)
 Screen
+Tracking camera
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1685,8 +1730,8 @@ York Hall,3000A,YORK 3000A,3,455,34,Classroom,Yes,Yes,Touchscreen,"VHS/DVD/CD co
 HDMI
 iPod/MP3
 ",Yes,None,Widescreen,Electric,"6' 8""",N/A,"Not a Zoom Capable Room
-","Screen
-Audio (ceiling mic)
+","Audio (ceiling mic)
+Screen
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1706,8 +1751,8 @@ Blu-Ray Disc/DVD/VHS/CD combo deck
 HDMI
 iPod/MP3
 ",Yes,None,Widescreen,Electric,"6' 8""",N/A,"Not a Zoom Capable Room
-","Audio (lapel or over-the-ear mic)
-Screen
+","Screen
+Audio (lapel or over-the-ear mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1717,8 +1762,8 @@ Blu-Ray Disc/DVD/VHS/CD combo deck
 HDMI
 iPod/MP3
 ",Yes,None,Widescreen,Electric,"6' 8""",N/A,"Not a Zoom Capable Room
-","Audio (lapel or over-the-ear mic)
-Screen
+","Screen
+Audio (lapel or over-the-ear mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1727,8 +1772,8 @@ York Hall,4060A,YORK 4060A,4,304,15,Classroom,Yes,Yes,Touchscreen,"VHS/DVD/CD co
 HDMI
 iPod/MP3
 ",Yes,None,High Definition,Electric,"5' 8""",N/A,"Not a Zoom Capable Room
-","Audio (ceiling mic)
-Screen
+","Screen
+Audio (ceiling mic)
 ",Yes,Yes,"Ethernet
 Wireless
 "
@@ -1748,9 +1793,9 @@ HDMI
 iPod/MP3
 ",Yes,None,High Definition,Electric,"5' 8""",N/A,"Zoom Capable Room
 Camera and Microphone
-","Audio (ceiling mic)
+","Tracking camera
+Audio (ceiling mic)
 Screen
-Tracking camera
 ",Yes,Yes,"Ethernet
 Wireless
 "
