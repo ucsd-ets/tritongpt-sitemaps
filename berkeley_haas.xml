@@ -430,13 +430,13 @@
 <url><loc>https://haas.berkeley.edu/brand-toolkit/</loc></url>
 <url><loc>https://haas.berkeley.edu/bsi/</loc></url>
 <url><loc>https://haas.berkeley.edu/bsi/about-us/</loc></url>
+<url><loc>https://haas.berkeley.edu/bsi/resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/bsi/services/</loc></url>
 <url><loc>https://haas.berkeley.edu/bsi/services/artificial-intelligence/</loc></url>
 <url><loc>https://haas.berkeley.edu/bsi/services/business-intelligence/</loc></url>
 <url><loc>https://haas.berkeley.edu/bsi/services/business-solutions/</loc></url>
 <url><loc>https://haas.berkeley.edu/bsi/services/core-haas-applications/</loc></url>
 <url><loc>https://haas.berkeley.edu/bsi/support/</loc></url>
-<url><loc>https://haas.berkeley.edu/bsi/tools/</loc></url>
 <url><loc>https://haas.berkeley.edu/bsi</loc></url>
 <url><loc>https://haas.berkeley.edu/business-academy/</loc></url>
 <url><loc>https://haas.berkeley.edu/business-academy/about-us/</loc></url>
@@ -825,6 +825,7 @@
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2016-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2017-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2018-2/</loc></url>
+<url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/workshop-archive/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/cle-workshop-videos/</loc></url>
@@ -1359,6 +1360,7 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/education/executives/economics-of-energy-and-the-environment-course/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/education/executives/executive-education/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/education/executives/executive-education/apr-2004/</loc></url>
+<url><loc>https://haas.berkeley.edu/energy-institute/education/executives/executive-education/apr-2026/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/education/executives/executive-education/april-2007/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/education/executives/executive-education/aug-2012/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/education/executives/executive-education/dec-2023/</loc></url>
@@ -5950,7 +5952,6 @@
 <url><loc>https://haas.berkeley.edu/saif/events/past-programs/mpcanz/references/</loc></url>
 <url><loc>https://haas.berkeley.edu/saif/events/past-programs/mpcanz/speakers-1/</loc></url>
 <url><loc>https://haas.berkeley.edu/saif/events/past-programs/mpcanz/speakers-2/</loc></url>
-<url><loc>https://haas.berkeley.edu/saif/events/past-programs/mpcanz/speakers-3/</loc></url>
 <url><loc>https://haas.berkeley.edu/saif/events/past-programs/mpcanz/speakers-4/</loc></url>
 <url><loc>https://haas.berkeley.edu/saif/for-students/</loc></url>
 <url><loc>https://haas.berkeley.edu/saif/for-students/competitions-and-conferences/</loc></url>
@@ -6158,6 +6159,9 @@
 <url><loc>https://haas.berkeley.edu/technology-solutions/teaching-event-services/haas-lecture-video-recording-policy/</loc></url>
 <url><loc>https://haas.berkeley.edu/technology-solutions/tech-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/technology-solutions/tech-resources/upcoming-scheduled-outages/</loc></url>
+<url><loc>https://haas.berkeley.edu/undergrad-commencement/awards-and-honors/</loc></url>
+<url><loc>https://haas.berkeley.edu/undergrad-commencement/commencement-speaker/</loc></url>
+<url><loc>https://haas.berkeley.edu/undergrad-commencement/graduates/</loc></url>
 <url><loc>https://haas.berkeley.edu/undergrad/</loc></url>
 <url><loc>https://haas.berkeley.edu/undergrad/academics/</loc></url>
 <url><loc>https://haas.berkeley.edu/undergrad/academics/advising/</loc></url>
