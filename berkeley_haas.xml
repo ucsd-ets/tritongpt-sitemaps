@@ -190,7 +190,6 @@
 <url><loc>https://haas.berkeley.edu/alumni/career/undergraduate-and-graduate/mid-career-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/career/undergraduate-and-graduate/tools-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/connections/chapters/</loc></url>
-<url><loc>https://haas.berkeley.edu/alumni/connections/slack-workspace/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/contact-us/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/contact-us/leadership/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/events/</loc></url>
@@ -356,9 +355,6 @@
 <url><loc>https://haas.berkeley.edu/behavioral-lab/</loc></url>
 <url><loc>https://haas.berkeley.edu/behavioral-lab/for-participants/</loc></url>
 <url><loc>https://haas.berkeley.edu/behavioral-lab/for-researchers/</loc></url>
-<url><loc>https://haas.berkeley.edu/behavioral-lab/for-researchers/laptop-extension/</loc></url>
-<url><loc>https://haas.berkeley.edu/behavioral-lab/for-researchers/laptop-request/</loc></url>
-<url><loc>https://haas.berkeley.edu/behavioral-lab/for-researchers/study-request/</loc></url>
 <url><loc>https://haas.berkeley.edu/behavioral-lab/research-with-human-subjects/</loc></url>
 <url><loc>https://haas.berkeley.edu/bibs/</loc></url>
 <url><loc>https://haas.berkeley.edu/bibs/about-us/</loc></url>
@@ -533,6 +529,9 @@
 <url><loc>https://haas.berkeley.edu/cmg/career-essentials/strategizing-your-search/</loc></url>
 <url><loc>https://haas.berkeley.edu/cmg/cmg-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/cmg/cmg-resources/cmg-career-coaching-programs-team/</loc></url>
+<url><loc>https://haas.berkeley.edu/cmg/cmg-resources/ftmba-summer-workshops/</loc></url>
+<url><loc>https://haas.berkeley.edu/cmg/cmg-resources/ftmba-summer-workshops/ftmba-summer-2025-consulting-workshop-copy/</loc></url>
+<url><loc>https://haas.berkeley.edu/cmg/cmg-resources/ftmba-summer-workshops/ftmba-summer-2026-product-management-workshops-copy/</loc></url>
 <url><loc>https://haas.berkeley.edu/cmg/cmg-resources/tools/</loc></url>
 <url><loc>https://haas.berkeley.edu/cmg/diversity-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/cmg/diversity-resources/black/</loc></url>
@@ -590,9 +589,6 @@
 <url><loc>https://haas.berkeley.edu/cmg/resources-for-ewmbas/additional-resources-for-ewmba-students/</loc></url>
 <url><loc>https://haas.berkeley.edu/cmg/resources-for-ewmbas/career-recordings/</loc></url>
 <url><loc>https://haas.berkeley.edu/cmg/resources-for-ewmbas/cmg-ewmba-career-days/</loc></url>
-<url><loc>https://haas.berkeley.edu/cmg/resources-for-ewmbas/ftmba-summer-workshops/</loc></url>
-<url><loc>https://haas.berkeley.edu/cmg/resources-for-ewmbas/ftmba-summer-workshops/ftmba-summer-2025-consulting-workshop-copy/</loc></url>
-<url><loc>https://haas.berkeley.edu/cmg/resources-for-ewmbas/ftmba-summer-workshops/ftmba-summer-2026-product-management-workshops-copy/</loc></url>
 <url><loc>https://haas.berkeley.edu/community-updates/blog/posts/552499/</loc></url>
 <url><loc>https://haas.berkeley.edu/community-updates/blog/posts/552517/</loc></url>
 <url><loc>https://haas.berkeley.edu/community-updates/blog/posts/</loc></url>
@@ -822,9 +818,9 @@
 <url><loc>https://haas.berkeley.edu/cte/cases-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/helpful-links/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2014-2/</loc></url>
+<url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2015-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2016-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2017-2/</loc></url>
-<url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2018-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/workshop-archive/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/</loc></url>
@@ -2456,6 +2452,7 @@
 <url><loc>https://haas.berkeley.edu/event/east-bay-sf-alumni-sf-crosstown-trail-sea-cliff-presidio-hike/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/east-bay-sf-alumni-strategies-for-a-greater-global-future-with-professor-olaf-groth/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/east-bay-silicon-valley-alumni-mulberry-picking-event/</loc></url>
+<url><loc>https://haas.berkeley.edu/event/east-bay-silicon-valley-alumni-mulberry-picking-family-event/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/east-bay-silicon-valley-alumni-mulberry-picking-with-east-bay-silicon-valley-alumni/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/economics-and-geopolitics-in-u-s-international-relations-china-europe-and-the-global-south/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/edinburgh-alumni-academy-late-at-the-royal-scottish-academy/</loc></url>
@@ -2610,6 +2607,7 @@
 <url><loc>https://haas.berkeley.edu/event/latinx-alumni-latinx-night-at-the-warriors-on-march-25th/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/latinx-alumni-meetup/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/latinx-alumni-social/</loc></url>
+<url><loc>https://haas.berkeley.edu/event/latinx-alumni-somos-haas-x-alma-anderson-alumni-mixer/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/latinx-alumni-student-alumni-on-campus-mixer-with-lbsa-asuc-alma-and-somos-haas/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/latinx-business-association-harnessing-your-identity-for-career-growth/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/latinx-hispanic-heritage-month-comedy-special/</loc></url>
@@ -2690,6 +2688,7 @@
 <url><loc>https://haas.berkeley.edu/event/los-angeles-orange-county-alumni-the-well-presents-navigating-tariffs-pricing-supply-chains/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/los-angeles-orange-county-san-diego-alumni-stoplight-%f0%9f%9a%a6-party-come-single-come-paired/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/los-angeles-socal-beach-clean-up/</loc></url>
+<url><loc>https://haas.berkeley.edu/event/los-angles-alumni-the-state-of-los-angeles-real-estate-may-14/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/los-angles-alumni-whatever-happened-to-ibm-watson/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/lunchtime-speaker-series-social-entrepreneurship-101/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/madrid-alumni-demystifying-generative-ai-with-dr-ikhlaq-sidhu-uc-berkeley/</loc></url>
@@ -2951,6 +2950,7 @@
 <url><loc>https://haas.berkeley.edu/event/san-diego-alumni-mbasd-june-mixer-hosted-by-berkeley-haas/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/san-diego-alumni-mbasd-may-mixer-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/san-diego-alumni-mbasd-may-mixer/</loc></url>
+<url><loc>https://haas.berkeley.edu/event/san-diego-alumni-mbasd-may-panel-beyond-the-hype-how-companies-are-actually-using-ai/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/san-diego-alumni-mbasd-mixer-guest-speaker-hosted-by-london-business-school/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/san-diego-alumni-mbasd-mixer-guest-speaker-neha-goel/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/san-diego-alumni-mbasd-mixer-guest-speaker/</loc></url>
@@ -3082,6 +3082,7 @@
 <url><loc>https://haas.berkeley.edu/event/seattle-alumni-cocktail-challenge-virtual-happy-hour/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/seattle-alumni-happy-hour/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/seattle-alumni-hike-chirico-loop-to-poo-poo-point/</loc></url>
+<url><loc>https://haas.berkeley.edu/event/seattle-alumni-hiking-at-rattlesnake-ledge-trailhead/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/seattle-alumni-holiday-happy-hour/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/seattle-alumni-summer-happy-hour-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/seattle-alumni-summer-happy-hour/</loc></url>
@@ -3643,7 +3644,6 @@
 <url><loc>https://haas.berkeley.edu/facilities/how-do-i/faculty-office-furnishings/</loc></url>
 <url><loc>https://haas.berkeley.edu/facilities/how-do-i/faculty-office-room-layout-sofa/</loc></url>
 <url><loc>https://haas.berkeley.edu/facilities/how-do-i/faculty-office-room-layout-table/</loc></url>
-<url><loc>https://haas.berkeley.edu/facilities/how-do-i/faculty-office-room-layouts/</loc></url>
 <url><loc>https://haas.berkeley.edu/facilities/how-do-i/order-ergo-chairs-tables/</loc></url>
 <url><loc>https://haas.berkeley.edu/facilities/how-do-i/staff-office-furnishings/</loc></url>
 <url><loc>https://haas.berkeley.edu/facilities/our-team/</loc></url>
@@ -4229,7 +4229,7 @@
 <url><loc>https://haas.berkeley.edu/finance/seminars-2/spring2017/</loc></url>
 <url><loc>https://haas.berkeley.edu/finance/spring2003/</loc></url>
 <url><loc>https://haas.berkeley.edu/finance/spring2005/</loc></url>
-<url><loc>https://haas.berkeley.edu/finance/spring2008/</loc></url>
+<url><loc>https://haas.berkeley.edu/finance/spring2006/</loc></url>
 <url><loc>https://haas.berkeley.edu/finance/spring2009/</loc></url>
 <url><loc>https://haas.berkeley.edu/financial-aid/</loc></url>
 <url><loc>https://haas.berkeley.edu/financial-aid/evening-weekend-mba/</loc></url>
@@ -4516,6 +4516,7 @@
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/delivering-entrepreneurship-training-to-high-schoolers-berkeley-haass-business-academy-for-youth-b-bay-continues-to-thrive/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/digitalcollateral/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/event-recap-blended-finance-for-a-just-transition/</loc></url>
+<url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/event-recap-civic-innovation-challenge/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/event-recap-investing-in-ownership-economy/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/innovation-inclusion-and-impact-ibsi-launches-multiple-collaborations-in-latin-america/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/lift-spotlight-qa-with-laura-chioda-lift/</loc></url>
@@ -5952,6 +5953,7 @@
 <url><loc>https://haas.berkeley.edu/saif/events/past-programs/mpcanz/references/</loc></url>
 <url><loc>https://haas.berkeley.edu/saif/events/past-programs/mpcanz/speakers-1/</loc></url>
 <url><loc>https://haas.berkeley.edu/saif/events/past-programs/mpcanz/speakers-2/</loc></url>
+<url><loc>https://haas.berkeley.edu/saif/events/past-programs/mpcanz/speakers-3/</loc></url>
 <url><loc>https://haas.berkeley.edu/saif/events/past-programs/mpcanz/speakers-4/</loc></url>
 <url><loc>https://haas.berkeley.edu/saif/for-students/</loc></url>
 <url><loc>https://haas.berkeley.edu/saif/for-students/competitions-and-conferences/</loc></url>
