@@ -2,7 +2,7 @@
 SITEMAP GENERATION FAILURES:
 ================================================================================
 
-Domain: https://www.law.berkeley.edu
+Domain: https://recreation.ucsd.edu
   Old URL count: N/A
   New URL count: 0
   Difference: N/A (100.0%)
