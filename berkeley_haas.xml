@@ -197,7 +197,6 @@
 <url><loc>https://haas.berkeley.edu/alumni/career/undergraduate-and-graduate/mid-career-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/career/undergraduate-and-graduate/tools-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/connections/chapters/</loc></url>
-<url><loc>https://haas.berkeley.edu/alumni/connections/slack-workspace/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/contact-us/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/contact-us/leadership/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/events/</loc></url>
@@ -828,8 +827,8 @@
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2014-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2015-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2016-2/</loc></url>
+<url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2017-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2018-2/</loc></url>
-<url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/workshop-archive/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/cle-workshop-videos/</loc></url>
@@ -1246,6 +1245,7 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/about/in-the-media/severin-borenstein-solar-electricity-california/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/about/in-the-media/severin-borenstein-utility-fixed-rates/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/about/in-the-media/severin-borensteinn-on-grid-flexibility-policies/</loc></url>
+<url><loc>https://haas.berkeley.edu/energy-institute/about/in-the-media/severin-borensteins-research-in-the-los-angeles-times/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/about/in-the-media/severin-borensteins-research-in-the-sacramento-bee/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/about/in-the-media/severin-borensteins-research-in-the-wall-street-journal/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/about/in-the-media/severn-borenstein-on-the-factors-driving-gas-prices-in-california/</loc></url>
@@ -1651,7 +1651,6 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-280/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-281/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-282/</loc></url>
-<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-283/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-285/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-286/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-287/</loc></url>
@@ -1730,6 +1729,7 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-359/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-360/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-361/</loc></url>
+<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-362/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-non-292/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-non-299/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/affiliated-programs/</loc></url>
@@ -2661,6 +2661,7 @@
 <url><loc>https://haas.berkeley.edu/event/los-angeles-alumni-financial-modeling-workshop/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/los-angeles-alumni-gamble-house-tour-and-chinese-dinner/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/los-angeles-alumni-griffith-observatory-hike/</loc></url>
+<url><loc>https://haas.berkeley.edu/event/los-angeles-alumni-haas-alumni-sound-healing/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/los-angeles-alumni-haas-la-visits-ca-science-center-behind-the-scenes-tour-mummies/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/los-angeles-alumni-happy-hour-series-33-taps-culver-city/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/los-angeles-alumni-happy-hour-with-las-berkeley-haas-alumni/</loc></url>
@@ -4249,7 +4250,6 @@
 <url><loc>https://haas.berkeley.edu/finance/spring2003/</loc></url>
 <url><loc>https://haas.berkeley.edu/finance/spring2005/</loc></url>
 <url><loc>https://haas.berkeley.edu/finance/spring2006/</loc></url>
-<url><loc>https://haas.berkeley.edu/finance/spring2008/</loc></url>
 <url><loc>https://haas.berkeley.edu/finance/spring2009/</loc></url>
 <url><loc>https://haas.berkeley.edu/financial-aid/</loc></url>
 <url><loc>https://haas.berkeley.edu/financial-aid/evening-weekend-mba/</loc></url>
@@ -4494,6 +4494,7 @@
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/collaboration/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/college-preparedness/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/cooperatives/</loc></url>
+<url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/corporate-social-responsibility/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/digital-collateral/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/disability/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/entrepreneurs/</loc></url>
@@ -4509,7 +4510,9 @@
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/inclusive-fintech/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/latin-america/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/lift/</loc></url>
+<url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/marketing-ethics/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/mental-health/</loc></url>
+<url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/nestle-tragedy/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/ownership-economy/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/ownership/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/personal-finance/</loc></url>
@@ -4525,6 +4528,7 @@
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/a-new-approach-to-lending-in-low-and-middle-income-countries-nber/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/accessibility-berkeley-students-are-reimagining-fintech-for-the-visually-impaired/</loc></url>
+<url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/beyond-the-classroom-learning-from-research-on-the-nestle-tragedy/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/binance-charity-lift-initiative-award-powered-by-big-ideas/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/bridging-financial-and-mental-health-at-work/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/build-launch-and-accelerate-b-bay/</loc></url>
@@ -6500,7 +6504,7 @@
 <url><loc>https://haas.berkeley.edu/undergrad/student-experience/contacts/</loc></url>
 <url><loc>https://haas.berkeley.edu/undergrad/student-experience/for-graduating-seniors/</loc></url>
 <url><loc>https://haas.berkeley.edu/undergrad/student-experience/haas-base-camp/</loc></url>
-<url><loc>https://haas.berkeley.edu/undergrad/student-experience/student-government-organizations/</loc></url>
+<url><loc>https://haas.berkeley.edu/undergrad/student-experience/new-bay-area/</loc></url>
 <url><loc>https://haas.berkeley.edu/wordpress-template-guide/basic-text/</loc></url>
 <url><loc>https://haas.berkeley.edu/wordpress-template-guide/content-gallery/olivia-sunshine/</loc></url>
 <url><loc>https://haas.berkeley.edu/workplace-mental-health-initiative/</loc></url>
