@@ -3,10 +3,10 @@ SITEMAP GENERATION FAILURES:
 ================================================================================
 
 Domain: https://recreation.ucsd.edu
-  Old URL count: N/A
-  New URL count: 0
-  Difference: N/A (100.0%)
-  Threshold: N/A
+  Old URL count: 128
+  New URL count: 200
+  Difference: 72 (56.2%)
+  Threshold: 50%
 
 ================================================================================
 Total failures: 1
