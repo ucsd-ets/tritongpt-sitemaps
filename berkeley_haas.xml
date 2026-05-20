@@ -130,10 +130,10 @@
 <url><loc>https://haas.berkeley.edu/accounting/accounting-berkeley/bcpa/admissions-and-fees/</loc></url>
 <url><loc>https://haas.berkeley.edu/accounting/accounting-berkeley/bcpa/alumni/</loc></url>
 <url><loc>https://haas.berkeley.edu/accounting/accounting-berkeley/bcpa/benefits/</loc></url>
-<url><loc>https://haas.berkeley.edu/accounting/accounting-berkeley/bcpa/congratulations-class-of-2025/</loc></url>
 <url><loc>https://haas.berkeley.edu/accounting/accounting-berkeley/bcpa/faq/</loc></url>
 <url><loc>https://haas.berkeley.edu/accounting/accounting-berkeley/bcpa/hall-of-fame/</loc></url>
 <url><loc>https://haas.berkeley.edu/accounting/accounting-berkeley/bcpa/student-ambassadors/</loc></url>
+<url><loc>https://haas.berkeley.edu/accounting/accounting-berkeley/bcpa/welcome-class-of-2026/</loc></url>
 <url><loc>https://haas.berkeley.edu/accounting/accounting-berkeley/phd-program/</loc></url>
 <url><loc>https://haas.berkeley.edu/accounting/accounting-berkeley/undergraduates/</loc></url>
 <url><loc>https://haas.berkeley.edu/accounting/accounting-berkeley/undergraduates/events/</loc></url>
@@ -827,8 +827,8 @@
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2014-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2015-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2016-2/</loc></url>
-<url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2017-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2018-2/</loc></url>
+<url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/workshop-archive/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/cle-workshop-videos/</loc></url>
@@ -885,6 +885,7 @@
 <url><loc>https://haas.berkeley.edu/culture/culture-kit-podcast/posts/episode-6-laszlo-bock-on-the-key-skills-to-become-a-successful-leader-of-tomorrow/</loc></url>
 <url><loc>https://haas.berkeley.edu/culture/culture-kit-podcast/posts/erica-bailey-on-authenticity-at-work-beyond-the-buzzword/</loc></url>
 <url><loc>https://haas.berkeley.edu/culture/culture-kit-podcast/posts/glenn-carroll-and-jenny-chatman-on-how-to-make-your-organizational-culture-great/</loc></url>
+<url><loc>https://haas.berkeley.edu/culture/culture-kit-podcast/posts/healthcare-has-a-culture-problem-can-ai-help-fix-it/</loc></url>
 <url><loc>https://haas.berkeley.edu/culture/culture-kit-podcast/posts/how-tribal-instincts-can-bring-people-together/</loc></url>
 <url><loc>https://haas.berkeley.edu/culture/culture-kit-podcast/posts/hows-your-battery-calm-ceo-david-ko-on-normalizing-mental-health-at-work/</loc></url>
 <url><loc>https://haas.berkeley.edu/culture/culture-kit-podcast/posts/jack-goncalo-on-what-organizations-get-wrong-about-creativity-and-what-its-costing-them/</loc></url>
@@ -1649,9 +1650,9 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-278/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-279/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-280/</loc></url>
-<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-281/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-282/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-283/</loc></url>
+<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-284/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-285/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-286/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-287/</loc></url>
@@ -3680,7 +3681,6 @@
 <url><loc>https://haas.berkeley.edu/facilities/safety-and-emergency/campus-emergency-contacts/</loc></url>
 <url><loc>https://haas.berkeley.edu/facilities/safety-and-emergency/emergency-panic-button-installation-policy/</loc></url>
 <url><loc>https://haas.berkeley.edu/facilities/safety-and-emergency/evacuation-routes/</loc></url>
-<url><loc>https://haas.berkeley.edu/facilities/safety-and-emergency/handling-an-emergency/</loc></url>
 <url><loc>https://haas.berkeley.edu/facilities/safety-and-emergency/handling-an-emergency/earthquake/</loc></url>
 <url><loc>https://haas.berkeley.edu/facilities/safety-and-emergency/handling-an-emergency/fire/</loc></url>
 <url><loc>https://haas.berkeley.edu/facilities/safety-and-emergency/handling-an-emergency/shootingincident/</loc></url>
@@ -3997,9 +3997,9 @@
 <url><loc>https://haas.berkeley.edu/faculty/macpherson-kimberly/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/madhavan-ananth/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/manso-gustavo/</loc></url>
+<url><loc>https://haas.berkeley.edu/faculty/marcel-bogers/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/marcelo-olivares/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/marco-gonzalez-navarro/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/margaret-lee/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/maria-dieci/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/marianna-kudlyak/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/mario-alvarez/</loc></url>
@@ -4027,6 +4027,7 @@
 <url><loc>https://haas.berkeley.edu/faculty/metzler-jon/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/meyebinesso-farida-carelle-pere/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/meyer-alison/</loc></url>
+<url><loc>https://haas.berkeley.edu/faculty/michael-callen/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/mike-katz/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/miller-conrad/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/mina-mirazimi/</loc></url>
@@ -4048,7 +4049,6 @@
 <url><loc>https://haas.berkeley.edu/faculty/ni-trieu/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nick-tsivanidis/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nils-hellmer/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/nina-roussille/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nirupama-kulkarni/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nitin-kohli/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/noam-yuchtman/</loc></url>
@@ -5023,6 +5023,7 @@
 <url><loc>https://haas.berkeley.edu/marketing/phd-program/current-phd-students/</loc></url>
 <url><loc>https://haas.berkeley.edu/marketing/seminars/</loc></url>
 <url><loc>https://haas.berkeley.edu/marketing/seminars/previous-shansby-seminars/</loc></url>
+<url><loc>https://haas.berkeley.edu/mba-commencement/</loc></url>
 <url><loc>https://haas.berkeley.edu/mba-commencement/awards/</loc></url>
 <url><loc>https://haas.berkeley.edu/mba-commencement/graduates/</loc></url>
 <url><loc>https://haas.berkeley.edu/mba-commencement/speaker/</loc></url>
@@ -6199,6 +6200,7 @@
 <url><loc>https://haas.berkeley.edu/technology-solutions/teaching-event-services/haas-lecture-video-recording-policy/</loc></url>
 <url><loc>https://haas.berkeley.edu/technology-solutions/tech-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/technology-solutions/tech-resources/upcoming-scheduled-outages/</loc></url>
+<url><loc>https://haas.berkeley.edu/undergrad-commencement/</loc></url>
 <url><loc>https://haas.berkeley.edu/undergrad-commencement/awards-and-honors/</loc></url>
 <url><loc>https://haas.berkeley.edu/undergrad-commencement/commencement-speaker/</loc></url>
 <url><loc>https://haas.berkeley.edu/undergrad-commencement/graduates/</loc></url>
