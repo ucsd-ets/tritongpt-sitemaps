@@ -6,7 +6,6 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-<url><loc>https://vcresearch.berkeley.edu/2014-ucrd-network-meeting</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/about-us/associate-vice-chancellor-research-lok-siu</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/about-us/associate-vice-chancellor-research-robert-price</loc></url>
@@ -106,7 +105,6 @@
 <url><loc>https://vcresearch.berkeley.edu/establishing-simons-institute-theory-computing</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/excellence/faculty-excellence--000</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/excellence/student-excellence--000</loc></url>
-<url><loc>https://vcresearch.berkeley.edu/excellence/uc-berkeley-and-berkeley-lab--000</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/excellence</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/export-controls/federal-resources</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/export-controls/overview</loc></url>
@@ -2026,10 +2024,6 @@
 <url><loc>https://vcresearch.berkeley.edu/how/vcr-units/vcro-finance-and-human-resources</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/how/vcr-units/vcro-hr-resources/research-spot-awards-program</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/innovation</loc></url>
-<url><loc>https://vcresearch.berkeley.edu/international/institutes-and-centers--000</loc></url>
-<url><loc>https://vcresearch.berkeley.edu/international/institutes-and-centers/international-and-area-studies--000</loc></url>
-<url><loc>https://vcresearch.berkeley.edu/international/international-area-studies/other-international-resources-uc-berkeley--000</loc></url>
-<url><loc>https://vcresearch.berkeley.edu/international/international-education-berkeley-role-title-vi--000</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/international</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/login-denied</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/logoutfaculty</loc></url>
@@ -5806,7 +5800,6 @@
 <url><loc>https://vcresearch.berkeley.edu/privacy-statement</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/program-partners</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/research-compliance</loc></url>
-<url><loc>https://vcresearch.berkeley.edu/research-continuity-planning-covid-19</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/research-funding/berkeley-research-development-office/contact-us</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/research-funding/berkeley-research-development-office/services-provided</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/research-leaders</loc></url>
@@ -5964,7 +5957,6 @@
 <url><loc>https://vcresearch.berkeley.edu/style-guide</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/thank-you</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/titleimageforphilomathiacenter</loc></url>
-<url><loc>https://vcresearch.berkeley.edu/titleimageforrosehillinnovators</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/tophomepagetext</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/uc-noyce-initiative/bin-yu</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/uc-noyce-initiative/dawn-song</loc></url>
