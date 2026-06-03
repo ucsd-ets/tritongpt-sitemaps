@@ -97,7 +97,7 @@
       "/sports-clubs-posts",
 	  "/?post_type="
     ],
-    "max_url_diff_percent": 50
+    "max_url_diff_percent": 95
   },
   {
     "domain": "https://www.law.berkeley.edu",
