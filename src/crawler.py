@@ -133,6 +133,7 @@ class Crawler:
 			self.urls_to_crawl.add(self.clean_link(domain))
 
 		self.url_strings_to_output = []
+		self.output_urls_seen = set()
 		self.num_crawled = 0
 
 		if num_workers <= 0:
@@ -338,8 +339,7 @@ class Crawler:
 				logging.info(f"Skipping {final_url} - non-2XX status code: {status_code}")
 				return
 				
-		url_string = "<url><loc>"+self.htmlspecialchars(final_url)+"</loc>" + lastmod + image_list + "</url>"
-		self.url_strings_to_output.append(url_string)
+		self.add_url_to_output(final_url, lastmod, image_list)
 
 		# Found links
 		links = self.linkregex.findall(msg)
@@ -720,9 +720,15 @@ class Crawler:
 				page_urls = self.parse_sitemap(content, current_url, redirected_to_target)
 				# Process page URLs from sitemap
 				for page_url in page_urls:
+					cleaned_page_url = self.clean_output_url(page_url)
+					if cleaned_page_url is None:
+						logging.debug(f"Skipped malformed URL from sitemap: {page_url}")
+						self.nb_exclude += 1
+						continue
+
 					# Check if URL is from target domain or alias domain
-					parsed_url = urlparse(page_url)
-					is_target_domain = self.target_domain in page_url
+					parsed_url = urlparse(cleaned_page_url)
+					is_target_domain = self.target_domain in cleaned_page_url
 					is_alias_domain = any(alias in parsed_url.netloc for alias in self.domain_aliases)
 
 					if is_target_domain or is_alias_domain:
@@ -734,35 +740,33 @@ class Crawler:
 								normalized_url += f"?{parsed_url.query}"
 							if parsed_url.fragment:
 								normalized_url += f"#{parsed_url.fragment}"
-							logging.debug(f"Normalized alias domain URL: {page_url} -> {normalized_url}")
-							page_url = normalized_url
+							logging.debug(f"Normalized alias domain URL: {cleaned_page_url} -> {normalized_url}")
+							cleaned_page_url = normalized_url
 							# Re-parse the normalized URL
-							parsed_url = urlparse(page_url)
+							parsed_url = urlparse(cleaned_page_url)
 
 						# Apply exclusion rules
-						if not self.exclude_url(page_url):
-							logging.debug(f"Excluded URL from sitemap: {page_url}")
+						if not self.exclude_url(cleaned_page_url):
+							logging.debug(f"Excluded URL from sitemap: {cleaned_page_url}")
 							self.nb_exclude += 1
 							continue
 
 						# Check if the file extension should be skipped
 						target_extension = os.path.splitext(parsed_url.path)[1][1:]  # Get extension without dot
 						if target_extension in self.skipext:
-							logging.debug(f"Skipped URL with extension '{target_extension}' from sitemap: {page_url}")
+							logging.debug(f"Skipped URL with extension '{target_extension}' from sitemap: {cleaned_page_url}")
 							self.nb_exclude += 1
 							continue
 
 						# Check if URL was already processed
-						if page_url not in self.crawled_or_crawling:
+						if cleaned_page_url not in self.crawled_or_crawling:
 							# Mark as crawled
-							self.crawled_or_crawling.add(page_url)
+							self.crawled_or_crawling.add(cleaned_page_url)
 
-							# Add directly to output (sitemap URLs are already validated)
-							url_string = "<url><loc>" + self.htmlspecialchars(page_url) + "</loc></url>"
-							self.url_strings_to_output.append(url_string)
-							self.nb_url += 1
+							if self.add_url_to_output(cleaned_page_url):
+								self.nb_url += 1
 
-							logging.debug(f"Added URL from sitemap to output: {page_url}")
+							logging.debug(f"Added URL from sitemap to output: {cleaned_page_url}")
 				return True
 		except Exception as e:
 			logging.debug(f"Error processing XML content: {e}")
@@ -777,6 +781,45 @@ class Crawler:
 	@staticmethod
 	def htmlspecialchars(text):
 		return text.replace(" ", "%20").replace("&", "&amp;").replace('"', "&quot;").replace("<", "&lt;").replace(">", "&gt;")
+
+	def clean_output_url(self, raw_url):
+		if raw_url is None:
+			return None
+
+		raw_url = raw_url.strip()
+		if not raw_url:
+			return None
+
+		parsed_url = urlparse(raw_url)
+		try:
+			hostname = parsed_url.hostname
+		except ValueError:
+			return None
+
+		if parsed_url.scheme not in ("http", "https"):
+			return None
+		if not parsed_url.netloc or not hostname:
+			return None
+		if "%" in parsed_url.netloc or re.search(r"\s", parsed_url.netloc):
+			return None
+		if not re.fullmatch(r"[A-Za-z0-9.-]+", hostname):
+			return None
+
+		path = self.resolve_url_path(parsed_url.path)
+		return urlunsplit((parsed_url.scheme, parsed_url.netloc, path, parsed_url.query, ""))
+
+	def add_url_to_output(self, raw_url, lastmod="", image_list=""):
+		cleaned_url = self.clean_output_url(raw_url)
+		if cleaned_url is None:
+			logging.debug(f"Skipped malformed output URL: {raw_url}")
+			return False
+		if cleaned_url in self.output_urls_seen:
+			return False
+
+		self.output_urls_seen.add(cleaned_url)
+		url_string = "<url><loc>" + self.htmlspecialchars(cleaned_url) + "</loc>" + lastmod + image_list + "</url>"
+		self.url_strings_to_output.append(url_string)
+		return True
 
 	def make_report(self):
 		print ("Number of found URL : {0}".format(self.nb_url))
