@@ -2,11 +2,11 @@
 SITEMAP GENERATION FAILURES:
 ================================================================================
 
-Domain: https://recreation.ucsd.edu
-  Old URL count: 128
-  New URL count: 199
-  Difference: 71 (55.5%)
-  Threshold: 50%
+Domain: https://begin.berkeley.edu
+  Old URL count: N/A
+  New URL count: 0
+  Difference: N/A (100.0%)
+  Threshold: N/A
 
 ================================================================================
 Total failures: 1
