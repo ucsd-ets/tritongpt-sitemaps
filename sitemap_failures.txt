@@ -2,12 +2,48 @@
 SITEMAP GENERATION FAILURES:
 ================================================================================
 
-Domain: https://begin.berkeley.edu
+Domain: https://bah.ucsd.edu/
+  Old URL count: N/A
+  New URL count: 0
+  Difference: N/A (100.0%)
+  Threshold: N/A
+
+Domain: https://chancellor.ucsd.edu/
+  Old URL count: N/A
+  New URL count: 0
+  Difference: N/A (100.0%)
+  Threshold: N/A
+
+Domain: https://hdh.ucsd.edu/
+  Old URL count: N/A
+  New URL count: 0
+  Difference: N/A (100.0%)
+  Threshold: N/A
+
+Domain: https://transportation.ucsd.edu/
+  Old URL count: N/A
+  New URL count: 0
+  Difference: N/A (100.0%)
+  Threshold: N/A
+
+Domain: https://vcsacl.ucsd.edu/
+  Old URL count: N/A
+  New URL count: 0
+  Difference: N/A (100.0%)
+  Threshold: N/A
+
+Domain: https://aps.ucsd.edu
+  Old URL count: N/A
+  New URL count: 0
+  Difference: N/A (100.0%)
+  Threshold: N/A
+
+Domain: https://transformation.ucsd.edu
   Old URL count: N/A
   New URL count: 0
   Difference: N/A (100.0%)
   Threshold: N/A
 
 ================================================================================
-Total failures: 1
+Total failures: 7
 ================================================================================

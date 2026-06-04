@@ -824,8 +824,8 @@
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2014-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2015-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2016-2/</loc></url>
-<url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2017-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/2018-2/</loc></url>
+<url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/workshop-archive/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/cle-workshop-videos/</loc></url>
@@ -3945,6 +3945,7 @@
 <url><loc>https://haas.berkeley.edu/faculty/jenny-herbert-creek/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/jeremy-macdonald/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/jesse-k-anttila-hughes/</loc></url>
+<url><loc>https://haas.berkeley.edu/faculty/jessica-a-kennedy/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/jo-giessler/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/joanne-cheung/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/joaquin-urrego/</loc></url>
@@ -4010,14 +4011,12 @@
 <url><loc>https://haas.berkeley.edu/faculty/macpherson-kimberly/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/madhavan-ananth/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/manso-gustavo/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/marcel-bogers/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/marcelo-olivares/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/marco-gonzalez-navarro/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/margaret-lee/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/maria-dieci/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/marianna-kudlyak/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/mario-alvarez/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/marit-christensen/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/mark-adams/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/mark-chu/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/mark-coopersmith/</loc></url>
@@ -4063,7 +4062,6 @@
 <url><loc>https://haas.berkeley.edu/faculty/ni-trieu/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nick-tsivanidis/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nils-hellmer/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/nina-roussille/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nirupama-kulkarni/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nitin-kohli/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/noam-yuchtman/</loc></url>
@@ -4075,6 +4073,7 @@
 <url><loc>https://haas.berkeley.edu/faculty/oneill-maura/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/opdendyk-terry/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/pablo-a-celhay/</loc></url>
+<url><loc>https://haas.berkeley.edu/faculty/pablo-balan/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/panos-n-patatoukas/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/paolinda-medina/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/park-sinchaisri/</loc></url>
@@ -4272,7 +4271,6 @@
 <url><loc>https://haas.berkeley.edu/finance/seminars-2/spring2017/</loc></url>
 <url><loc>https://haas.berkeley.edu/finance/spring2003/</loc></url>
 <url><loc>https://haas.berkeley.edu/finance/spring2005/</loc></url>
-<url><loc>https://haas.berkeley.edu/finance/spring2006/</loc></url>
 <url><loc>https://haas.berkeley.edu/finance/spring2008/</loc></url>
 <url><loc>https://haas.berkeley.edu/finance/spring2009/</loc></url>
 <url><loc>https://haas.berkeley.edu/financial-aid/</loc></url>
@@ -5130,14 +5128,18 @@
 <url><loc>https://haas.berkeley.edu/mba/international-students/</loc></url>
 <url><loc>https://haas.berkeley.edu/mba/leadership-course-browser/</loc></url>
 <url><loc>https://haas.berkeley.edu/mba/student-life-leadership-development/</loc></url>
+<url><loc>https://haas.berkeley.edu/mba/welaunch-2026-faq-page/</loc></url>
 <url><loc>https://haas.berkeley.edu/mba/welcome-to-ace-academic-career-essentials-2026/</loc></url>
 <url><loc>https://haas.berkeley.edu/mba/welcome-to-ace-academic-career-essentials/</loc></url>
 <url><loc>https://haas.berkeley.edu/mba/welcome-to-haas-ilaunch-2025/</loc></url>
+<url><loc>https://haas.berkeley.edu/mba/welcome-to-haas-ilaunch-2026/</loc></url>
 <url><loc>https://haas.berkeley.edu/mba/welcome-to-haas-ilaunch/</loc></url>
 <url><loc>https://haas.berkeley.edu/mba/welcome-to-haas-new-student-orientation-2025/</loc></url>
+<url><loc>https://haas.berkeley.edu/mba/welcome-to-haas-new-student-orientation-2026/</loc></url>
 <url><loc>https://haas.berkeley.edu/mba/welcome-to-haas-new-student-orientation-week-zero/</loc></url>
 <url><loc>https://haas.berkeley.edu/mba/welcome-to-haas-new-student-orientation/</loc></url>
 <url><loc>https://haas.berkeley.edu/mba/welcome-to-welaunch-2025/</loc></url>
+<url><loc>https://haas.berkeley.edu/mba/welcome-to-welaunch-2026/</loc></url>
 <url><loc>https://haas.berkeley.edu/mba/welcome-to-welaunch/</loc></url>
 <url><loc>https://haas.berkeley.edu/mba2021/events/</loc></url>
 <url><loc>https://haas.berkeley.edu/mba2021/fund/</loc></url>
