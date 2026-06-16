@@ -1633,7 +1633,6 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-256/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-257/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-258/</loc></url>
-<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-259/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-260/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-262/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-263/</loc></url>
@@ -2428,6 +2427,7 @@
 <url><loc>https://haas.berkeley.edu/event/east-bay-alumni-king-canyon-loop-trail-hike/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/east-bay-alumni-lake-chabot-west-shore-trail-hike/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/east-bay-alumni-lake-temescal-welcome-picnic-august-17/</loc></url>
+<url><loc>https://haas.berkeley.edu/event/east-bay-alumni-lead-reflect-grow-building-your-career-plan-with-clarity/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/east-bay-alumni-mangini-ranch-educational-preserve-hike/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/east-bay-alumni-mediating-investor-attention/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/east-bay-alumni-miller-knox-regional-shoreline-hike/</loc></url>
@@ -2674,6 +2674,7 @@
 <url><loc>https://haas.berkeley.edu/event/los-angeles-alumni-gamble-house-tour-and-chinese-dinner/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/los-angeles-alumni-griffith-observatory-hike/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/los-angeles-alumni-haas-alumni-sound-healing/</loc></url>
+<url><loc>https://haas.berkeley.edu/event/los-angeles-alumni-haas-happy-hour-at-founders-ale-house/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/los-angeles-alumni-haas-la-visits-ca-science-center-behind-the-scenes-tour-mummies/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/los-angeles-alumni-happy-hour-series-33-taps-culver-city/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/los-angeles-alumni-happy-hour-with-las-berkeley-haas-alumni/</loc></url>
@@ -2933,6 +2934,7 @@
 <url><loc>https://haas.berkeley.edu/event/sacramento-alumni-coffee-connect-series-downtown-sacramento/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/sacramento-alumni-coffee-connect-series-folsom/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/sacramento-alumni-coffee-connect-series-roseville/</loc></url>
+<url><loc>https://haas.berkeley.edu/event/sacramento-alumni-haas-sacramento-pub-quiz/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/sacramento-alumni-happy-hour-social-at-drakes-the-barn/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/sacramento-alumni-happy-hour-trivia-challenge/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/sacramento-alumni-happy-hour/</loc></url>
@@ -3853,7 +3855,6 @@
 <url><loc>https://haas.berkeley.edu/faculty/dougherty-joe/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/doy-charnsupharindr/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/drew-mcarthur/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/drew-n-brown/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/drew-s-jacoby-senghor/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/dutta-sunil/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/dwyer-diane/</loc></url>
@@ -3891,7 +3892,6 @@
 <url><loc>https://haas.berkeley.edu/faculty/frederic-kerrest/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/frederico-finan/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/fulp-solly/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/gabriel-tourek/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/ganesh-iyer/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/gautam-rao/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/gene-kang/</loc></url>
@@ -3910,7 +3910,6 @@
 <url><loc>https://haas.berkeley.edu/faculty/gundling-ernest/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/guo-xu/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/guoman-she/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/hakansson-nils/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/harris-david/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/harris-robert/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/harris-sondak/</loc></url>
@@ -4021,6 +4020,7 @@
 <url><loc>https://haas.berkeley.edu/faculty/marcel-bogers/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/marcelo-olivares/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/marco-gonzalez-navarro/</loc></url>
+<url><loc>https://haas.berkeley.edu/faculty/margaret-lee/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/maria-dieci/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/marianna-kudlyak/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/mario-alvarez/</loc></url>
@@ -4070,7 +4070,6 @@
 <url><loc>https://haas.berkeley.edu/faculty/ni-trieu/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nick-tsivanidis/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nils-hellmer/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/nina-roussille/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nirupama-kulkarni/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nitin-kohli/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/noam-yuchtman/</loc></url>
@@ -4082,6 +4081,7 @@
 <url><loc>https://haas.berkeley.edu/faculty/oneill-maura/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/opdendyk-terry/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/pablo-a-celhay/</loc></url>
+<url><loc>https://haas.berkeley.edu/faculty/pablo-balan/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/panos-n-patatoukas/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/paolinda-medina/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/park-sinchaisri/</loc></url>
@@ -4281,7 +4281,6 @@
 <url><loc>https://haas.berkeley.edu/finance/spring2005/</loc></url>
 <url><loc>https://haas.berkeley.edu/finance/spring2006/</loc></url>
 <url><loc>https://haas.berkeley.edu/finance/spring2008/</loc></url>
-<url><loc>https://haas.berkeley.edu/finance/spring2009/</loc></url>
 <url><loc>https://haas.berkeley.edu/financial-aid/</loc></url>
 <url><loc>https://haas.berkeley.edu/financial-aid/evening-weekend-mba/</loc></url>
 <url><loc>https://haas.berkeley.edu/financial-aid/evening-weekend-mba/cost/</loc></url>
