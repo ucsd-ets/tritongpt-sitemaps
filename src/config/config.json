@@ -164,6 +164,9 @@
     "output": "ucnet_cal.xml",
     "exclude": [],
     "skipext": [],
+    "manual_urls": [
+      "https://ucnet.universityofcalifornia.edu/wp-content/uploads/old-files/pdf/notices/20170501-uc-upte-tx-modification-response.pdf"
+    ],
     "max_url_diff_percent": 50
   },
   {

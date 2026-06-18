@@ -10,12 +10,14 @@ import crawler
 
 class CrawlerUrlCleaningTest(unittest.TestCase):
 
-	def make_crawler(self):
-		return crawler.Crawler(
+	def make_crawler(self, **kwargs):
+		options = dict(
 			domain="https://www.law.berkeley.edu",
 			sitemap_only=True,
 			max_url_diff_percent=None,
 		)
+		options.update(kwargs)
+		return crawler.Crawler(**options)
 
 	def test_clean_output_url_rejects_malformed_wrapped_url(self):
 		crawl = self.make_crawler()
@@ -37,6 +39,55 @@ class CrawlerUrlCleaningTest(unittest.TestCase):
 
 		self.assertTrue(crawl.add_url_to_output("https://www.law.berkeley.edu/annual-reports/#overview"))
 		self.assertFalse(crawl.add_url_to_output("https://www.law.berkeley.edu/annual-reports/"))
+		self.assertEqual(
+			crawl.url_strings_to_output,
+			["<url><loc>https://www.law.berkeley.edu/annual-reports/</loc></url>"],
+		)
+
+	def test_manual_urls_are_added_to_output(self):
+		crawl = self.make_crawler(
+			manual_urls=[
+				"https://www.law.berkeley.edu/wp-content/uploads/example.pdf?",
+			]
+		)
+
+		crawl.process_manual_urls()
+
+		self.assertEqual(
+			crawl.url_strings_to_output,
+			["<url><loc>https://www.law.berkeley.edu/wp-content/uploads/example.pdf</loc></url>"],
+		)
+
+	def test_manual_urls_dedupe_existing_output(self):
+		crawl = self.make_crawler(
+			manual_urls=[
+				"https://www.law.berkeley.edu/annual-reports/",
+			]
+		)
+		crawl.add_url_to_output("https://www.law.berkeley.edu/annual-reports/#overview")
+
+		crawl.process_manual_urls()
+
+		self.assertEqual(
+			crawl.url_strings_to_output,
+			["<url><loc>https://www.law.berkeley.edu/annual-reports/</loc></url>"],
+		)
+
+	def test_manual_urls_apply_domain_exclude_and_extension_filters(self):
+		crawl = self.make_crawler(
+			exclude=["/private/"],
+			skipext=["docx"],
+			manual_urls=[
+				"http://%20https%3A//www.law.berkeley.edu/annual-reports/",
+				"https://example.com/outside.pdf",
+				"https://www.law.berkeley.edu/private/report.pdf",
+				"https://www.law.berkeley.edu/files/report.docx",
+				"https://www.law.berkeley.edu/annual-reports/",
+			],
+		)
+
+		crawl.process_manual_urls()
+
 		self.assertEqual(
 			crawl.url_strings_to_output,
 			["<url><loc>https://www.law.berkeley.edu/annual-reports/</loc></url>"],

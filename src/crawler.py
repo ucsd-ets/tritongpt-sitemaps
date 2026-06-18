@@ -83,7 +83,7 @@ class Crawler:
 				 report=False ,domain="", domain_aliases=[], exclude=[], skipext=[], drop=[],
 				 debug=False, verbose=False, images=False, auth=False, as_index=False,
 				 sort_alphabetically=True, user_agent='*', sitemap_url=None, sitemap_only=False,
-				 max_url_diff_percent=50):
+				 max_url_diff_percent=50, manual_urls=None):
 		self.num_workers = num_workers
 		self.parserobots = parserobots
 		self.user_agent = user_agent
@@ -91,6 +91,12 @@ class Crawler:
 		self.report 	= report
 		self.domain 	= domain
 		self.domain_aliases = domain_aliases
+		if manual_urls is None:
+			self.manual_urls = []
+		elif isinstance(manual_urls, list):
+			self.manual_urls = manual_urls
+		else:
+			self.manual_urls = [manual_urls]
 		self.exclude 	= exclude
 		self.skipext 	= skipext
 		self.drop		= drop
@@ -173,6 +179,8 @@ class Crawler:
 				event_loop.close()
 
 		logging.info("Crawling has reached end of all found links")
+
+		self.process_manual_urls()
 
 		if self.sort_alphabetically:
 			self.url_strings_to_output.sort()
@@ -720,56 +728,62 @@ class Crawler:
 				page_urls = self.parse_sitemap(content, current_url, redirected_to_target)
 				# Process page URLs from sitemap
 				for page_url in page_urls:
-					cleaned_page_url = self.clean_output_url(page_url)
-					if cleaned_page_url is None:
-						logging.debug(f"Skipped malformed URL from sitemap: {page_url}")
-						self.nb_exclude += 1
-						continue
-
-					# Check if URL is from target domain or alias domain
-					parsed_url = urlparse(cleaned_page_url)
-					is_target_domain = self.target_domain in cleaned_page_url
-					is_alias_domain = any(alias in parsed_url.netloc for alias in self.domain_aliases)
-
-					if is_target_domain or is_alias_domain:
-						# Normalize alias domain URLs to target domain
-						if is_alias_domain and not is_target_domain:
-							# Reconstruct URL with target domain
-							normalized_url = f"{self.scheme}://{self.target_domain}{parsed_url.path}"
-							if parsed_url.query:
-								normalized_url += f"?{parsed_url.query}"
-							if parsed_url.fragment:
-								normalized_url += f"#{parsed_url.fragment}"
-							logging.debug(f"Normalized alias domain URL: {cleaned_page_url} -> {normalized_url}")
-							cleaned_page_url = normalized_url
-							# Re-parse the normalized URL
-							parsed_url = urlparse(cleaned_page_url)
-
-						# Apply exclusion rules
-						if not self.exclude_url(cleaned_page_url):
-							logging.debug(f"Excluded URL from sitemap: {cleaned_page_url}")
-							self.nb_exclude += 1
-							continue
-
-						# Check if the file extension should be skipped
-						target_extension = os.path.splitext(parsed_url.path)[1][1:]  # Get extension without dot
-						if target_extension in self.skipext:
-							logging.debug(f"Skipped URL with extension '{target_extension}' from sitemap: {cleaned_page_url}")
-							self.nb_exclude += 1
-							continue
-
-						# Check if URL was already processed
-						if cleaned_page_url not in self.crawled_or_crawling:
-							# Mark as crawled
-							self.crawled_or_crawling.add(cleaned_page_url)
-
-							if self.add_url_to_output(cleaned_page_url):
-								self.nb_url += 1
-
-							logging.debug(f"Added URL from sitemap to output: {cleaned_page_url}")
+					self.add_filtered_url_to_output(page_url, "sitemap", skip_if_crawled=True, mark_crawled=True)
 				return True
 		except Exception as e:
 			logging.debug(f"Error processing XML content: {e}")
+		return False
+
+	def process_manual_urls(self):
+		for manual_url in self.manual_urls:
+			self.add_filtered_url_to_output(manual_url, "manual")
+
+	def add_filtered_url_to_output(self, raw_url, source, skip_if_crawled=False, mark_crawled=False):
+		cleaned_url = self.clean_output_url(raw_url)
+		if cleaned_url is None:
+			logging.debug(f"Skipped malformed URL from {source}: {raw_url}")
+			self.nb_exclude += 1
+			return False
+
+		parsed_url = urlparse(cleaned_url)
+		is_target_domain = parsed_url.netloc == self.target_domain
+		is_alias_domain = parsed_url.netloc in self.domain_aliases
+
+		if not (is_target_domain or is_alias_domain):
+			logging.debug(f"Skipped {source} URL outside target domain: {cleaned_url}")
+			self.nb_exclude += 1
+			return False
+
+		if is_alias_domain and not is_target_domain:
+			normalized_url = f"{self.scheme}://{self.target_domain}{parsed_url.path}"
+			if parsed_url.query:
+				normalized_url += f"?{parsed_url.query}"
+			logging.debug(f"Normalized alias domain URL: {cleaned_url} -> {normalized_url}")
+			cleaned_url = normalized_url
+			parsed_url = urlparse(cleaned_url)
+
+		if not self.exclude_url(cleaned_url):
+			logging.debug(f"Excluded URL from {source}: {cleaned_url}")
+			self.nb_exclude += 1
+			return False
+
+		target_extension = os.path.splitext(parsed_url.path)[1][1:]
+		if target_extension in self.skipext:
+			logging.debug(f"Skipped URL from {source} with extension '{target_extension}': {cleaned_url}")
+			self.nb_exclude += 1
+			return False
+
+		if skip_if_crawled and cleaned_url in self.crawled_or_crawling:
+			return False
+
+		if mark_crawled:
+			self.crawled_or_crawling.add(cleaned_url)
+
+		if self.add_url_to_output(cleaned_url):
+			self.nb_url += 1
+			logging.debug(f"Added URL from {source} to output: {cleaned_url}")
+			return True
+
 		return False
 
 	def exclude_url(self, link):
