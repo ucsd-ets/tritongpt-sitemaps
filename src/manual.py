@@ -159,7 +159,7 @@ def download_file(source_url, destination_path):
         print(f"Downloading from {source_url}...")
         request = Request(source_url, headers={'User-Agent': 'Mozilla/5.0'})
 
-        with urlopen(request) as response:
+        with urlopen(request, timeout=30) as response:
             content = response.read()
 
         with open(destination_path, 'wb') as f:

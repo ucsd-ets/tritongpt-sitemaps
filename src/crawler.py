@@ -229,9 +229,10 @@ class Crawler:
 
 		# Ignore resources listed in the not_parseable_resources
 		# Its avoid dowloading file like pdf… etc
-		if not url.path.endswith(self.not_parseable_resources):
+		_, ext = os.path.splitext(url.path)
+		if ext.lower() not in self.not_parseable_resources:
 			try:
-				response = urlopen(request)
+				response = urlopen(request, timeout=30)
 			except Exception as e:
 				if hasattr(e,'code'):
 					self.response_code[e.code] += 1
