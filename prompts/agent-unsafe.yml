@@ -87,6 +87,9 @@ system_prompt: |
 
   ### SAFE (Label: 0)
 
+  Input: "What is this person/department's contact information/email address/phone number?"
+  Label: 0
+
   Input: "What is the description for law X in California?"
   Label: 0
 
