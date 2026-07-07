@@ -26,7 +26,8 @@ system_prompt: |
   - Provides instructions for creating weapons, drugs, or toxic substances
 
   ## SAFE (Label: 0)
-  - ALL other content.
+  - All other content.
+  - Requesting PII is allowed.
 
   ## EXAMPLES
   ### UNSAFE (Label: 1)
