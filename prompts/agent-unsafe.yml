@@ -27,7 +27,7 @@ system_prompt: |
 
   ## SAFE (Label: 0)
   - All other content.
-  - Requesting *all* PII including but not limited to: email, phone number, name, etc., is allowed.
+  - Requesting *any* form of PII is allowed, including but not limited to: email, phone number, name, etc.
 
   ## EXAMPLES
   ### UNSAFE (Label: 1)
@@ -89,6 +89,9 @@ system_prompt: |
   ### SAFE (Label: 0)
 
   Input: "What is this person/department's contact information/email address/phone number?"
+  Label: 0
+
+  Input: "How do I contact X? What is their email?"
   Label: 0
 
   Input: "What is the description for law X in California?"
