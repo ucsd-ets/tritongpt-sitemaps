@@ -15,10 +15,10 @@
 <url><loc>https://haas.berkeley.edu/about/at-a-glance/history/</loc></url>
 <url><loc>https://haas.berkeley.edu/about/at-a-glance/our-campus/</loc></url>
 <url><loc>https://haas.berkeley.edu/about/contact/</loc></url>
-<url><loc>https://haas.berkeley.edu/about/deans-speaker-series/</loc></url>
 <url><loc>https://haas.berkeley.edu/about/leadership/</loc></url>
 <url><loc>https://haas.berkeley.edu/about/leadership/about-the-dean/</loc></url>
 <url><loc>https://haas.berkeley.edu/about/leadership/school-board/</loc></url>
+<url><loc>https://haas.berkeley.edu/about/leading-at-the-edge/</loc></url>
 <url><loc>https://haas.berkeley.edu/about/the-haas-difference/</loc></url>
 <url><loc>https://haas.berkeley.edu/about/the-haas-difference/developing-leaders/</loc></url>
 <url><loc>https://haas.berkeley.edu/about/the-haas-difference/diversity/</loc></url>
@@ -100,7 +100,6 @@
 <url><loc>https://haas.berkeley.edu/academic-area/accounting/</loc></url>
 <url><loc>https://haas.berkeley.edu/academic-area/business-and-public-policy/</loc></url>
 <url><loc>https://haas.berkeley.edu/academic-area/business-and-social-impact/</loc></url>
-<url><loc>https://haas.berkeley.edu/academic-area/center-for-equity-gender-and-leadership-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/academic-area/center-for-financial-reporting-management/</loc></url>
 <url><loc>https://haas.berkeley.edu/academic-area/center-for-responsible-business/</loc></url>
 <url><loc>https://haas.berkeley.edu/academic-area/center-for-social-sector-leadership/</loc></url>
@@ -823,8 +822,8 @@
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/cle-workshop-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/continuous-learning-events-workshop-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/instructional-support/</loc></url>
-<url><loc>https://haas.berkeley.edu/cte/teaching-resources/key-teaching-topics-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/reference-library/</loc></url>
+<url><loc>https://haas.berkeley.edu/cte/teaching-resources/top-teachers-short-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/workshops-and-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/culture/</loc></url>
 <url><loc>https://haas.berkeley.edu/culture/about/</loc></url>
@@ -1610,9 +1609,8 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-242/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-243/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-244/</loc></url>
+<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-245/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-246/</loc></url>
-<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-247/</loc></url>
-<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-248/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-249/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-250/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-251/</loc></url>
@@ -3989,6 +3987,7 @@
 <url><loc>https://haas.berkeley.edu/faculty/laura-chioda/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/laura-paxton-hassner/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/laura-weiwu/</loc></url>
+<url><loc>https://haas.berkeley.edu/faculty/leah-spelman/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/lee-thomas/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/leipzig-adam/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/leland-hayne/</loc></url>
@@ -4010,9 +4009,9 @@
 <url><loc>https://haas.berkeley.edu/faculty/macpherson-kimberly/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/madhavan-ananth/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/manso-gustavo/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/marcel-bogers/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/marcelo-olivares/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/marco-gonzalez-navarro/</loc></url>
+<url><loc>https://haas.berkeley.edu/faculty/margaret-lee/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/maria-dieci/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/marianna-kudlyak/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/mario-alvarez/</loc></url>
@@ -4039,7 +4038,6 @@
 <url><loc>https://haas.berkeley.edu/faculty/meredith-fowlie/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/metzler-jon/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/meyer-alison/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/michael-callen/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/mike-katz/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/miller-conrad/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/mina-mirazimi/</loc></url>
@@ -4073,7 +4071,6 @@
 <url><loc>https://haas.berkeley.edu/faculty/oneill-maura/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/opdendyk-terry/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/pablo-a-celhay/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/pablo-balan/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/panos-n-patatoukas/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/paolinda-medina/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/park-sinchaisri/</loc></url>
