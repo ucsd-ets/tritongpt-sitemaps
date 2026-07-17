@@ -782,6 +782,7 @@
 <url><loc>https://haas.berkeley.edu/cssl/academics/faculty/jorge-calderon/</loc></url>
 <url><loc>https://haas.berkeley.edu/cssl/academics/faculty/kristin-richmond/</loc></url>
 <url><loc>https://haas.berkeley.edu/cssl/academics/faculty/lynne-lamarca-heinrich/</loc></url>
+<url><loc>https://haas.berkeley.edu/cssl/academics/faculty/meg-garlinghouse/</loc></url>
 <url><loc>https://haas.berkeley.edu/cssl/academics/faculty/omri-even-tov/</loc></url>
 <url><loc>https://haas.berkeley.edu/cssl/academics/faculty/shivani-garg-patel/</loc></url>
 <url><loc>https://haas.berkeley.edu/cssl/academics/faculty/si-fellows-visiting-scholars/</loc></url>
@@ -822,7 +823,7 @@
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/cle-workshop-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/continuous-learning-events-workshop-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/instructional-support/</loc></url>
-<url><loc>https://haas.berkeley.edu/cte/teaching-resources/reference-library/</loc></url>
+<url><loc>https://haas.berkeley.edu/cte/teaching-resources/key-teaching-topics-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/top-teachers-short-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/workshops-and-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/culture/</loc></url>
@@ -1611,6 +1612,7 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-244/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-245/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-246/</loc></url>
+<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-247/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-249/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-250/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-251/</loc></url>
@@ -4523,6 +4525,7 @@
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/collusion/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/cooperatives/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/corporate-social-responsibility/</loc></url>
+<url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/cryptocurrency/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/digital-collateral/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/disability/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/entrepreneurs/</loc></url>
@@ -4535,6 +4538,7 @@
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/financial-literacy/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/foundation-ownership/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/health/</loc></url>
+<url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/humanitarian-aid/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/impact-investing/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/inclusive-fintech/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/latin-america/</loc></url>
@@ -4547,9 +4551,11 @@
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/ownership/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/personal-finance/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/research/</loc></url>
+<url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/sdgs/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/shared-ownership/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/smes/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/social-impact/</loc></url>
+<url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/stablecoins/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/sustainability/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/visually-impaired/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/worker-cooperatives/</loc></url>
@@ -4580,6 +4586,7 @@
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/pilot-crypto-wallet-and-remittance-service-for-unbanked-venezuelan-refugees/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/prioritizing-mental-health-in-the-workplace/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/sme-credit-card-usage/</loc></url>
+<url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/stablecoins-for-good/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/takeaways-after-the-emerge-voices-of-change-financial-health-conference/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/testing-financial-innovations-increasing-loan-repayment-using-digital-collateral-voxdev/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts/the-ai-bias-problem-and-how-fintechs-should-be-fighting-it-a-deep-dive-with-sam-farao/</loc></url>
