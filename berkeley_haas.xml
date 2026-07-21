@@ -821,10 +821,10 @@
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/workshop-archive/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/cle-workshop-videos/</loc></url>
-<url><loc>https://haas.berkeley.edu/cte/teaching-resources/continuous-learning-events-workshop-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/instructional-support/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/key-teaching-topics-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/reference-library/</loc></url>
+<url><loc>https://haas.berkeley.edu/cte/teaching-resources/top-teachers-short-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/workshops-and-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/culture/</loc></url>
 <url><loc>https://haas.berkeley.edu/culture/about/</loc></url>
@@ -1605,8 +1605,6 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-237/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-238/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-239/</loc></url>
-<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-240/</loc></url>
-<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-241/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-242/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-243/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-244/</loc></url>
@@ -2457,6 +2455,7 @@
 <url><loc>https://haas.berkeley.edu/event/east-bay-alumni-tax-strategies-for-charitable-giving/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/east-bay-alumni-the-thanksgiving-play-at-the-altarena-playhouse/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/east-bay-alumni-the-wisdom-of-eve-at-the-altarena-playhouse-2/</loc></url>
+<url><loc>https://haas.berkeley.edu/event/east-bay-alumni-tilden-regional-park-hike/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/east-bay-alumni-wildcat-canyon-belgum-trail-loop-hike/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/east-bay-alumni-wildcat-peak-trail-hike/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/east-bay-alumni/</loc></url>
@@ -3016,6 +3015,7 @@
 <url><loc>https://haas.berkeley.edu/event/san-francisco-alumni-bhan-sf-chapter-meeting-in-person/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/san-francisco-alumni-bhan-sf-chapter-meeting/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/san-francisco-alumni-bhan-sf-new-year-happy-hour-at-the-top-of-the-transamerica-pyramid/</loc></url>
+<url><loc>https://haas.berkeley.edu/event/san-francisco-alumni-bhan-sf-night-at-oracle-park-go-giants/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/san-francisco-alumni-bhan-sf-opening-night-at-the-nutcracker/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/san-francisco-alumni-big-give-haas-virtual-raffle-and-auction/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/san-francisco-alumni-celebrate-the-festival-of-lights-diwali-with-fellow-alum/</loc></url>
@@ -4502,14 +4502,6 @@
 <url><loc>https://haas.berkeley.edu/ibi/research/projects/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibi/research/projects/berkeley-economic-impact/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibi/research/publications/</loc></url>
-<url><loc>https://haas.berkeley.edu/ibsi-ownership-initiative/</loc></url>
-<url><loc>https://haas.berkeley.edu/ibsi-ownership-initiative/about/</loc></url>
-<url><loc>https://haas.berkeley.edu/ibsi-ownership-initiative/about/contact/</loc></url>
-<url><loc>https://haas.berkeley.edu/ibsi-ownership-initiative/about/people/</loc></url>
-<url><loc>https://haas.berkeley.edu/ibsi-ownership-initiative/curriculum/</loc></url>
-<url><loc>https://haas.berkeley.edu/ibsi-ownership-initiative/events/</loc></url>
-<url><loc>https://haas.berkeley.edu/ibsi-ownership-initiative/for-students/</loc></url>
-<url><loc>https://haas.berkeley.edu/ibsi-ownership-initiative/research/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/about-the-institute/blog/posts-tag/accessibility/</loc></url>
@@ -5008,8 +5000,6 @@
 <url><loc>https://haas.berkeley.edu/lift/events/promoting-financial-inclusion-and-innovation-in-latin-america/</loc></url>
 <url><loc>https://haas.berkeley.edu/lift/events/promoting-financial-inclusion-and-innovation-in-latin-america/agenda/</loc></url>
 <url><loc>https://haas.berkeley.edu/lift/for-students/</loc></url>
-<url><loc>https://haas.berkeley.edu/lift/for-students/fintech-for-social-good-initiative/</loc></url>
-<url><loc>https://haas.berkeley.edu/lift/for-students/fintech-for-social-good-initiative/pastwinners/</loc></url>
 <url><loc>https://haas.berkeley.edu/lift/research/</loc></url>
 <url><loc>https://haas.berkeley.edu/lift/speaker-registration/</loc></url>
 <url><loc>https://haas.berkeley.edu/manager-toolkit/</loc></url>
@@ -6544,6 +6534,11 @@
 <url><loc>https://haas.berkeley.edu/undergrad/student-experience/haas-base-camp/</loc></url>
 <url><loc>https://haas.berkeley.edu/undergrad/student-experience/new-bay-area/</loc></url>
 <url><loc>https://haas.berkeley.edu/undergrad/student-experience/student-government-organizations/</loc></url>
+<url><loc>https://haas.berkeley.edu/wise-lab/about/</loc></url>
+<url><loc>https://haas.berkeley.edu/wise-lab/about/contact/</loc></url>
+<url><loc>https://haas.berkeley.edu/wise-lab/about/people/</loc></url>
+<url><loc>https://haas.berkeley.edu/wise-lab/events/</loc></url>
+<url><loc>https://haas.berkeley.edu/wise-lab/for-students/</loc></url>
 <url><loc>https://haas.berkeley.edu/wordpress-template-guide/basic-text/</loc></url>
 <url><loc>https://haas.berkeley.edu/wordpress-template-guide/content-gallery/olivia-sunshine/</loc></url>
 <url><loc>https://haas.berkeley.edu/workplace-mental-health-initiative/</loc></url>
