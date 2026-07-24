@@ -195,7 +195,6 @@
 <url><loc>https://haas.berkeley.edu/alumni/career/undergraduate-and-graduate/mid-career-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/career/undergraduate-and-graduate/tools-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/connections/chapters/</loc></url>
-<url><loc>https://haas.berkeley.edu/alumni/connections/slack-workspace/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/contact-us/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/contact-us/leadership/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/events/</loc></url>
@@ -531,9 +530,6 @@
 <url><loc>https://haas.berkeley.edu/cmg/career-essentials/strategizing-your-search/</loc></url>
 <url><loc>https://haas.berkeley.edu/cmg/cmg-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/cmg/cmg-resources/cmg-career-coaching-programs-team/</loc></url>
-<url><loc>https://haas.berkeley.edu/cmg/cmg-resources/ftmba-summer-workshops/</loc></url>
-<url><loc>https://haas.berkeley.edu/cmg/cmg-resources/ftmba-summer-workshops/ftmba-summer-2025-consulting-workshop-copy/</loc></url>
-<url><loc>https://haas.berkeley.edu/cmg/cmg-resources/ftmba-summer-workshops/ftmba-summer-2026-product-management-workshops-copy/</loc></url>
 <url><loc>https://haas.berkeley.edu/cmg/cmg-resources/tools/</loc></url>
 <url><loc>https://haas.berkeley.edu/cmg/diversity-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/cmg/diversity-resources/black/</loc></url>
@@ -915,6 +911,7 @@
 <url><loc>https://haas.berkeley.edu/current-mfe-students/current-students/computer-support/</loc></url>
 <url><loc>https://haas.berkeley.edu/current-mfe-students/current-students/contact/</loc></url>
 <url><loc>https://haas.berkeley.edu/current-mfe-students/current-students/fesa/</loc></url>
+<url><loc>https://haas.berkeley.edu/current-mfe-students/current-students/graduation/</loc></url>
 <url><loc>https://haas.berkeley.edu/current-mfe-students/current-students/jobs/</loc></url>
 <url><loc>https://haas.berkeley.edu/current-mfe-students/current-students/life/</loc></url>
 <url><loc>https://haas.berkeley.edu/current-mfe-students/current-students/part-time/</loc></url>
@@ -1566,13 +1563,12 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/csem-wp-193/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/working-paper-abstract-171/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/working-paper-abstract-189/</loc></url>
-<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/working-paper-abstract-264/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/working-papers-356/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-200/</loc></url>
-<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-201r/</loc></url>
-<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-202r/</loc></url>
+<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-201/</loc></url>
+<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-202/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-203/</loc></url>
-<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-204r/</loc></url>
+<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-204/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-205/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-206/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-207/</loc></url>
@@ -1594,7 +1590,6 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-223r/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-224/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-225/</loc></url>
-<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-226/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-228r/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-229/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-230/</loc></url>
@@ -1631,6 +1626,7 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-261/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-262/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-263/</loc></url>
+<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-264/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-265/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-266/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-267/</loc></url>
@@ -4067,6 +4063,7 @@
 <url><loc>https://haas.berkeley.edu/faculty/nelson-leif/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/ni-trieu/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nick-tsivanidis/</loc></url>
+<url><loc>https://haas.berkeley.edu/faculty/nikita-kohli/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nils-hellmer/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nina-roussille/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nirupama-kulkarni/</loc></url>
@@ -4604,6 +4601,7 @@
 <url><loc>https://haas.berkeley.edu/ibsi/research/ai-enhanced-public-procurement-sme-access-and-buyer-targeting-in-chile/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/air-conditioning-adoption/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/air-conditioning-and-inequality/</loc></url>
+<url><loc>https://haas.berkeley.edu/ibsi/research/alleviating-price-and-information-barriers-to-long-acting-contraception-uptake-in-kenyan-pharmacies-using-patient-and-provider-incentives-a-cluster-randomized-control-trial/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/analysis-of-expert-interviews-on-staffing-co-ops-and-umbrella-groups/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/analysis-of-the-association-of-cooperative-labor-contractors-aclc/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/attribute-inference-protection-for-data-sharing/</loc></url>
@@ -4660,6 +4658,7 @@
 <url><loc>https://haas.berkeley.edu/ibsi/research/private-collaborative-learning-for-poverty-predictions/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/promoting-smes-online-presence-and-digital-payments-in-uganda-seed-scale-up/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/reducing-debt-burden-among-low-income-households-during-periods-of-high-inflation/</loc></url>
+<url><loc>https://haas.berkeley.edu/ibsi/research/relational-contracts-and-wage-disputes/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/revolutionizing-financial-inclusion-ai-powered-personalized-support-for-last-mile-banking/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/revolving-credit-to-smes-the-role-of-business-credit-cards/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/screening-with-cash-deposits-in-digital-credit-markets/</loc></url>
@@ -5239,6 +5238,7 @@
 <url><loc>https://haas.berkeley.edu/open-innovation/team/open-innovation-advisory-board/stefania-maria-filippo/</loc></url>
 <url><loc>https://haas.berkeley.edu/open-innovation/team/open-innovation-advisory-board/vanhaverbeke-wim/</loc></url>
 <url><loc>https://haas.berkeley.edu/open-innovation/team/open-innovation-advisory-board/verhoeve-piet/</loc></url>
+<url><loc>https://haas.berkeley.edu/open-innovation/team/open-innovation-advisory-board/wallace-martin/</loc></url>
 <url><loc>https://haas.berkeley.edu/open-innovation/team/open-innovation-advisory-board/wardhan-harsh/</loc></url>
 <url><loc>https://haas.berkeley.edu/open-innovation/team/open-innovation-advisory-board/weil-joffe-jelena/</loc></url>
 <url><loc>https://haas.berkeley.edu/open-innovation/team/open-innovation-advisory-board/west-joel/</loc></url>
