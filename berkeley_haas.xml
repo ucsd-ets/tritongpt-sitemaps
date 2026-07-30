@@ -197,7 +197,6 @@
 <url><loc>https://haas.berkeley.edu/alumni/career/undergraduate-and-graduate/mid-career-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/career/undergraduate-and-graduate/tools-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/connections/chapters/</loc></url>
-<url><loc>https://haas.berkeley.edu/alumni/connections/slack-workspace/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/contact-us/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/contact-us/leadership/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/events/</loc></url>
@@ -260,6 +259,12 @@
 <url><loc>https://haas.berkeley.edu/ase/for-students/forms-checklists/</loc></url>
 <url><loc>https://haas.berkeley.edu/ase/for-students/performance-evaluation/</loc></url>
 <url><loc>https://haas.berkeley.edu/ase/for-students/responsibilities-job-descriptions/</loc></url>
+<url><loc>https://haas.berkeley.edu/b-hive-lab/about-us/</loc></url>
+<url><loc>https://haas.berkeley.edu/b-hive-lab/about-us/contact-us/</loc></url>
+<url><loc>https://haas.berkeley.edu/b-hive-lab/about-us/our-team/</loc></url>
+<url><loc>https://haas.berkeley.edu/b-hive-lab/events/</loc></url>
+<url><loc>https://haas.berkeley.edu/b-hive-lab/for-students/</loc></url>
+<url><loc>https://haas.berkeley.edu/b-hive-lab/research/</loc></url>
 <url><loc>https://haas.berkeley.edu/bcep/</loc></url>
 <url><loc>https://haas.berkeley.edu/bcep/about/</loc></url>
 <url><loc>https://haas.berkeley.edu/bcep/conferences-seminars/</loc></url>
@@ -821,9 +826,9 @@
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/workshop-archive/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/cle-workshop-videos/</loc></url>
+<url><loc>https://haas.berkeley.edu/cte/teaching-resources/continuous-learning-events-workshop-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/instructional-support/</loc></url>
-<url><loc>https://haas.berkeley.edu/cte/teaching-resources/reference-library/</loc></url>
-<url><loc>https://haas.berkeley.edu/cte/teaching-resources/top-teachers-short-videos/</loc></url>
+<url><loc>https://haas.berkeley.edu/cte/teaching-resources/key-teaching-topics-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/workshops-and-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/culture/</loc></url>
 <url><loc>https://haas.berkeley.edu/culture/about/</loc></url>
@@ -910,11 +915,11 @@
 <url><loc>https://haas.berkeley.edu/current-mfe-students/current-students/academics/graduation/</loc></url>
 <url><loc>https://haas.berkeley.edu/current-mfe-students/current-students/academics/independent-study/</loc></url>
 <url><loc>https://haas.berkeley.edu/current-mfe-students/current-students/academics/policies/</loc></url>
-<url><loc>https://haas.berkeley.edu/current-mfe-students/current-students/computer-support/</loc></url>
 <url><loc>https://haas.berkeley.edu/current-mfe-students/current-students/contact/</loc></url>
 <url><loc>https://haas.berkeley.edu/current-mfe-students/current-students/fesa/</loc></url>
 <url><loc>https://haas.berkeley.edu/current-mfe-students/current-students/graduation/</loc></url>
 <url><loc>https://haas.berkeley.edu/current-mfe-students/current-students/jobs/</loc></url>
+<url><loc>https://haas.berkeley.edu/current-mfe-students/current-students/life/</loc></url>
 <url><loc>https://haas.berkeley.edu/current-mfe-students/current-students/part-time/</loc></url>
 <url><loc>https://haas.berkeley.edu/current-mfe-students/current-students/policies/</loc></url>
 <url><loc>https://haas.berkeley.edu/current-mfe-students/current-students/policies/internationalstudents/</loc></url>
@@ -1166,6 +1171,7 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/about/in-the-media/lucas-davis-ev-political-correlation/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/about/in-the-media/lucas-davis-on-ev-registration-partisan-divides/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/about/in-the-media/lucas-davis-on-the-economics-of-heat-pumps-and-californias-power-rates/</loc></url>
+<url><loc>https://haas.berkeley.edu/energy-institute/about/in-the-media/lucas-davis-on-the-politics-of-electric-vehicle-adoption/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/about/in-the-media/lucas-davis-on-the-rising-public-and-private-support-for-nuclear-power/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/about/in-the-media/meredith-fowlie-battery-storage-systems/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/about/in-the-media/meredith-fowlie-climate-change-insurance/</loc></url>
@@ -1293,6 +1299,7 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/about/people/karen-notsund/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/about/people/kelsey-jack/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/about/people/lucas-davis/</loc></url>
+<url><loc>https://haas.berkeley.edu/energy-institute/about/people/maura-mooney/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/about/people/maximilian-auffhammer/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/about/people/meredith-fowlie/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/about/people/paige-weber/</loc></url>
@@ -1591,7 +1598,6 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-223r/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-224/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-225/</loc></url>
-<url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-227/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-228r/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-229/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/abstracts/wp-230/</loc></url>
@@ -3689,6 +3695,7 @@
 <url><loc>https://haas.berkeley.edu/ewmba/newadmit/we-launch-2026/videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/ewmba/newadmit/we-launch-2026/we-launch-2022-schedule/</loc></url>
 <url><loc>https://haas.berkeley.edu/ewmba/newadmit/we-launch-2026/we-launch-2023-schedule/</loc></url>
+<url><loc>https://haas.berkeley.edu/ewmba/newadmit/we-launch-2026/we-launch-2026-session-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/ewmba/newadmit/we-launch-2026/we-launch-2026-tools-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/ewmba/resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/ewmba/student-experience/</loc></url>
@@ -4361,6 +4368,7 @@
 <url><loc>https://haas.berkeley.edu/financial-aid/mba-for-executives/other-funding-options/</loc></url>
 <url><loc>https://haas.berkeley.edu/financial-aid/mba-for-executives/other-funding-options/veterans-benefits/</loc></url>
 <url><loc>https://haas.berkeley.edu/food-systems-innovation/</loc></url>
+<url><loc>https://haas.berkeley.edu/food-systems-innovation/academic/</loc></url>
 <url><loc>https://haas.berkeley.edu/food-systems-innovation/summit/</loc></url>
 <url><loc>https://haas.berkeley.edu/for-current-students/</loc></url>
 <url><loc>https://haas.berkeley.edu/for-faculty/</loc></url>
