@@ -1037,6 +1037,7 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/about/announcements/announcements-safavi-buchsbaum/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/about/announcements/announcements-safavi-completes-phd/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/about/announcements/announcements-sallee/</loc></url>
+<url><loc>https://haas.berkeley.edu/energy-institute/about/announcements/announcementskarenandnewteammembers/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/about/announcements/anti-racism/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/about/announcements/associate-director-search/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/about/announcements/auffhammer-cheit-award-2/</loc></url>
@@ -2882,6 +2883,7 @@
 <url><loc>https://haas.berkeley.edu/event/portland-alumni-ai-today-tomorrow-and-beyond-preparing-for-the-future-of-work/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/portland-alumni-fall-happy-hour-haas-admissions-event/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/portland-alumni-holiday-happy-hour/</loc></url>
+<url><loc>https://haas.berkeley.edu/event/portland-alumni-portland-haas-alumni-community-social/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/portland-alumni-summer-happy-hour/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/portland-alumni-winter-happy-hour/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/portland-oregon-alumni-portland-haas-alumni-student-meet-greet/</loc></url>
@@ -3782,7 +3784,6 @@
 <url><loc>https://haas.berkeley.edu/faculty/ambar-la-forgia/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/amy-chan/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/ana-maria-montoya/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/ana-torres/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/anastassia-fedyk/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/anderson-cameron/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/ann-harrison/</loc></url>
@@ -3996,7 +3997,6 @@
 <url><loc>https://haas.berkeley.edu/faculty/k-mackenzie-scott/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/kai-adams/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/kamada-yuichiro/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/karline-grodal/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/kass-edward/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/katherine-melchior-ray/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/kathy-copic/</loc></url>
@@ -4047,7 +4047,6 @@
 <url><loc>https://haas.berkeley.edu/faculty/maria-dieci/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/marianna-kudlyak/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/mario-alvarez/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/marit-christensen/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/mark-adams/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/mark-chu/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/mark-coopersmith/</loc></url>
@@ -4070,7 +4069,9 @@
 <url><loc>https://haas.berkeley.edu/faculty/melissa-jancourt/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/meredith-fowlie/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/metzler-jon/</loc></url>
+<url><loc>https://haas.berkeley.edu/faculty/meyebinesso-farida-carelle-pere/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/meyer-alison/</loc></url>
+<url><loc>https://haas.berkeley.edu/faculty/michael-callen/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/mike-katz/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/miller-conrad/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/mina-mirazimi/</loc></url>
@@ -4093,7 +4094,6 @@
 <url><loc>https://haas.berkeley.edu/faculty/nick-tsivanidis/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nikita-kohli/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nils-hellmer/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/nina-roussille/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nirupama-kulkarni/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nitin-kohli/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/noam-yuchtman/</loc></url>
@@ -4631,6 +4631,8 @@
 <url><loc>https://haas.berkeley.edu/ibsi/research/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/access-to-business-credit-migrante/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/ai-enhanced-public-procurement-sme-access-and-buyer-targeting-in-chile/</loc></url>
+<url><loc>https://haas.berkeley.edu/ibsi/research/ai-for-fintech-borrowers-no-credit-history/</loc></url>
+<url><loc>https://haas.berkeley.edu/ibsi/research/ai-wellness-tool/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/air-conditioning-adoption/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/air-conditioning-and-inequality/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/alleviating-price-and-information-barriers-to-long-acting-contraception-uptake-in-kenyan-pharmacies-using-patient-and-provider-incentives-a-cluster-randomized-control-trial/</loc></url>
@@ -4653,13 +4655,11 @@
 <url><loc>https://haas.berkeley.edu/ibsi/research/dynastic-home-equity/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/e-collateral-expanding-access-to-credit-through-digital-repossession/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/enabling-humanitarian-applications-with-targeted-differential-privacy/</loc></url>
-<url><loc>https://haas.berkeley.edu/ibsi/research/evaluation-of-university-health-services-uhs-stepped-care-solutions/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/examining-the-feasibility-of-a-worker-ownership-conversion-ai-chatbot/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/expanding-perspectives-on-data-privacy-insights-from-rural-togo/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/experiments-about-institutions/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/fintech-regulation-in-the-united-states-past-present-and-future/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/gdpr-ccpa-privacy-regulation-and-data-rights-framework/</loc></url>
-<url><loc>https://haas.berkeley.edu/ibsi/research/gender-differentiated-digital-credit-algorithms-using-machine-learning/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/global-sustainability-frontrunners-lessons-from-the-nordics/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/good-reputation-expanding-access-to-credit-leveraging-reputational-and-social-network-data/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/heat-exposure-and-global-air-conditioning/</loc></url>
@@ -4677,7 +4677,8 @@
 <url><loc>https://haas.berkeley.edu/ibsi/research/local-elites-as-state-capacity-how-city-chiefs-use-local-information-to-increase-tax-compliance-in-the-democratic-republic-of-the-congo/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/long-run-effects-of-temporary-incentives-on-medical-care-productivity/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/majority-members-misperceive-even-win-win-diversity-policies-as-unbeneficial-to-them/</loc></url>
-<url><loc>https://haas.berkeley.edu/ibsi/research/making-entrepreneurs-returns-to-training-youth-in-hard-versus-soft-business-skills/</loc></url>
+<url><loc>https://haas.berkeley.edu/ibsi/research/making-entrepreneurs-long-term-returns/</loc></url>
+<url><loc>https://haas.berkeley.edu/ibsi/research/making-entrepreneurs/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/material-esg-alpha-a-fundamentals-based-perspective/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/mortality-from-nestles-marketing-of-infant-formula-in-low-and-middle-income-countries/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/new-players-in-fintech-markets/</loc></url>
@@ -4689,7 +4690,6 @@
 <url><loc>https://haas.berkeley.edu/ibsi/research/partnership-with-mental-health-services-oversight-accountability-commission/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/precarious-manhood-increases-mens-receptivity-to-social-sexual-behavior-from-attractive-women-at-work/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/private-collaborative-learning-for-poverty-predictions/</loc></url>
-<url><loc>https://haas.berkeley.edu/ibsi/research/promoting-smes-online-presence-and-digital-payments-in-uganda-seed-scale-up/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/reducing-debt-burden-among-low-income-households-during-periods-of-high-inflation/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/relational-contracts-and-wage-disputes/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/revolutionizing-financial-inclusion-ai-powered-personalized-support-for-last-mile-banking/</loc></url>
