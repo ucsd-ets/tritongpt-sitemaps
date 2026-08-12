@@ -475,9 +475,6 @@
     <loc>https://policy.ucop.edu/doc/3420330?.pdf</loc>
   </url>
   <url>
-    <loc>https://policy.ucop.edu/doc/3420331?.pdf</loc>
-  </url>
-  <url>
     <loc>https://policy.ucop.edu/doc/3400362?.pdf</loc>
   </url>
   <url>
@@ -802,9 +799,6 @@
     <loc>https://policy.ucop.edu/doc/2700626?.pdf</loc>
   </url>
   <url>
-    <loc>https://policy.ucop.edu/doc/4000378?.pdf</loc>
-  </url>
-  <url>
     <loc>https://policy.ucop.edu/doc/2700509?.pdf</loc>
   </url>
   <url>
@@ -835,7 +829,13 @@
     <loc>https://policy.ucop.edu/doc/1100158?.pdf</loc>
   </url>
   <url>
+    <loc>https://policy.ucop.edu/doc/3501379?.pdf</loc>
+  </url>
+  <url>
     <loc>https://policy.ucop.edu/doc/1100616?.pdf</loc>
+  </url>
+  <url>
+    <loc>https://policy.ucop.edu/doc/1110588?.pdf</loc>
   </url>
   <url>
     <loc>https://policy.ucop.edu/doc/1110167?.pdf</loc>
@@ -893,12 +893,6 @@
   </url>
   <url>
     <loc>https://policy.ucop.edu/doc/3511292?.pdf</loc>
-  </url>
-  <url>
-    <loc>https://policy.ucop.edu/doc/2500496?.pdf</loc>
-  </url>
-  <url>
-    <loc>https://policy.ucop.edu/doc/2700689?.pdf</loc>
   </url>
   <url>
     <loc>https://policy.ucop.edu/doc/2300651?.pdf</loc>
@@ -974,6 +968,9 @@
   </url>
   <url>
     <loc>https://policy.ucop.edu/doc/3410260?.pdf</loc>
+  </url>
+  <url>
+    <loc>https://policy.ucop.edu/doc/2710605?.pdf</loc>
   </url>
   <url>
     <loc>https://policy.ucop.edu/doc/2710530?.pdf</loc>
@@ -1063,6 +1060,12 @@
     <loc>https://policy.ucop.edu/doc/2710641?.pdf</loc>
   </url>
   <url>
+    <loc>https://policy.ucop.edu/doc/2700689?.pdf</loc>
+  </url>
+  <url>
+    <loc>https://policy.ucop.edu/doc/2710606?.pdf</loc>
+  </url>
+  <url>
     <loc>https://policy.ucop.edu/doc/2710686?.pdf</loc>
   </url>
   <url>
@@ -1103,6 +1106,15 @@
   </url>
   <url>
     <loc>https://policy.ucop.edu/doc/1100655?.pdf</loc>
+  </url>
+  <url>
+    <loc>https://policy.ucop.edu/doc/4030654?.pdf</loc>
+  </url>
+  <url>
+    <loc>https://policy.ucop.edu/doc/4050657?.pdf</loc>
+  </url>
+  <url>
+    <loc>https://policy.ucop.edu/doc/4040662?.pdf</loc>
   </url>
   <url>
     <loc>https://policy.ucop.edu/doc/4010574?.pdf</loc>
@@ -1234,16 +1246,7 @@
     <loc>https://policy.ucop.edu/doc/4010422?.pdf</loc>
   </url>
   <url>
-    <loc>https://policy.ucop.edu/doc/4050657?.pdf</loc>
-  </url>
-  <url>
     <loc>https://policy.ucop.edu/doc/4000609?.pdf</loc>
-  </url>
-  <url>
-    <loc>https://policy.ucop.edu/doc/4030654?.pdf</loc>
-  </url>
-  <url>
-    <loc>https://policy.ucop.edu/doc/4040662?.pdf</loc>
   </url>
   <url>
     <loc>https://policy.ucop.edu/doc/4010576?.pdf</loc>
@@ -1307,6 +1310,12 @@
   </url>
   <url>
     <loc>https://policy.ucop.edu/doc/6000444?.pdf</loc>
+  </url>
+  <url>
+    <loc>https://policy.ucop.edu/doc/3420331?.pdf</loc>
+  </url>
+  <url>
+    <loc>https://policy.ucop.edu/doc/2500496?.pdf</loc>
   </url>
   <url>
     <loc>https://policy.ucop.edu/doc/5000685?.pdf</loc>
@@ -1390,6 +1399,9 @@
     <loc>https://policy.ucop.edu/doc/2500700?.pdf</loc>
   </url>
   <url>
+    <loc>https://policy.ucop.edu/doc/2101350?.pdf</loc>
+  </url>
+  <url>
     <loc>https://policy.ucop.edu/doc/3500671?.pdf</loc>
   </url>
   <url>
@@ -1439,8 +1451,5 @@
   </url>
   <url>
     <loc>https://policy.ucop.edu/doc/1100665?.pdf</loc>
-  </url>
-  <url>
-    <loc>https://security.ucop.edu/files/documents/uc-protection-level-classification-guide.pdf</loc>
   </url>
 </urlset>

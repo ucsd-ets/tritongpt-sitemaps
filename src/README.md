@@ -167,6 +167,14 @@ $ python3 manual.py --download-url https://example.com/file.xls --download-dest 
 $ python3 manual.py --download-url https://example.com/file.xls --download-dest local-dir/file.xls --convert-to-csv --directory local-dir --base-url https://raw.githubusercontent.com/user/repo/main --url-prefix local-dir --output sitemap.xml
 ```
 
+#### Update the UCOP policies sitemap
+
+Generate `ucop_policies.xml` from UCOP's complete policy search results:
+
+```bash
+python3 src/update_ucop_policies.py
+```
+
 ## Docker usage
 
 #### Build the Docker image:
