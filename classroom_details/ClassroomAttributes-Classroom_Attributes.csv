@@ -240,13 +240,13 @@ IN","FS-P - Freestanding, anchored to floor
 TT - Tabletop",1 (Standard),A - Analog,2
 Peterson Hall,110,PETER 110,1,2933,328,Lecture Hall,Yes,Yes,Yes,C/C/T - Cement/Carpet/Tile,FN - Fixed and Numbered,N/A,Yes,C - Chalk 48' x 4' (1),Yes (>12'),G - Good,Good,None,,,"FL, Dimmable
 IN, Dimmable","FS-P - Freestanding, anchored to floor",1 (Standard),A - Analog,2
-Podemos,0132,PODEM 0132,1,1216,44,Classroom,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,Limited (8-12'),G - Good,N/A,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
-Podemos,0133,PODEM 0133,1,1234,46,Classroom,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,No (8'),G - Good,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
-Podemos,1A18,PODEM 1A18,1,2439,96,Lecture Hall,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,Yes (>12'),G - Good,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
-Podemos,1A19,PODEM 1A19,1,2376,90,Lecture Hall,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,Yes (>12'),G - Good,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
-Podemos,1A20,PODEM 1A20,1,2408,104,Lecture Hall,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,Yes (>12'),G - Good,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
-Podemos,1A22,PODEM 1A22,1,1291,44,Classroom,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,No (8'),G - Good,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
-Podemos,1A23,PODEM 1A23,1,1238,46,Classroom,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,No (8'),G - Good,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
+Podemos,0132,PODEM 0132,01,1216,44,Classroom,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,Limited (8-12'),G - Good,N/A,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
+Podemos,0133,PODEM 0133,01,1234,46,Classroom,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,No (8'),G - Good,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
+Podemos,1A18,PODEM 1A18,01,2439,96,Lecture Hall,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,Yes (>12'),G - Good,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
+Podemos,1A19,PODEM 1A19,01,2376,90,Lecture Hall,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,Yes (>12'),G - Good,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
+Podemos,1A20,PODEM 1A20,01,2408,104,Lecture Hall,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,Yes (>12'),G - Good,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
+Podemos,1A22,PODEM 1A22,01,1291,44,Classroom,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,No (8'),G - Good,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
+Podemos,1A23,PODEM 1A23,01,1238,46,Classroom,Yes,Yes,No,CM - Cement,M - Movable,No,No,N/A,No (8'),G - Good,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",N/A,NA - None,N/A
 Price Center West,1.402,PRICE THEATRE,1,4651,481,Assembly,Yes,Yes,No,C/C - Cement/Carpet,FN - Fixed and Numbered,N/A,Yes,RC - Rolling chalk 8' x 4' (1),Limited (8-12'),G - Good,Good,None,,,"FL, Dimmable
 IN, Dimmable",FS - Freestanding,N/A,A - Analog,4
 Ridge Walk Academic Building,0103,RWAC 0103,01,1358,50,Classroom,Yes,Yes,No,T - Tile,FL - Flexible,No,No,GW - Glass white 6' x 4' (4),Yes (>12'),G - Good,Good,15,Poor,S - Shades,"FL, Dimmable","FS-P - Freestanding, anchored to floor",1 (Station),NA - None,N/A
