@@ -823,6 +823,7 @@
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/workshop-archive/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/</loc></url>
+<url><loc>https://haas.berkeley.edu/cte/teaching-resources/cle-workshop-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/continuous-learning-events-workshop-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/instructional-support/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/key-teaching-topics-2/</loc></url>
@@ -1759,7 +1760,6 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/research/jim-bushnell-on-californias-power-alerts/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/joe-shapiro-polluting-industries-studies/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/meredith-fowlie-environmental-regulation-justicellution-reduction/</loc></url>
-<url><loc>https://haas.berkeley.edu/energy-institute/research/meredith-fowlie-on-the-legacy-of-enron-in-californias-power-challenges/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/severin-borenstein-gas-california-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/severin-borenstein-on-gas-prices-in-california/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/severin-borenstein-power-grid-drought/</loc></url>
@@ -6073,6 +6073,7 @@
 <url><loc>https://haas.berkeley.edu/saif/for-students/</loc></url>
 <url><loc>https://haas.berkeley.edu/saif/for-students/competitions-and-conferences/</loc></url>
 <url><loc>https://haas.berkeley.edu/saif/for-students/networks-and-podcasts/</loc></url>
+<url><loc>https://haas.berkeley.edu/saif/for-students/sab/</loc></url>
 <url><loc>https://haas.berkeley.edu/saif/news/</loc></url>
 <url><loc>https://haas.berkeley.edu/saif/news/blog/2026-corp-climate-summit/</loc></url>
 <url><loc>https://haas.berkeley.edu/saif/news/blog/</loc></url>
@@ -6197,7 +6198,9 @@
 <url><loc>https://haas.berkeley.edu/staff-now/tools/</loc></url>
 <url><loc>https://haas.berkeley.edu/staff-productivity/</loc></url>
 <url><loc>https://haas.berkeley.edu/staff-productivity/community/</loc></url>
+<url><loc>https://haas.berkeley.edu/staff-productivity/community/connect/</loc></url>
 <url><loc>https://haas.berkeley.edu/staff-productivity/community/prompt-library/</loc></url>
+<url><loc>https://haas.berkeley.edu/staff-productivity/community/solution-library/</loc></url>
 <url><loc>https://haas.berkeley.edu/staff-productivity/reports/</loc></url>
 <url><loc>https://haas.berkeley.edu/staff-productivity/tools-and-ai/</loc></url>
 <url><loc>https://haas.berkeley.edu/sustainability-impact/</loc></url>
