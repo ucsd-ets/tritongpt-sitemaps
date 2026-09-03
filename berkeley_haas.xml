@@ -20,7 +20,6 @@
 <url><loc>https://haas.berkeley.edu/about/leadership/school-board/</loc></url>
 <url><loc>https://haas.berkeley.edu/about/leading-at-the-edge/</loc></url>
 <url><loc>https://haas.berkeley.edu/about/the-haas-difference/</loc></url>
-<url><loc>https://haas.berkeley.edu/about/the-haas-difference/developing-leaders/</loc></url>
 <url><loc>https://haas.berkeley.edu/about/the-haas-difference/diversity/</loc></url>
 <url><loc>https://haas.berkeley.edu/about/the-haas-difference/location/</loc></url>
 <url><loc>https://haas.berkeley.edu/about/the-haas-difference/our-culture/</loc></url>
@@ -827,8 +826,8 @@
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/continuous-learning-events-workshop-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/instructional-support/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/key-teaching-topics-2/</loc></url>
+<url><loc>https://haas.berkeley.edu/cte/teaching-resources/reference-library/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/top-teachers-short-videos/</loc></url>
-<url><loc>https://haas.berkeley.edu/cte/teaching-resources/workshops-and-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/culture/</loc></url>
 <url><loc>https://haas.berkeley.edu/culture/about/</loc></url>
 <url><loc>https://haas.berkeley.edu/culture/about/advisory-boards/</loc></url>
@@ -3762,6 +3761,7 @@
 <url><loc>https://haas.berkeley.edu/faculty-research/academic-groups/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty-research/faculty-recruitment/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty-research/initiatives/</loc></url>
+<url><loc>https://haas.berkeley.edu/faculty-research/nobel-laureates/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty-research/public-policy/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty-research/research-institutes-and-centers/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty-research/research-labs/</loc></url>
@@ -4290,7 +4290,6 @@
 <url><loc>https://haas.berkeley.edu/faculty/zand-arman/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/zhang-xiaojun/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/zoe-kahn/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty</loc></url>
 <url><loc>https://haas.berkeley.edu/finance-office/</loc></url>
 <url><loc>https://haas.berkeley.edu/finance-office/about-us/</loc></url>
 <url><loc>https://haas.berkeley.edu/finance-office/budget/</loc></url>
@@ -4754,6 +4753,7 @@
 <url><loc>https://haas.berkeley.edu/ibsi/research/online-images-amplify-gender-bias/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/open-data-and-open-access-to-infrastructure-public-policies-to-enable-financial-innovation-competition-and-inclusion-in-latin-america/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/partnership-with-mental-health-services-oversight-accountability-commission/</loc></url>
+<url><loc>https://haas.berkeley.edu/ibsi/research/physician-incentives-and-the-use-of-paid-sick-leave-in-chile/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/precarious-manhood-increases-mens-receptivity-to-social-sexual-behavior-from-attractive-women-at-work/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/private-collaborative-learning-for-poverty-predictions/</loc></url>
 <url><loc>https://haas.berkeley.edu/ibsi/research/reducing-debt-burden-among-low-income-households-during-periods-of-high-inflation/</loc></url>
@@ -5332,6 +5332,7 @@
 <url><loc>https://haas.berkeley.edu/open-innovation/team/open-innovation-advisory-board/marotta-luisa/</loc></url>
 <url><loc>https://haas.berkeley.edu/open-innovation/team/open-innovation-advisory-board/michalec-vladimir/</loc></url>
 <url><loc>https://haas.berkeley.edu/open-innovation/team/open-innovation-advisory-board/michaud-jerome/</loc></url>
+<url><loc>https://haas.berkeley.edu/open-innovation/team/open-innovation-advisory-board/milanes-vicente/</loc></url>
 <url><loc>https://haas.berkeley.edu/open-innovation/team/open-innovation-advisory-board/mitra-shuman/</loc></url>
 <url><loc>https://haas.berkeley.edu/open-innovation/team/open-innovation-advisory-board/moron-gomez-andres/</loc></url>
 <url><loc>https://haas.berkeley.edu/open-innovation/team/open-innovation-advisory-board/neto-filipa/</loc></url>
