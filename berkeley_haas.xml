@@ -354,6 +354,7 @@
 <url><loc>https://haas.berkeley.edu/behavioral-economics/news/newsletter-archive/</loc></url>
 <url><loc>https://haas.berkeley.edu/behavioral-economics/news/ocbe-interviews/</loc></url>
 <url><loc>https://haas.berkeley.edu/behavioral-economics/news/ocbe-interviews/hidden-costs-of-ceo-stress-interview-with-marius-guenzel/</loc></url>
+<url><loc>https://haas.berkeley.edu/behavioral-economics/news/ocbe-interviews/linking-mental-health-with-economics/</loc></url>
 <url><loc>https://haas.berkeley.edu/behavioral-economics/news/ocbe-interviews/the-no-club-lise-vesterlund/</loc></url>
 <url><loc>https://haas.berkeley.edu/behavioral-economics/news/shaping-the-future-chancellor-rich-lyons/</loc></url>
 <url><loc>https://haas.berkeley.edu/behavioral-economics/news/tackling-psychological-barriers-to-employment-in-kenya/</loc></url>
@@ -522,7 +523,8 @@
 <url><loc>https://haas.berkeley.edu/cfrm-conference/</loc></url>
 <url><loc>https://haas.berkeley.edu/cfrm-conference/agenda/</loc></url>
 <url><loc>https://haas.berkeley.edu/cfrm-conference/registration/</loc></url>
-<url><loc>https://haas.berkeley.edu/cfrm-conference/speakers-2/</loc></url>
+<url><loc>https://haas.berkeley.edu/cfrm-conference/speakers/</loc></url>
+<url><loc>https://haas.berkeley.edu/cfrm-conference/sponsors/</loc></url>
 <url><loc>https://haas.berkeley.edu/cfrm-conference/travel-logistics/</loc></url>
 <url><loc>https://haas.berkeley.edu/cmg/</loc></url>
 <url><loc>https://haas.berkeley.edu/cmg/career-essentials/</loc></url>
@@ -823,11 +825,13 @@
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/new-faculty-orientation/workshop-archive/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/</loc></url>
+<url><loc>https://haas.berkeley.edu/cte/teaching-resources/cle-workshop-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/continuous-learning-events-workshop-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/instructional-support/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/key-teaching-topics-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/reference-library/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/top-teachers-short-videos/</loc></url>
+<url><loc>https://haas.berkeley.edu/cte/teaching-resources/workshops-and-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/culture/</loc></url>
 <url><loc>https://haas.berkeley.edu/culture/about/</loc></url>
 <url><loc>https://haas.berkeley.edu/culture/about/advisory-boards/</loc></url>
@@ -3768,7 +3772,6 @@
 <url><loc>https://haas.berkeley.edu/faculty-research/seminars/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty-research/teaching-awards/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty-research/teaching-awards/previous-awards/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty-research/visiting-executives-and-scholars/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/abraham-ringer/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/ada-kwan/</loc></url>
@@ -3892,6 +3895,8 @@
 <url><loc>https://haas.berkeley.edu/faculty/douglas-r-guilbeault/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/doy-charnsupharindr/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/drew-mcarthur/</loc></url>
+<url><loc>https://haas.berkeley.edu/faculty/drew-n-brown/</loc></url>
+<url><loc>https://haas.berkeley.edu/faculty/drew-s-jacoby-senghor/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/dutta-sunil/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/dwyer-diane/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/eben-lazarus/</loc></url>
@@ -4009,7 +4014,6 @@
 <url><loc>https://haas.berkeley.edu/faculty/jonathan-kolstad/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/jonathan-weigel/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/joshua-e-blumenstock/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/joshua-white/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/jules-maltz/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/julia-schaletzky/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/jung-koo-kang/</loc></url>
@@ -4018,7 +4022,6 @@
 <url><loc>https://haas.berkeley.edu/faculty/k-mackenzie-scott/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/kai-adams/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/kamada-yuichiro/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/karline-grodal/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/kass-edward/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/katherine-melchior-ray/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/kathy-copic/</loc></url>
@@ -4123,6 +4126,7 @@
 <url><loc>https://haas.berkeley.edu/faculty/nick-tsivanidis/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nikita-kohli/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nils-hellmer/</loc></url>
+<url><loc>https://haas.berkeley.edu/faculty/nina-roussille/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nirupama-kulkarni/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/nitin-kohli/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/noam-yuchtman/</loc></url>
@@ -6245,6 +6249,7 @@
 <url><loc>https://haas.berkeley.edu/staff-productivity/</loc></url>
 <url><loc>https://haas.berkeley.edu/staff-productivity/community/</loc></url>
 <url><loc>https://haas.berkeley.edu/staff-productivity/community/connect/</loc></url>
+<url><loc>https://haas.berkeley.edu/staff-productivity/community/pathways/</loc></url>
 <url><loc>https://haas.berkeley.edu/staff-productivity/community/prompt-library/</loc></url>
 <url><loc>https://haas.berkeley.edu/staff-productivity/community/rsvp-tool/</loc></url>
 <url><loc>https://haas.berkeley.edu/staff-productivity/community/solution-library/</loc></url>
