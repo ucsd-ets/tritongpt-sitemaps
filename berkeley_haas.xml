@@ -107,6 +107,7 @@
 <url><loc>https://haas.berkeley.edu/academic-area/entrepreneurship-and-innovation/</loc></url>
 <url><loc>https://haas.berkeley.edu/academic-area/finance/</loc></url>
 <url><loc>https://haas.berkeley.edu/academic-area/fintech/</loc></url>
+<url><loc>https://haas.berkeley.edu/academic-area/food-systems/</loc></url>
 <url><loc>https://haas.berkeley.edu/academic-area/garwood-center-for-corporate-innovation/</loc></url>
 <url><loc>https://haas.berkeley.edu/academic-area/graduate-program-in-health-management/</loc></url>
 <url><loc>https://haas.berkeley.edu/academic-area/innovation-and-design/</loc></url>
@@ -162,6 +163,7 @@
 <url><loc>https://haas.berkeley.edu/ai-living-lab/events/</loc></url>
 <url><loc>https://haas.berkeley.edu/ai-living-lab/for-students/</loc></url>
 <url><loc>https://haas.berkeley.edu/ai-living-lab/research/</loc></url>
+<url><loc>https://haas.berkeley.edu/ai-living-lab/research/research-grant-program/</loc></url>
 <url><loc>https://haas.berkeley.edu/ai/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/alumni-network/</loc></url>
@@ -829,7 +831,6 @@
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/continuous-learning-events-workshop-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/instructional-support/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/key-teaching-topics-2/</loc></url>
-<url><loc>https://haas.berkeley.edu/cte/teaching-resources/reference-library/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/top-teachers-short-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/cte/teaching-resources/workshops-and-videos/</loc></url>
 <url><loc>https://haas.berkeley.edu/culture/</loc></url>
@@ -1797,10 +1798,10 @@
 <url><loc>https://haas.berkeley.edu/equity/courses/</loc></url>
 <url><loc>https://haas.berkeley.edu/equity/courses/executive-education/</loc></url>
 <url><loc>https://haas.berkeley.edu/equity/courses/leadership-academy-for-womens-sports/</loc></url>
-<url><loc>https://haas.berkeley.edu/equity/donate/</loc></url>
 <url><loc>https://haas.berkeley.edu/equity/education/</loc></url>
 <url><loc>https://haas.berkeley.edu/equity/education/consulting-projects-courses/</loc></url>
 <url><loc>https://haas.berkeley.edu/equity/events/</loc></url>
+<url><loc>https://haas.berkeley.edu/equity/impact/</loc></url>
 <url><loc>https://haas.berkeley.edu/equity/industry/</loc></url>
 <url><loc>https://haas.berkeley.edu/equity/industry/efl-knowledge-bank/</loc></url>
 <url><loc>https://haas.berkeley.edu/equity/industry/efl-knowledge-bank/business-case-for-diversity/</loc></url>
@@ -3768,7 +3769,6 @@
 <url><loc>https://haas.berkeley.edu/faculty-research/nobel-laureates/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty-research/public-policy/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty-research/research-institutes-and-centers/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty-research/research-labs/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty-research/seminars/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty-research/teaching-awards/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty-research/teaching-awards/previous-awards/</loc></url>
@@ -4014,6 +4014,7 @@
 <url><loc>https://haas.berkeley.edu/faculty/jonathan-kolstad/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/jonathan-weigel/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/joshua-e-blumenstock/</loc></url>
+<url><loc>https://haas.berkeley.edu/faculty/joshua-white/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/jules-maltz/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/julia-schaletzky/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/jung-koo-kang/</loc></url>
@@ -4022,6 +4023,7 @@
 <url><loc>https://haas.berkeley.edu/faculty/k-mackenzie-scott/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/kai-adams/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/kamada-yuichiro/</loc></url>
+<url><loc>https://haas.berkeley.edu/faculty/karline-grodal/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/kass-edward/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/katherine-melchior-ray/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/kathy-copic/</loc></url>
@@ -4044,7 +4046,6 @@
 <url><loc>https://haas.berkeley.edu/faculty/laura-chioda/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/laura-paxton-hassner/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/laura-weiwu/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/leah-spelman/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/lee-thomas/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/leipzig-adam/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/leland-hayne/</loc></url>
@@ -4071,7 +4072,6 @@
 <url><loc>https://haas.berkeley.edu/faculty/marcel-bogers/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/marcelo-olivares/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/marco-gonzalez-navarro/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/margaret-lee/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/maria-dieci/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/marianna-kudlyak/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/mario-alvarez/</loc></url>
@@ -4294,6 +4294,7 @@
 <url><loc>https://haas.berkeley.edu/faculty/zand-arman/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/zhang-xiaojun/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/zoe-kahn/</loc></url>
+<url><loc>https://haas.berkeley.edu/faculty</loc></url>
 <url><loc>https://haas.berkeley.edu/finance-office/</loc></url>
 <url><loc>https://haas.berkeley.edu/finance-office/about-us/</loc></url>
 <url><loc>https://haas.berkeley.edu/finance-office/budget/</loc></url>
