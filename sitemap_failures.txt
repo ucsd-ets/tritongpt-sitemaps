@@ -8,12 +8,6 @@ Domain: https://vcresearch.berkeley.edu
   Difference: N/A (100.0%)
   Threshold: N/A
 
-Domain: https://www.sdsc.edu
-  Old URL count: N/A
-  New URL count: 0
-  Difference: N/A (100.0%)
-  Threshold: N/A
-
 ================================================================================
-Total failures: 2
+Total failures: 1
 ================================================================================
