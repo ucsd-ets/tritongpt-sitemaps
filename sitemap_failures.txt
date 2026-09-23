@@ -8,6 +8,12 @@ Domain: https://vcresearch.berkeley.edu
   Difference: N/A (100.0%)
   Threshold: N/A
 
+Domain: https://begin.berkeley.edu
+  Old URL count: 452
+  New URL count: 685
+  Difference: 233 (51.5%)
+  Threshold: 50%
+
 ================================================================================
-Total failures: 1
+Total failures: 2
 ================================================================================
