@@ -122,11 +122,11 @@
 <url><loc>https://vcresearch.berkeley.edu/facilities/pines-magnetic-resonance-center-core-nmr-facility</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/facilities/qb3-biomolecular-nanotechnology-center-bnc</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/facilities/qb3-cell-and-tissue-analysis-facility-ctaf</loc></url>
-<url><loc>https://vcresearch.berkeley.edu/facilities/qb3-chemistry-mass-spectrometry-facility</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/facilities/qb3-garageberkeley</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/facilities/qb3-genomics</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/facilities/qb3-high-throughput-screening-facility-htsf</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/facilities/qb3-macrolab</loc></url>
+<url><loc>https://vcresearch.berkeley.edu/facilities/qb3-mass-spectrometry-facility</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/facilities/qb3-vincent-j-coates-proteomicsmass-spectrometry-laboratory</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/facilities/school-public-health-biorepository</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/facilities/space-sciences-laboratory</loc></url>
@@ -2039,6 +2039,7 @@
 <url><loc>https://vcresearch.berkeley.edu/how/vcr-units/vcro-hr-resources/research-spot-awards-program</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/innovation</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/international</loc></url>
+<url><loc>https://vcresearch.berkeley.edu/key-points-new-federal-guidance-generative-ai</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/login-denied</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/logoutfaculty</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/macarthur-foundations-100change-competition</loc></url>
@@ -2194,6 +2195,7 @@
 <url><loc>https://vcresearch.berkeley.edu/news/analysis-finds-steep-increase-self-harm-among-california-girls</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/analysis-global-fire-risk-shows-big-fast-changes-ahead</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/analysis-reveals-global-hot-spots-where-new-coronaviruses-may-emerge</loc></url>
+<url><loc>https://vcresearch.berkeley.edu/news/ancient-ancestor-crispr-powerful-genomic-tool</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/ancient-beaches-testify-long-ago-ocean-mars</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/ancient-lore-meets-small-town-politics-why-fans-love-widows-bay</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/andrew-dillin-shares-lurie-prize-work-aging</loc></url>
@@ -2302,6 +2304,7 @@
 <url><loc>https://vcresearch.berkeley.edu/news/berkeley-alums-develop-home-robotic-rehabilitation-device</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/berkeley-among-top-us-universities-upward-mobility</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/berkeley-anthropologist-honored-2017-huxley-award</loc></url>
+<url><loc>https://vcresearch.berkeley.edu/news/berkeley-artist-rethinks-our-relationship-water</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/berkeley-astronomers-put-new-space-telescope-through-its-paces</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/berkeley-astronomers-selected-take-new-space-telescope-spin</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/berkeley-astrophysicist-awarded-work-supernovae</loc></url>
@@ -3149,6 +3152,7 @@
 <url><loc>https://vcresearch.berkeley.edu/news/eighth-crispr-patent-issued-us-seven-more-soon-come</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/einsteinhomes-pulsar-discovery-proves-value-volunteer-computing</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/el-nino-has-effects-all-way-edge-atmosphere</loc></url>
+<url><loc>https://vcresearch.berkeley.edu/news/el-nino-heat-could-claim-451000-lives-through-february</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/elders-use-brain-networks-differently-short-term-recall</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/election-2020-pandemic-changes-everything</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/election-2024-berkeley-scholars-explore-complex-dynamics-historic-campaign</loc></url>
@@ -3195,6 +3199,7 @@
 <url><loc>https://vcresearch.berkeley.edu/news/eric-brewer-receive-150000-acm-infosys-foundation-award-scalable-web-technology</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/err-human-and-age-ai-it-may-be-humanizing</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/error-climate-treaties-could-lead-more-deforestation</loc></url>
+<url><loc>https://vcresearch.berkeley.edu/news/eruption-destroyed-pompeii-helping-scientists-date-earths-history</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/escape-room-families-teaches-fundamentals-evolution</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/essential-lesson-japan-quake-us</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/european-patent-office-grant-uc-broad-patent-crispr-cas9</loc></url>
@@ -3588,6 +3593,7 @@
 <url><loc>https://vcresearch.berkeley.edu/news/how-greek-myths-and-hollywood-can-help-us-understand-ai-today</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/how-hedge-funds-use-satellite-images-beat-wall-street-and-main-street</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/how-housing-production-policies-impact-displacement</loc></url>
+<url><loc>https://vcresearch.berkeley.edu/news/how-human-brain-tissue-revealing-causes-childhood-epilepsy</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/how-hummingbirds-shake-rain</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/how-i-approve-tagline-boosts-nasty-political-ads</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/how-immune-system-identifies-invading-bacteria</loc></url>
@@ -3648,6 +3654,7 @@
 <url><loc>https://vcresearch.berkeley.edu/news/hubble-peers-through-cosmic-lens-capture-most-distant-star-ever-seen</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/huge-bacteria-eating-viruses-narrow-gap-between-life-and-non-life</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/human-faces-are-so-variable-because-we-evolved-look-unique</loc></url>
+<url><loc>https://vcresearch.berkeley.edu/news/human-rights-center-researchers-impacts-large-language-models</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/human-rights-report-calls-reparations-khmer-rouge-victims</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/human-security-risk-depletion-soil-accelerates-scientists-warn</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/humans-built-gps-our-3-d-sense-smell</loc></url>
@@ -4116,6 +4123,7 @@
 <url><loc>https://vcresearch.berkeley.edu/news/new-chain-mail-material-interlocking-molecules-tough-flexible-and-easy-make</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/new-chairholder-appointed-samsung-distinguished-chair-nanoscience-and-nanotechnology-research</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/new-chip-could-lead-cheaper-and-better-medical-imaging-devices-and-self-driving-cars</loc></url>
+<url><loc>https://vcresearch.berkeley.edu/news/new-close-view-electrons-inside-semiconductors</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/new-cltc-report-provides-framework-managing-risks-agentic-ai</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/new-computer-vision-based-system-monitors-seasonal-dynamics-tropical-water</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/new-course-brings-harry-edwards-sociology-sport-next-generation</loc></url>
@@ -4244,6 +4252,7 @@
 <url><loc>https://vcresearch.berkeley.edu/news/new-study-debunks-myth-cahokias-native-american-lost-civilization</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/new-study-evaluates-noaas-wildfire-smoke-forecasting-model</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/new-study-examines-drivers-government-investment-energy-innovation</loc></url>
+<url><loc>https://vcresearch.berkeley.edu/news/new-study-links-deep-sleep-loss-alzheimers-related-protein-buildup</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/new-study-links-la-unifieds-new-schools-elementary-student-performance-benefits</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/new-study-reveals-how-fences-hinder-migratory-wildlife-west</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/new-study-shows-all-one-coronavirus-vaccines-could-save-millions-lives-future-pandemics</loc></url>
@@ -4652,6 +4661,7 @@
 <url><loc>https://vcresearch.berkeley.edu/news/rare-use-blue-pigment-found-ancient-mummy-portraits</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/rats-prefer-help-their-own-kind-humans-may-be-similarly-wired</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/raw-data-show-ai-signals-mirror-how-brain-listens-and-learns</loc></url>
+<url><loc>https://vcresearch.berkeley.edu/news/read-2000-year-old-burned-scrolls-scientists-burn-their-own</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/reading-life-history-45-billion-year-old-meteorite</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/real-culprit-behind-hardened-arteries-stem-cells-says-landmark-study</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/real-story-behind-ab-32</loc></url>
@@ -4675,6 +4685,7 @@
 <url><loc>https://vcresearch.berkeley.edu/news/rehabilitating-lactate-poison-cure</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/reinventing-wheel</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/release-data-and-algorithms-work-case-worker-technology-rights</loc></url>
+<url><loc>https://vcresearch.berkeley.edu/news/reliable-electricity-linked-fewer-patient-deaths-healthcare-facilities</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/remembering-history-polio-can-help-finding-coronavirus-vaccine</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/remembrances-things-past-berkeley-lab-researchers-discover-nanoscale-shape-memory-oxide</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/remote-sensing-places-nature-our-fingertips</loc></url>
@@ -5514,6 +5525,7 @@
 <url><loc>https://vcresearch.berkeley.edu/news/uc-berkeley-school-public-health-launches-center-health-innovations-and-entrepreneurship</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/uc-berkeley-school-public-health-receives-nih-grant-hiv-prevention-zimbabwe</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/uc-berkeley-scientist-patrick-gonzalez-advise-white-house-climate-change-and-biodiversity</loc></url>
+<url><loc>https://vcresearch.berkeley.edu/news/uc-berkeley-scientists-find-carbon-cycle-hiding-desert-minerals</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/uc-berkeley-scientists-lead-nasas-newest-space-telescope</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/uc-berkeley-scientists-spin-robotic-covid-19-testing-lab</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/uc-berkeley-scientists-work-doe-labs-produce-more-nuclear-security-experts</loc></url>
@@ -5648,6 +5660,7 @@
 <url><loc>https://vcresearch.berkeley.edu/news/volcanic-eruption-severed-communications-tonga-reason-lay-deep-under-sea</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/voters-act-performance-not-policy-new-book-says</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/voting-scenario-startup-wins-citris-big-ideas-prize</loc></url>
+<url><loc>https://vcresearch.berkeley.edu/news/w-kamau-bell-ai-creativity-and-resisting-pull-automation</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/w-m-keck-foundation-awards-grants-seven-faculty</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/wall-street-protests-echo-researchers-findings-growing-income-gap</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/want-clean-environment-make-credit-easier-get</loc></url>
@@ -5671,6 +5684,7 @@
 <url><loc>https://vcresearch.berkeley.edu/news/watch-decode-chatter-birds-berkeley-neuroscientist</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/watch-economics-professor-explain-foreign-aid-101-seconds</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/watch-environmental-health-professor-explain-wastewater-woes</loc></url>
+<url><loc>https://vcresearch.berkeley.edu/news/watch-history-capitalism-101-seconds</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/watch-how-enjoy-gel-nails-without-fear-uv-skin-damage</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/watch-professor-explain-agroecology-101-seconds</loc></url>
 <url><loc>https://vcresearch.berkeley.edu/news/watch-professor-explain-community-engaged-research-101-seconds</loc></url>
