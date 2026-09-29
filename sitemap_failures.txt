@@ -3,10 +3,10 @@ SITEMAP GENERATION FAILURES:
 ================================================================================
 
 Domain: https://vcresearch.berkeley.edu
-  Old URL count: 6080
-  New URL count: 2000
-  Difference: 4080 (67.1%)
-  Threshold: 50%
+  Old URL count: N/A
+  New URL count: 0
+  Difference: N/A (100.0%)
+  Threshold: N/A
 
 Domain: https://begin.berkeley.edu
   Old URL count: 452
