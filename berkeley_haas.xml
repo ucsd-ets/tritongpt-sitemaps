@@ -171,12 +171,8 @@
 <url><loc>https://haas.berkeley.edu/alumni/alumni-network/affinitygroups/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/alumni-network/bcemba/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/alumni-network/chapters/</loc></url>
-<url><loc>https://haas.berkeley.edu/alumni/alumni-network/community/by-haas/</loc></url>
-<url><loc>https://haas.berkeley.edu/alumni/alumni-network/community/by-haas/books/</loc></url>
-<url><loc>https://haas.berkeley.edu/alumni/alumni-network/community/by-haas/products/</loc></url>
-<url><loc>https://haas.berkeley.edu/alumni/alumni-network/community/by-haas/wines/</loc></url>
-<url><loc>https://haas.berkeley.edu/alumni/alumni-network/community/publications/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/alumni-network/connections-alumni-email-services/</loc></url>
+<url><loc>https://haas.berkeley.edu/alumni/alumni-network/deans-alumni-board/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/alumni-network/explore/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/alumni-network/linkedin-alumni-tool/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/alumni-network/my-berkeley/</loc></url>
@@ -205,7 +201,6 @@
 <url><loc>https://haas.berkeley.edu/alumni/career/undergraduate-and-graduate/advising-coaching/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/career/undergraduate-and-graduate/mid-career-resources/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/career/undergraduate-and-graduate/tools-resources/</loc></url>
-<url><loc>https://haas.berkeley.edu/alumni/connections/chapters/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/connections/slack-workspace/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/contact-us/</loc></url>
 <url><loc>https://haas.berkeley.edu/alumni/contact-us/leadership/</loc></url>
@@ -1704,12 +1699,14 @@
 <url><loc>https://haas.berkeley.edu/energy-institute/research/borenstein-solar-panels-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/borenstien-energy-storage/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/calpower/</loc></url>
+<url><loc>https://haas.berkeley.edu/energy-institute/research/campbell-renewable-resources-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/csem-working-papers/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/csem-working-papers/wp-194/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/essential-blog-posts/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/jim-bushnell-on-californias-power-alerts/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/joe-shapiro-polluting-industries-studies/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/meredith-fowlie-environmental-regulation-justicellution-reduction/</loc></url>
+<url><loc>https://haas.berkeley.edu/energy-institute/research/meredith-fowlie-on-the-legacy-of-enron-in-californias-power-challenges/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/severin-borenstein-gas-california-2/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/severin-borenstein-on-gas-prices-in-california/</loc></url>
 <url><loc>https://haas.berkeley.edu/energy-institute/research/severin-borenstein-power-grid-drought/</loc></url>
@@ -3394,6 +3391,7 @@
 <url><loc>https://haas.berkeley.edu/event/uc-alumni-uk-network-kick-off-feat-artist-alumna-francesca-hummler/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/uc-berkeley-college-of-chemistry-applications-of-data-science-and-informatics/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/uc-berkeley-haas-5th-annual-virtual-alumni-diversity-forum/</loc></url>
+<url><loc>https://haas.berkeley.edu/event/uc-berkeley-haas-6th-annual-virtual-alumni-diversity-forum/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/uc-berkeley-haas-berkeley-in-tokyo-ai-insights-networking-for-business-leaders/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/uc-berkeley-haas-blockchain-digital-frontier-summit/</loc></url>
 <url><loc>https://haas.berkeley.edu/event/uc-berkeley-haas-diversity-symposium-welcome-reception-2/</loc></url>
@@ -4048,6 +4046,7 @@
 <url><loc>https://haas.berkeley.edu/faculty/metzler-jon/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/meyebinesso-farida-carelle-pere/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/meyer-alison/</loc></url>
+<url><loc>https://haas.berkeley.edu/faculty/michael-callen/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/mike-katz/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/miller-conrad/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/mina-mirazimi/</loc></url>
@@ -4086,7 +4085,6 @@
 <url><loc>https://haas.berkeley.edu/faculty/opdendyk-terry/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/osbert-bastani/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/pablo-a-celhay/</loc></url>
-<url><loc>https://haas.berkeley.edu/faculty/pablo-balan/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/panos-n-patatoukas/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/paolinda-medina/</loc></url>
 <url><loc>https://haas.berkeley.edu/faculty/park-sinchaisri/</loc></url>
@@ -5434,10 +5432,12 @@
 <url><loc>https://haas.berkeley.edu/responsible-business/about/our-team/amber-van-meter/</loc></url>
 <url><loc>https://haas.berkeley.edu/responsible-business/about/our-team/dara-mckenzie/</loc></url>
 <url><loc>https://haas.berkeley.edu/responsible-business/about/our-team/emily-pelissier/</loc></url>
+<url><loc>https://haas.berkeley.edu/responsible-business/about/our-team/faris-natour/</loc></url>
 <url><loc>https://haas.berkeley.edu/responsible-business/about/our-team/gina-asoudegan/</loc></url>
 <url><loc>https://haas.berkeley.edu/responsible-business/about/our-team/nathalie-munoz/</loc></url>
 <url><loc>https://haas.berkeley.edu/responsible-business/about/our-team/persis-sberlo/</loc></url>
 <url><loc>https://haas.berkeley.edu/responsible-business/about/our-team/robert-strand/</loc></url>
+<url><loc>https://haas.berkeley.edu/responsible-business/about/our-team/seren-pendleton-knoll/</loc></url>
 <url><loc>https://haas.berkeley.edu/responsible-business/about/work-with-us/</loc></url>
 <url><loc>https://haas.berkeley.edu/responsible-business/blog/</loc></url>
 <url><loc>https://haas.berkeley.edu/responsible-business/blog/posts-tag/15-stories-of-impact/</loc></url>
