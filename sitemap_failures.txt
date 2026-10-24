@@ -4,8 +4,8 @@ SITEMAP GENERATION FAILURES:
 
 Domain: https://www.law.berkeley.edu
   Old URL count: 8932
-  New URL count: 13981
-  Difference: 5049 (56.5%)
+  New URL count: 13979
+  Difference: 5047 (56.5%)
   Threshold: 50%
 
 Domain: https://begin.berkeley.edu
