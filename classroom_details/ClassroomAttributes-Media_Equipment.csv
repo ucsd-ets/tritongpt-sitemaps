@@ -1814,10 +1814,10 @@ Tracking camera
 ",Yes,Yes,"Ethernet
 Wireless
 "
-Asante House Meeting Rooms,123A,ASANT 123A,1,715,25,Open Lab - Restricted,No,Yes,None,None,None,No,None,N/A,Electric,"7' 10""",N/A,None,None,N,Yes,None
-Asante House Meeting Rooms,123B,ASANT 123B,1,659,34,Open Lab - Restricted,No,Yes,None,None,None,No,None,N/A,Manual,"7' 10""",N/A,None,None,N,Yes,None
-Asante House Meeting Rooms,123C,ASANT 123C,1,721,34,Open Lab - Restricted,No,Yes,None,None,None,No,None,N/A,Manual,"7' 10""",N/A,None,None,N,Yes,None
-Asante House Meeting Rooms,123D,ASANT 123D,1,663,20,Open Lab - Restricted,No,Yes,None,None,None,No,"Wireless
+Asante House Meeting Rooms,123A,ASANT 123A,1,715,25,Seminar Room,No,Yes,None,None,None,No,None,N/A,Electric,"7' 10""",N/A,None,None,N,Yes,None
+Asante House Meeting Rooms,123B,ASANT 123B,1,659,34,Seminar Room,No,Yes,None,None,None,No,None,N/A,Manual,"7' 10""",N/A,None,None,N,Yes,None
+Asante House Meeting Rooms,123C,ASANT 123C,1,721,34,Seminar Room,No,Yes,None,None,None,No,None,N/A,Manual,"7' 10""",N/A,None,None,N,Yes,None
+Asante House Meeting Rooms,123D,ASANT 123D,1,663,20,Seminar Room,No,Yes,None,None,None,No,"Wireless
 ",N/A,Manual,"7' 10""",N/A,None,None,N,Yes,None
 Leichtag Family Foundation Biomedical Research Building,105,LEICHTAG 105,1,112,0,Conference Room Service,No,No,None,None,None,No,None,None,N/A,N/A,N/A,None,None,N,No,"Wireless
 "
