@@ -105,7 +105,7 @@ W - White 6' x 4' (2)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, 
 Coalition,B26,COA B26,B,1512,60,Classroom,Yes,Yes,No,T - Tile,"M - Movable
 FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
 W - White 6' x 4' (2)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
-Coalition,B27,COA B27,B,1297,100,Lecture Hall,Yes,Yes,No,T - Tile,"M - Movable
+Coalition,B27,COA B27,B,2498,100,Lecture Hall,Yes,Yes,No,T - Tile,"M - Movable
 FL - Flexible",Yes,No,"C - Chalk 14' x 4' (4)
 W - White 6' x 4' (2)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
 Coalition,B30,COA B30,B,1454,58,Classroom,Yes,Yes,No,T - Tile,"M - Movable
@@ -127,16 +127,10 @@ W - White 6' x 4' (2)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, 
 Coalition,124,COA 124,1,1062,40,Classroom,Yes,Yes,No,T - Tile,"M - Movable
 FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
 W - White 6' x 4' (2)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
-Coalition,125,COA 125,1,1379,110,Lecture Hall,Yes,Yes,No,T - Tile,"M - Movable
+Coalition,125,COA 125,1,2461,110,Lecture Hall,Yes,Yes,No,T - Tile,"M - Movable
 FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
 W - White 6' x 4' (1)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
-Coalition,126,COA 126,1,1067,0,Classroom,Yes,Yes,No,T - Tile,"M - Movable
-FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
-W - White 6' x 4' (1)",Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
-Coalition,127,COA 127,1,1343,104,Lecture Hall,Yes,Yes,No,T - Tile,"M - Movable
-FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
-W - White 6' x 4' (1)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
-Coalition,128,COA 128,1,1244,0,Classroom,Yes,Yes,No,T - Tile,"M - Movable
+Coalition,127,COA 127,1,2601,104,Lecture Hall,Yes,Yes,No,T - Tile,"M - Movable
 FL - Flexible",Yes,No,"C - Chalk 14' x 4' (2)
 W - White 6' x 4' (1)",Yes (>12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1
 Coalition,130,COA 130,1,2398,140,Lecture Hall,Yes,Yes,No,T - Tile,F - Fixed,Yes,Yes,C - Chalk 8' x 4' (4),Limited (8-12'),F - Fair,Good,N/A,,,LED,"FS-P - Freestanding, anchored to floor",1 (Station),A - Analog,1

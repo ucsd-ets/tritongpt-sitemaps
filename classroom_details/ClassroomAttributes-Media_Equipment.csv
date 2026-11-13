@@ -451,7 +451,7 @@ Audio (audience ceiling mic)
 ",Yes,No,"Ethernet
 Wireless
 "
-Coalition,B27,COA B27,B,1297,100,Lecture Hall,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+Coalition,B27,COA B27,B,2498,100,Lecture Hall,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
 VHS Player available upon request
 ","HDMI
 USB C
@@ -567,7 +567,7 @@ Audio (lapel or over-the-ear mic)
 ",Yes,No,"Ethernet
 Wireless
 "
-Coalition,125,COA 125,1,1379,110,Lecture Hall,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+Coalition,125,COA 125,1,2461,110,Lecture Hall,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
 VHS Player available upon request
 ","HDMI
 USB C
@@ -584,24 +584,7 @@ Audio (lapel or over-the-ear mic)
 ",Yes,No,"Ethernet
 Wireless
 "
-Coalition,126,COA 126,1,1067,0,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
-VHS Player available upon request
-","HDMI
-USB C
-iPod/MP3
-Wireless Video
-",Yes,"Wireless
-",High Definition,Electric,12',"Wall 80 (3) WI
-","Zoom Capable Room
-Camera and Microphone
-","Audio (lapel or over-the-ear mic)
-Audio (audience ceiling mic)
-Tracking camera
-Screen
-",Yes,No,"Ethernet
-Wireless
-"
-Coalition,127,COA 127,1,1343,104,Lecture Hall,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
+Coalition,127,COA 127,1,2601,104,Lecture Hall,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
 VHS Player available upon request
 ","HDMI
 USB C
@@ -615,23 +598,6 @@ Camera and Microphone
 Audio (lapel or over-the-ear mic)
 Tracking camera
 Audio (audience ceiling mic)
-",Yes,No,"Ethernet
-Wireless
-"
-Coalition,128,COA 128,1,1244,0,Classroom,Yes,Yes,Touchscreen with Annotation,"Blu-Ray Disc player, separate
-VHS Player available upon request
-","HDMI
-USB C
-iPod/MP3
-Wireless Video
-",Yes,"Wireless
-",High Definition,Electric,12',"Wall 80 (3) WI
-","Camera and Microphone
-Zoom Capable Room
-","Screen
-Audio (lapel or over-the-ear mic)
-Audio (audience ceiling mic)
-Tracking camera
 ",Yes,No,"Ethernet
 Wireless
 "
